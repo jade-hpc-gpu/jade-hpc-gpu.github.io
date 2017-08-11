@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Getting Started with R Markdown</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+<!-- CSS -->
+<link rel="stylesheet" href="/css/owl.carousel.css" />
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/css/airspace.css" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/ionicons.min.css" />
+<link rel="stylesheet" href="/css/animate.css" />
+<link rel="stylesheet" href="/css/responsive.css" />
+<link rel="stylesheet" href="/css/syntax.css" />
+
+<!-- Js -->
+<script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/min/waypoints.min.js"></script>
+<script src="/js/jquery.counterup.js"></script>
+
+<!-- Google Map -->
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="/js/google-map-init.js"></script>
+
+
+<script src="/js/main.js"></script>
+
+
+  </head>
+  <body>
+
+
+    <!-- Header Start -->
+<header>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!-- header Nav Start -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://jade.github.io/">
+              <img src="/img/jade-logo.png" alt="Logo">
+            </a>
+          </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="/">Home</a></li>
+               <!-- <li><a href="/tutorials">Tutorials</a></li>
+                <li><a href="http://localhost:4000//blog">Blog</a></li>-->
+                <li><a href="http://localhost:4000//consortium">Consortium</a></li>
+                <li><a href="http://localhost:4000//access">Access</a></li>
+                <li><a href="http://localhost:4000//news">News and Events</a></li>
+                <li><a href="http://localhost:4000//support">Support</a></li>
+                <li><a href="http://localhost:4000//links">Useful links</a></li>
+                <!--<li><a href="/contact">Contact</a></li>-->
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+      </div>
+    </div>
+  </div>
+</header><!-- header close -->
+
+
+
+    <div class="post">
+  <!-- Wrapper Start -->
+  <section id="intro" style="border: 1px dotted #ddd;">
+    <div class="container">
+      <div class="row">
+        <div>
+          <div class="block">
+            <h1>Getting Started with R Markdown</h1>
+            <div class="post-info-wrapper">
+              <p class="italic">By <span class="bold">John</span> on <span class="bold">November 24, 2016</span></p>
+            </div>
+            <hr />
+            <p><div class="block">
+	<center>
+		<img src="/img/tutheader_rmd.jpg" alt="Img" />
+	</center>
+</div>
+
+<h3 id="tutorial-aims">Tutorial Aims:</h3>
+
+<h4 id="1-learn-what-r-markdown-is-and-why-it-is-worth-using">1. Learn what R Markdown is and why it is worth using</h4>
+
+<h4 id="2-learn-how-to-construct-an-r-markdown-file">2. Learn how to construct an R Markdown file</h4>
+
+<h4 id="3-export-an-r-markdown-file-into-many-file-formats">3. Export an R Markdown file into many file formats</h4>
+
+<h3 id="steps">Steps:</h3>
+
+<h4 id="1-download-r-markdown-"><a href="#download">1. Download R Markdown </a></h4>
+
+<h4 id="2-create-an-r-markdown-rmd-file-"><a href="#create">2. Create an R Markdown (.Rmd) file </a></h4>
+
+<h4 id="3-identify-the-different-parts-of-a-rmd-file-"><a href="#identify">3. Identify the different parts of a .Rmd file </a></h4>
+
+<h4 id="4-insert-code-from-an-r-script-into-a-rmd-file-"><a href="#insert">4. Insert code from an R script into a .Rmd file </a></h4>
+
+<h4 id="5-create-a-reproducible-html-record-of-your-code"><a href="#reprod">5. Create a reproducible html record of your code</a></h4>
+
+<h4 id="6-create-a-pdf-file-from-your-rmd-file--"><a href="#pdf">6. Create a .pdf file from your .Rmd file  </a></h4>
+
+<h4 id="7-r-notebooks-the-future-of-reproducible-code-"><a href="#notebook">7. R Notebooks (The future of Reproducible code?) </a></h4>
+
+<p>All the resources for this tutorial, including some helpful cheatsheets can be downloaded from <a href="https://github.com/ourcodingclub/CC-2-RMarkdown">this repository</a>.</p>
+
+<p><strong>Read through this tutorial, then use the skills you have learned to convert the tutorial R script, <a href="https://github.com/ourcodingclub/CC-2-RMarkdown/blob/master/RMarkdown_Tutorial.R">which you can find here</a>, into a .Rmd document.</strong></p>
+
+<p><strong>Haven’t used R or RStudio before? No worries! Check out our <a href="https://ourcodingclub.github.io/2016/11/13/intro-to-r.html" target="_blank">Intro to R and RStudio tutorial</a>, and then come back here to master RMarkdown!</strong></p>
+
+<p>R Markdown allows you to create documents that serve as a neat record of your coding. The documents present your code alongside its output (graphs, tables, etc.) with conventional text to explain it.</p>
+
+<p>To see what R Markdown is capable of, have a look at this <a href="https://github.com/ourcodingclub/CC-2-RMarkdown/blob/master/UnderGrad_Dissertation_Rmd.pdf">undergraduate dissertation</a>, which gives a concise log of their statistical analysis, or the completed demo <a href="https://github.com/ourcodingclub/CC-2-RMarkdown/blob/master/RMarkdown_Tutorial_Demo_Rmd.Rmd">R Markdown file</a> for this tutorial.</p>
+
+<p>R Markdown uses <a href="http://www.markdowntutorial.com">markdown syntax</a>, which provides a simple way of creating documents that can be easily converted to .html, .pdf and many other file types, while being able to include pieces of code and the output of that code alongside normal prose.</p>
+
+<p><a name="download"></a></p>
+
+<h2 id="download-r-markdown">Download R Markdown</h2>
+<p>To get R Markdown working in RStudio the first thing you need is the rmarkdown package, which you can get from <a href="https://cran.r-project.org/web/packages/rmarkdown/index.html">CRAN</a>:</p>
+
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">install.packages</span><span class="p">(</span><span class="s2">"rmarkdown"</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">rmarkdown</span><span class="p">)</span><span class="w">
+</span></code></pre>
+</div>
+<p><a name="create"></a></p>
+
+<h2 id="create-an-r-markdown-file">Create an R Markdown file</h2>
+
+<p>To create a new R Markdown file (.Rmd), select <em>File -&gt; New File -&gt; R Markdown…</em> in RStudio, then choose the file type you want to create. For now we will focus on .html, which can be easily converted to other file types later.</p>
+
+<p>The newly created .Rmd file comes with basic instructions but we want to create our own R Markdown script, so go ahead and delete everything.</p>
+
+<p>Now download our <a href="https://github.com/ourcodingclub/CC-2-RMarkdown/blob/master/RMarkdown_Tutorial.R">Tutorial R script</a> and use the instructions below to help you convert this script into a coherent story.
+You can also use any other R script you have.
+<a name="identify"></a></p>
+
+<h2 id="r-markdown-syntax">R Markdown Syntax</h2>
+
+<h3 id="the-yaml-header">The YAML Header</h3>
+<p>At the top of any R Markdown script is a <code class="highlighter-rouge">YAML</code> header section enclosed by <code class="highlighter-rouge">---</code>. By default this includes a title, author, date, and the file type you want to output to. Many other options are available for different functions and formatting, see http://rmarkdown.rstudio.com/html_document_format.html for .html options and http://rmarkdown.rstudio.com/pdf_document_format.html for .pdf options. Rules in the header section apply to the whole document.</p>
+
+<p>Insert something like this at the top of your .Rmd script:</p>
+
+<pre><code class="language-{}">---
+title: "Edinburgh Biodiversity"
+author: John Doe
+date: 22/Oct/2016
+output: html_document
+---
+</code></pre>
+<p>By default, the title, author, date and output format are printed at the top of your .html document. This is the minimum you should put in your header section.</p>
+
+<p><a name="insert"></a></p>
+
+<h3 id="inserting-code">Inserting Code</h3>
+
+<p>Code that is included in your .Rmd document should be enclosed by three backwards apostrophes <code class="highlighter-rouge">```</code> (grave accents!):</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r}
+norm &lt;- rnorm(100, mean = 0, sd = 1)
+```
+</code></pre>
+</div>
+<p>Inside the curly brackets is a space where you can assign rules for that code chunk. The code chunk above says that the code is R code, we’ll get onto some other rules later.</p>
+
+<p>Alternatively, click the little green button with the yellow arrow to put a code chunk wherever your cursor is.</p>
+
+<p><img src="/img/Code_Chunk_Screenshot.jpg" alt="Img" /></p>
+
+<p>Have a go at copying and pasting some code from an R script into the .Rmd script using the syntax shown above.</p>
+
+<h3 id="more-on-code-chunks">More on Code Chunks</h3>
+<p>It’s important to remember when you are creating an Rmarkdown file that if you want to run code that refers to an object, for example:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r}
+plot(dataframe)
+```
+</code></pre>
+</div>
+<p>you must include instructions showing what <code class="highlighter-rouge">dataframe</code> is, just like in a normal R script.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r}
+A &lt;- c("a", "a", "b", "b")
+B &lt;- c(5, 10, 15, 20)
+dataframe &lt;- data.frame(A, B)
+plot(dataframe)
+```
+</code></pre>
+</div>
+<p>or if you are loading a dataframe from a csv file, you must include the code in the .Rmd, rather than just clicking Import Dataset in RStudio, replacing the file path below with your file path.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r}
+dataframe &lt;- read.csv("~/Desktop/Code/dataframe.csv")
+```
+</code></pre>
+</div>
+<p>Though if you don’t want that code to appear in the final document and just include the graph, then you can include <code class="highlighter-rouge">echo=FALSE</code> in the code chunk instructions.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r, echo=FALSE}
+A &lt;- c("a", "a", "b", "b")
+B &lt;- c(5, 10, 15, 20)
+dataframe &lt;- data.frame(A, B)
+plot(dataframe)
+```
+</code></pre>
+</div>
+
+<p>Similarly, if you want to perform any actions that require a package like <code class="highlighter-rouge">dplyr()</code> you must load the package in the .Rmd file. To stop an entire code chunk and its output from appearing in the final document, use <code class="highlighter-rouge">include=FALSE</code>:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r, include=FALSE}
+library(dplyr)
+```
+
+```{r, echo=FALSE}
+richness &lt;- 
+  edidiv %&gt;%
+    group_by(taxonGroup) %&gt;%
+    summarise(Species_richness = n_distinct(taxonName))
+```
+</code></pre>
+</div>
+
+<p><strong>REMEMBER: R Markdown doesn’t pay attention to anything you have loaded in other R scripts, you MUST load all objects and packages in the R Markdown script.</strong></p>
+
+<h3 id="more-code-chunk-instructions">More Code Chunk Instructions</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Rule</b></th>
+    <th class="tg-yw4l"><b>Example</b><br />(default)</th>
+    <th class="tg-yw4l"><b>Function</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">eval</td>
+    <td class="tg-yw4l">eval=TRUE</td>
+    <td class="tg-yw4l">Is the code run and the results included in the output?</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">include</td>
+    <td class="tg-yw4l">include=TRUE</td>
+    <td class="tg-yw4l">Are the code and the results included in the output (the code is still run)?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">echo</td>
+    <td class="tg-yw4l">echo=TRUE</td>
+    <td class="tg-yw4l">Is the code displayed alongside the results?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">warning</td>
+    <td class="tg-yw4l">warning=TRUE</td>
+    <td class="tg-yw4l">Are warning messages displayed?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">error</td>
+    <td class="tg-yw4l">error=FALSE</td>
+    <td class="tg-yw4l">Are error messages displayed?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">message</td>
+    <td class="tg-yw4l">message=TRUE</td>
+    <td class="tg-yw4l">Are messages displayed?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">tidy</td>
+    <td class="tg-yw4l">tidy=FALSE</td>
+    <td class="tg-yw4l">Is the code reformatted to make it look “tidy”?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">results</td>
+    <td class="tg-yw4l">results="markup"</td>
+    <td class="tg-yw4l"><b> How are results treated? </b> <br /> "hide" = no results <br />"asis" = results without formatting <br />"hold" = results only compiled at end of chunk (use if many commands act on one object)</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">cache</td>
+    <td class="tg-yw4l">cache=FALSE</td>
+    <td class="tg-yw4l">Are the results cached for future renders</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">comment</td>
+    <td class="tg-yw4l">comment="##"</td>
+    <td class="tg-yw4l">What character are comments prefaced with?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">fig.width, fig.height</td>
+    <td class="tg-yw4l">fig.width=7</td>
+    <td class="tg-yw4l">What width/height (in inches) are the plots?</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">fig.align</td>
+    <td class="tg-yw4l">fig.align="left"</td>
+    <td class="tg-yw4l">"left" "right" "center"</td>
+  </tr>
+</table>
+
+<h2 id="inserting-figures">Inserting Figures</h2>
+<p>Inserting a graph into R Markdown is easy, the difficult bit is adjusting the formatting.</p>
+
+<p>By default, .Rmd will place graphs by maximising their height while keeping them within the margins of the page and maintaining aspect ratio. If you have a particularly tall figure, this can mean a really huge graph. To manually set the figure dimensions, you can insert an instruction:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r, fig.width=2.5, fig.height=7.5}
+ggplot(...)
+```
+</code></pre>
+</div>
+
+<p>By default, figures are rendered as .png files by R Markdown, this can lead to loss of quality when your document is rescaled so you can change that to .svg, a vector file format by adding <code class="highlighter-rouge">dev='svg'</code> to the code chunk instruction section.</p>
+
+<h2 id="inserting-tables">Inserting Tables</h2>
+<p>While R Markdown can print the contents of a data frame easily by enclosing the name of the data frame in a code chunk…</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r}
+dataframe
+```
+</code></pre>
+</div>
+<p>… this can look a bit messy, especially with data frames with lots of columns. Including a formal table requires more effort.</p>
+
+<p>The most aesthetically pleasing and simple table formatting function I have found is <code class="highlighter-rouge">kable()</code> in the <code class="highlighter-rouge">knitr</code> package. The first argument tells kable to make a table out of the object <code class="highlighter-rouge">dataframe</code> and that numbers should have two significant figures.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r}
+library(knitr)
+kable(dataframe, digits = 2)
+```
+</code></pre>
+</div>
+
+<p>If you want a bit more control over the content of your table you can use <code class="highlighter-rouge">pander()</code> in the <code class="highlighter-rouge">pander package</code>. Imagine I want the 3rd column to appear in italics:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r}
+library(pander)
+emphasize.italics.cols(3) #Make the 3rd column italics
+pander(richness_abund) #Create the table
+```
+</code></pre>
+</div>
+
+<p>You can also manually create small tables using markdown syntax.</p>
+
+<p>For example:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| Plant | Temp. | Growth |
+|:------|:-----:|-------:|
+| A     | 20    | 0.65   |
+| B     | 20    | 0.95   |
+| C     | 20    | 0.15   |
+</code></pre>
+</div>
+
+<p>Will create something that looks like this:</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Plant</b></th>
+    <th class="tg-yw4l"><b>Temp.</b></th>
+    <th class="tg-yw4l"><b>Growth</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">A</td>
+    <td class="tg-yw4l">20</td>
+    <td class="tg-yw4l">0.65</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">B</td>
+    <td class="tg-yw4l">20</td>
+    <td class="tg-yw4l">0.95</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">C</td>
+    <td class="tg-yw4l">20</td>
+    <td class="tg-yw4l">0.15</td>
+  </tr>
+</table>
+
+<p>The <code class="highlighter-rouge">:-----:</code> tells markdown that the line above should be treated as a header and the lines below should be treated as the body of the table. Text alignment of the columns is set by the position of <code class="highlighter-rouge">:</code>:</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+  <th class="tg-yw4l"><b>Syntax</b></th>
+  <th class="tg-yw4l"><b>Alignment</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">`:----:`</td>
+    <td class="tg-yw4l">Centre</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">`:-----`</td>
+    <td class="tg-yw4l">Left</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">`-----:`</td>
+    <td class="tg-yw4l">Right</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">`------`</td>
+    <td class="tg-yw4l">Auto</td>
+  </tr>
+</table>
+
+<h2 id="formatting-text">Formatting Text</h2>
+<p>Markdown syntax can be used to change how text appears in your output file, here are a few common formatting commands:</p>
+
+<p><code class="highlighter-rouge">*Italic*</code></p>
+
+<p><em>Italic</em></p>
+
+<hr />
+
+<p><code class="highlighter-rouge">**Bold**</code></p>
+
+<p><strong>Bold</strong></p>
+
+<hr />
+
+<p>This is  `code` in text</p>
+
+<p>This is <code class="highlighter-rouge">code</code> in text</p>
+
+<hr />
+
+<p><code class="highlighter-rouge"># Header 1</code></p>
+
+<h1 id="header-1">Header 1</h1>
+
+<hr />
+
+<p><code class="highlighter-rouge">## Header 2</code></p>
+
+<h2 id="header-2">Header 2</h2>
+
+<p>Note that when a <code class="highlighter-rouge">#</code> symbol is placed inside a code chunk it acts as a normal R comment, but when placed in normal text it controls the header size.</p>
+
+<hr />
+
+<p><code class="highlighter-rouge">* Unordered list item</code></p>
+
+<li> Unordered list item </li>
+
+<hr />
+
+<p><code class="highlighter-rouge">1. Ordered list item</code></p>
+
+<ol>
+  <li>Ordered list item</li>
+</ol>
+
+<hr />
+
+<p><code class="highlighter-rouge">[Link](https://www.google.com)</code></p>
+
+<p><a href="https://www.google.com">Link</a></p>
+
+<hr />
+
+<p><code class="highlighter-rouge">$A = \pi \times r^{2}$</code></p>
+
+<p><img src="/img/Inline_eq_ex.png" alt="Img" style="width:175px" /></p>
+
+<p>The <code class="highlighter-rouge">$</code> symbols tell R markdown to use <a href="http://reu.dimacs.rutgers.edu/Symbols.pdf">LaTeX equation syntax</a>.</p>
+
+<p><a name="reprod"></a></p>
+
+<h2 id="compiling-an-r-markdown-file">Compiling an R Markdown file</h2>
+<p>Once you have finished creating a beautiful .Rmd script, you can make it into a .html file by first making sure all your code has been run:</p>
+
+<p><img src="/img/Run_Screenshot.jpg" alt="Img" /></p>
+
+<p>and then selecting <em>Knit HTML</em> in RStudio.</p>
+
+<p><img src="/img/Knit_HTML_Screenshot.jpg" alt="Img" /></p>
+
+<p>Not only does a preview appear in the <em>Viewer</em> window in RStudio but it also saves a .html file to your working directory. As ever, set your working directory location using:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>setwd("~/...")
+</code></pre>
+</div>
+<p>or find out what your working directory is using:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>getwd()
+</code></pre>
+</div>
+
+<p><a name="pdf"></a></p>
+
+<h2 id="creating-pdf-files-in-rmarkdown">Creating pdf files in Rmarkdown</h2>
+
+<p>To create .pdf documents for printing in A4 requires a bit more fiddling around. RStudio uses another document compiling system called [LaTeX] (http://www.latex-project.org).</p>
+
+<p>If you are using windows go to <a href="https://miktex.org/download">https://miktex.org/download</a> and download the appropriate “Complete MikTeX Installer” for your system, either 32-bit or 64-bit.</p>
+
+<p>If you are using a mac go to <a href="https://tug.org/mactex/mactex-download.html">https://tug.org/mactex/mactex-download.html</a> and download the “MacTeX.pkg”.</p>
+
+<p>This will install a version of LaTeX onto your system which R will then be able to call to compile the .pdf.</p>
+
+<p>Becoming familiar with <a href="https://tobi.oetiker.ch/lshort/lshort.pdf">LaTeX syntax</a> will give you a lot more options to make your R markdown .pdf look pretty, as LaTeX commands are mostly compatible with R markdown, though some googling is often required.</p>
+
+<h3 id="common-problems-when-compiling-a-pdf">Common problems when compiling a pdf</h3>
+
+<ul>
+  <li>Text is running off the page</li>
+</ul>
+
+<p>Add a global_options argument to your .Rmd file:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>```{r global_options, include = FALSE}
+knitr::opts_chunk$set(message=FALSE, 
+tidy.opts=list(width.cutoff=60)) 
+```
+</code></pre>
+</div>
+
+<p>This code chunk won’t be displayed in the final document due to the <code class="highlighter-rouge">include=FALSE</code> call and should be placed immediately after the YAML header to affect everything below that.</p>
+
+<p><code class="highlighter-rouge">tidy.opts=list(width.cutoff=60)</code> defines the margin cutoff point and wraps text to the next line, play with the value to get it right.</p>
+
+<hr />
+
+<ul>
+  <li>I lose my syntax highlighting</li>
+</ul>
+
+<p>Use the <code class="highlighter-rouge">xelatex</code> engine to compile your pdf</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>- - -
+author: John Doe
+output:
+	pdf_document: 
+		latex_engine: xelatex
+- - -
+</code></pre>
+</div>
+
+<p>By default, R markdown uses the base LaTeX, but this may limit certain options when it comes to formatting. There are lots of other engines to play around with as well.</p>
+
+<hr />
+
+<ul>
+  <li>My page margins are too big/small</li>
+</ul>
+
+<p>Add a <code class="highlighter-rouge">geometry</code> argument to the YAML header</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>- - - 
+title: "R Markdown Tutorial Demo"
+author: "John Godlee"
+date: "30/11/2016"
+mainfont: Arial
+output: pdf_document
+  html_document: default
+  word_document: default
+- - - 
+</code></pre>
+</div>
+
+<p>This is a LaTeX command.</p>
+
+<hr />
+
+<ul>
+  <li>My plot/table/code is split over two pages</li>
+</ul>
+
+<p>Add a page break before the dodgy element</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>\pagebreak
+```{r}
+Codey code code code
+```
+</code></pre>
+</div>
+
+<hr />
+
+<ul>
+  <li>I want to change the font</li>
+</ul>
+
+<p>Add a font argument to your header section</p>
+
+<pre><code class="language-{}">--- 
+title: "R Markdown Tutorial Demo"
+author: "John Godlee"
+date: "30/11/2016"
+mainfont: Arial
+output:
+  pdf_document:
+    latex_engine: xelatex
+
+--- 
+</code></pre>
+<p>This is a LaTeX command.</p>
+
+<p>Note that <code class="highlighter-rouge">pdf_document:</code> is tabbed and that <code class="highlighter-rouge">latex_engine: xelatex</code> is tabbed twice, this matters in the header section.</p>
+
+<h2 id="at-this-point-have-a-go-at-converting-the-tutorial-r-script-provided-here-into-a-rmd-document-using-the-information-above-as-a-guide">At this point, have a go at converting the tutorial R script <a href="https://github.com/ourcodingclub/CC-2-RMarkdown/blob/master/RMarkdown_Tutorial.R">provided here</a> into a .Rmd document using the information above as a guide.</h2>
+
+<h4 id="remember-that-a-good-r-markdown-document-should-provide-a-reproducible-log-of-your-code-properly-commented-and-with-subtitles-so-the-reader-knows-what-is-going-on">Remember that a good R markdown document should provide a reproducible log of your code, properly commented and with subtitles so the reader knows what is going on.</h4>
+
+<p><a name="notebook"></a></p>
+
+<h2 id="r-markdown-notebooks">R Markdown Notebooks</h2>
+<p>R Markdown requires you to output to a non-interactive file format like .html or .pdf. When presenting your code, this means you have to make a choice, do you want interactive but messy looking code (.Rmd) or non-interactive but neat looking code (.html, .pdf)?</p>
+
+<p>R notebooks provide a file format that combine the interactivity of a .Rmd file with the attractiveness of .html output.</p>
+
+<p>R notebooks output to the imaginatively named .nb.html format. .nb.html files can be loaded into a web browser to see the output, or loaded into a code editor like RStudio to see the code.</p>
+
+<p>Notebooks use the same syntax as .Rmd files so it is easy to copy and paste the script from a .Rmd into a Notebook. To create a new R Notebook file (.Rmd), select <em>File -&gt; New File -&gt; R Notebook</em>. Try and create a notebook from your newly created .Rmd file by copying and pasting the script. Alternatively, to turn any .Rmd file into an R notebook, add <code class="highlighter-rouge">html_notebook: default</code> under the <code class="highlighter-rouge">output:</code> argument in the YAML header. It’s okay if you have more than one output type, for example this code would give you a pdf and a R notebook.</p>
+
+<pre><code class="language-{}">--- 
+title: "R Markdown Tutorial Demo"
+author: "John Godlee"
+date: "30/11/2016"
+mainfont: Arial
+output:
+  pdf_document:
+    latex_engine: xelatex
+  html_notebook: default
+--- 
+</code></pre>
+
+<p>To output to .nb.html first make sure all your code chunks have been run:</p>
+
+<p><img src="/img/Notebook_Run.jpg" alt="Img" /></p>
+
+<p>then click <em>Preview</em>:</p>
+
+<p><img src="/img/Notebook_Preview.jpg" alt="Img" /></p>
+
+<p>Notice that with R Notebooks you can still output to .html or .pdf, the same as a .Rmd file.</p>
+
+<p>R notebooks have only been around for about a year so they’re not perfect yet, but may replace R markdown in the future for many applications.</p>
+
+<h2 id="have-a-go-at-converting-the-tutorial-r-script-provided-here-into-an-r-notebook-document-using-the-information-above-as-a-guide">Have a go at converting the tutorial R script <a href="https://github.com/ourcodingclub/CC-2-RMarkdown/blob/master/RMarkdown_Tutorial.R">provided here</a> into an R notebook document using the information above as a guide.</h2>
+
+<p><strong>Note: R Markdown Notebooks are only available in RStudio 1.0 or higher.</strong></p>
+
+<h1 id="tutorial-outcomes">Tutorial Outcomes:</h1>
+
+<h4 id="1-you-are-familiar-with-the-markdown-synthax-and-code-chunk-rules">1. You are familiar with the Markdown synthax and code chunk rules.</h4>
+
+<h4 id="2-you-can-include-figures-and-tables-in-your-markdown-reports">2. You can include figures and tables in your Markdown reports.</h4>
+
+<h4 id="3-you-can-create-r-markdown-files-and-export-them-to-pdf-or-html-files">3. You can create R Markdown files and export them to pdf or html files.</h4>
+
+<hr />
+
+<h3 id="bonus-task">Bonus task:</h3>
+
+<p>Either in a small group or on your own, convert one of the three demo R scripts into a well commented and easy to follow R Markdown document, or R Markdown Notebook. The files (‘RMarkdown_Demo_1.R’, ‘RMarkdown_Demo_2.R’, ‘RMarkdown_Demo_3.R’) can be found <a href="https://github.com/ourcodingclub/CC-2-RMarkdown">here</a>.</p>
+
+<hr />
+
+<hr />
+
+<h4 id="check-out-our-useful-links-page-where-you-can-find-loads-of-guides-and-cheatsheets">Check out our <a href="https://ourcodingclub.github.io/links/" target="_blank">Useful links</a> page where you can find loads of guides and cheatsheets.</h4>
+
+<h4 id="if-you-have-any-questions-about-completing-this-tutorial-please-contact-us-on-ourcodingclubgmailcom">If you have any questions about completing this tutorial, please contact us on ourcodingclub@gmail.com</h4>
+
+<h4 id="we-would-love-to-hear-your-feedback-on-the-tutorial-whether-you-did-it-in-the-classroom-or-online">We would love to hear your feedback on the tutorial, whether you did it in the classroom or online:</h4>
+
+<h4 id="httpswwwsurveymonkeycoukrf5pddhv"><a href="https://www.surveymonkey.co.uk/r/F5PDDHV">https://www.surveymonkey.co.uk/r/F5PDDHV</a></h4>
+
+<ul class="social-icons">
+	<li>
+		<h3>
+			<a href="https://twitter.com/our_codingclub" target="_blank">&nbsp;Follow our coding adventures on Twitter! <i class="fa fa-twitter"></i></a>
+		</h3>
+	</li>
+</ul>
+
+<h3 id="subscribe-to-our-mailing-list">  Subscribe to our mailing list:</h3>
+<div class="container">
+	<div class="block">
+        <!-- subscribe form start -->
+		<div class="form-group">
+			<form action="https://getsimpleform.com/messages?form_api_token=de1ba2f2f947822946fb6e835437ec78" method="post">
+			<div class="form-group">
+				<input type="text" class="form-control" name="Email" placeholder="Email" required="" />
+			</div>
+			<div>
+                        	<button class="btn btn-default" type="submit">Subscribe</button>
+                    	</div>
+                	</form>
+		</div>
+	</div>
+</div>
+
+</p>
+          </div>
+        </div><!-- .col-md-7 close -->
+      </div>
+    </div>
+  </section>
+</div>
+<p class="center-text" style="padding: 30px;">
+  <a href="/blog">Back to blog</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            <li><a href="/consortium">About Us</a></li>
+        <!--    <li><a href="/contact">Contact us</a></li>-->
+          </ul>
+        </div>
+        <p>Content by <a href="/about/">..</a>.</p>
+        <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    
+
+    </body>
+</html>
+

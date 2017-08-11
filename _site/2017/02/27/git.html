@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Intro to Github for version control</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+<!-- CSS -->
+<link rel="stylesheet" href="/css/owl.carousel.css" />
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/css/airspace.css" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/ionicons.min.css" />
+<link rel="stylesheet" href="/css/animate.css" />
+<link rel="stylesheet" href="/css/responsive.css" />
+<link rel="stylesheet" href="/css/syntax.css" />
+
+<!-- Js -->
+<script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/plugins.js"></script>
+<script src="/js/min/waypoints.min.js"></script>
+<script src="/js/jquery.counterup.js"></script>
+
+<!-- Google Map -->
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="/js/google-map-init.js"></script>
+
+
+<script src="/js/main.js"></script>
+
+
+  </head>
+  <body>
+
+
+    <!-- Header Start -->
+<header>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!-- header Nav Start -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://jade.github.io/">
+              <img src="/img/jade-logo.png" alt="Logo">
+            </a>
+          </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="/">Home</a></li>
+               <!-- <li><a href="/tutorials">Tutorials</a></li>
+                <li><a href="http://localhost:4000//blog">Blog</a></li>-->
+                <li><a href="http://localhost:4000//consortium">Consortium</a></li>
+                <li><a href="http://localhost:4000//access">Access</a></li>
+                <li><a href="http://localhost:4000//news">News and Events</a></li>
+                <li><a href="http://localhost:4000//support">Support</a></li>
+                <li><a href="http://localhost:4000//links">Useful links</a></li>
+                <!--<li><a href="/contact">Contact</a></li>-->
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+      </div>
+    </div>
+  </div>
+</header><!-- header close -->
+
+
+
+    <div class="post">
+  <!-- Wrapper Start -->
+  <section id="intro" style="border: 1px dotted #ddd;">
+    <div class="container">
+      <div class="row">
+        <div>
+          <div class="block">
+            <h1>Intro to Github for version control</h1>
+            <div class="post-info-wrapper">
+              <p class="italic">By <span class="bold">Gergana</span> on <span class="bold">February 27, 2017</span></p>
+            </div>
+            <hr />
+            <p><div class="block">
+	<center>
+		<img src="/img/tutheadergit.png" alt="Img" />
+	</center>
+</div>
+
+<h3 id="tutorial-aims">Tutorial Aims:</h3>
+
+<h4 id="-1-get-familiar-with-version-control"><a href="#version"> 1. Get familiar with version control</a></h4>
+
+<h4 id="-2-learn-to-use-rstudio-and-github-together"><a href="#github"> 2. Learn to use RStudio and Github together</a></h4>
+
+<p><a name="version"></a></p>
+
+<h3 id="what-is-version-control">What is version control?</h3>
+
+<p>Version control allows you to keep track of your work and helps you to easily explore what changes you have made, be it data, coding scripts, or papers. You are probably already doing some type of version control, if you save multiple files, such as <code class="highlighter-rouge">Dissertation_script_25thFeb.R</code>, <code class="highlighter-rouge">Dissertation_script_26thFeb.R</code>, etc. This approach will leave you with tens, or hundreds, of similar files, it makes it rather cumbersome to directly compare different versions, and is not easy to share among collaborators. With version control software such as <a href="https://git-scm.com/" target="_blank">Git</a>, version control is much smoother and easier to implement. Using an online platform like <a href="https://github.com/" target="_blank">Github</a> to store your files also means that you have an online back up of your work, so you won’t need to panic when your laptop dies or files mysteriously disappear.</p>
+
+<p>Git uses the command line to perform more advanced actions and we encourage you to look through the <a href="#command_line"> extra resources we have added at the end of the tutorial later</a>, to get more comfortable with version control, using the command line and Github. But until then, here we offer a gentle introduction to syncing RStudio and Github, so you can start using version control in minutes.</p>
+
+<h4 id="please-register-on-the-github-website-and-download-and-install-git-for-your-operating-system">Please register on the <a href="https://github.com/" target="_blank">Github website</a> and download and install <a href="https://git-scm.com/downloads" target="_blank">Git</a> for your operating system.</h4>
+
+<p><br /></p>
+
+<h3 id="what-is-a-repository">What is a repository?</h3>
+
+<p>You can think of a repository (<em>aka</em> a repo) as a “master folder” - a repository can have folders within it, or be just separate files. In any case, a repository is what holds all of the files associated with a certain project.</p>
+
+<p><a name="github"></a></p>
+
+<h3 id="using-rstudio-and-github-together">Using RStudio and Github together</h3>
+
+<p>Log into your Github account and navigate to <a href="https://github.com/ourcodingclub/CC-7-Github" target="_blank">the repository for this workshop </a>. Click <code class="highlighter-rouge">Fork</code> - this means you are making a copy of this repository for yourself - think of it as a working copy.</p>
+
+<center><img src="/img/fork.png" alt="Img" style="width: 1000px;" /></center>
+
+<p>This is a tiny repo, so forking it will only take a few seconds, note that when working with lots of data, it can take a while. Once the forking is done, you will be automatically redirected to your forked copy of the <code class="highlighter-rouge">CC-7-Github</code> repo. Notice that now the repo is located within your own Github account - e.g. where you see “gndaskalova”, you should see your name.</p>
+
+<center><img src="/img/fork2.png" alt="Img" style="width: 1000px;" /></center>
+
+<p>Click <code class="highlighter-rouge">Clone or download</code> and if you are on a Windows computer, copy the HTTPS link (that’s the one that automatically appears in the box). If you have a Mac, click <code class="highlighter-rouge">Use SSH</code> and copy that link.</p>
+
+<center><img src="/img/link.png" alt="Img" style="width: 1000px;" /></center>
+
+<p>Now open RStudio, click <code class="highlighter-rouge">File/ New Project/ Version control/ Git</code> and paste the link you copied from Github. Select a directory on your computer - that is where the “local” copy of your repository will be (the online one being on Github).</p>
+
+<p>On some Macs, RStudio will fail to find Git. To fix this open the terminal and type <code class="highlighter-rouge">sudo mv /usr/bin/git /usr/bin/git-system</code>. Then open <code class="highlighter-rouge">RStudio/ Preferences/ Git/SVN</code> and change <code class="highlighter-rouge">Git executable:</code> to <code class="highlighter-rouge">/usr/local/bin/git</code>. Then restart RStudio and try again. More information can be found in the <code class="highlighter-rouge">README.txt</code> for the Mac git installer.</p>
+
+<center><img src="/img/project.png" alt="Img" style="width: 1000px;" /></center>
+
+<p>Once the files have finished copying across, you will notice that a few things about your RStudio session have changed:</p>
+
+<center><img src="/img/git.png" alt="Img" style="width: 1200px;" /></center>
+
+<p>You are now ready to start making changes and documenting them through Github! Open the <code class="highlighter-rouge">Sample_script.R</code> file - there is a simple task outlined, just so that you can make changes to the script and see how they are reflected on Github. Load in the data file <code class="highlighter-rouge">temp_elevation.csv</code> and make a plot that shows how soil temperature changes with elevation. Try to make the plot on your own with <code class="highlighter-rouge">ggplot2</code> and come back to this code if you get stuck.</p>
+
+<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="p">(</span><span class="n">temp.el</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="w"> </span><span class="p">(</span><span class="n">temp_elevation</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Elevation.m</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Soil.temp.mean</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
+  </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"#8B4513"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
+  </span><span class="n">geom_smooth</span><span class="p">(</span><span class="n">method</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">lm</span><span class="p">,</span><span class="w"> </span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"#8B4513"</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"#8B4513"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.6</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
+  </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Elevation (m)"</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Mean soil temperature (°C)"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
+  </span><span class="n">theme.clean</span><span class="p">())</span><span class="w">
+</span></code></pre>
+</div>
+
+<p>Save your plot in the project directory (that is the directory that it will automatically get saved into) and click <code class="highlighter-rouge">File / Save</code> to save the changes you have made to the script. If you click on the <code class="highlighter-rouge">Git</code> tab you will see that now there are four files there - a .gitignore file, an .Rproj file, your plot and your script. Tick them all. The .gitignore file tells Git which files to ignore and not put up on Github - you can leave that as it is and not worry about it, since we want all of our files uploaded. The plot file will have an <code class="highlighter-rouge">A</code> - you have added that script, whereas the script file has an <code class="highlighter-rouge">M</code> - this file you have modified. If you select the script file and click on <code class="highlighter-rouge">Diff</code>, you will see the changes you have made. Make sure that all of your files are selected - they are now <code class="highlighter-rouge">staged</code>, ready to be commited to Github.</p>
+
+<center><img src="/img/git2.png" alt="Img" style="width: 1200px;" /></center>
+
+<p>Click on <code class="highlighter-rouge">Commit</code> and add in your <code class="highlighter-rouge">Commit message</code> - aim to be concise and informative - what did you do? Once you have clicked on <code class="highlighter-rouge">Commit</code>, you will get a message about what changes you have made.</p>
+
+<center><img src="/img/git3.png" alt="Img" style="width: 1200px;" /></center>
+
+<p>You will also see a message saying that your branch is now one commit ahead of the <code class="highlighter-rouge">origin/master</code> branch - that is the branch that is on Github - we now need to let Github know about the changes we have made.</p>
+
+<center><img src="/img/git4.png" alt="Img" style="width: 700px;" /></center>
+
+<p>It is good practice to always <code class="highlighter-rouge">Pull</code> before you <code class="highlighter-rouge">Push</code> - <code class="highlighter-rouge">Pull</code> means that you are pulling the most recent of the Github repository onto your local branch - this command is especially useful if several people are working within the same repository - imagine there was a second script examining soil pH along this elevation gradient, and your collaborator was working on it the same time as you - you wouldn’t want to “overwrite” their work and cause trouble. In this case, you are the only one working on these files, but it’s still good to develop the practice of pulling before you push. Once you’ve pulled, you’ll see a message that you are already up to date, you can now push! Click on <code class="highlighter-rouge">Push</code>, wait for the loading to be over and then click on <code class="highlighter-rouge">Close</code> - that was it, you have successfully pushed your work to Github!</p>
+
+<p>Go back to your repository on Github, where you can now see all of your files (your new plot included) online.</p>
+
+<center><img src="/img/git5.png" alt="Img" style="width: 1200px;" /></center>
+
+<p>Click on your script file and then on <code class="highlighter-rouge">History</code> - this is where you can see the different versions of your script - obviously in real life situations you will make many changes as your work progresses - here we just have two. Thanks to Github and version control, you don’t need to save hundreds of almost identical files (e.g. <code class="highlighter-rouge">Dissertation_script_25thFeb.R</code>, <code class="highlighter-rouge">Dissertation_script_26thFeb.R</code>) - you have one file and by clicking on the different commits, you can see what it looked like at different points in time.</p>
+
+<center><img src="/img/history.png" alt="Img" style="width: 1000px;" /></center>
+
+<p><b>So far we have used version control for a repository that already existed, the Coding Club practice repo, but what about if you want to create a project about your own work and use version control?</b></p>
+
+<p>Go back to RStudio, click <code class="highlighter-rouge">File/ New Project/ New directory/ Empty project</code>. Add a project name, select a filepath for the project and make sure that <code class="highlighter-rouge">Create a git repository</code> is clicked. Afterwards you can save your scripts, plots, data files, etc. to your new project directory and follow the same workflow as outlined above - stage your files, commit, pull, push.</p>
+
+<hr />
+
+<hr />
+
+<p><a name="command_line"></a></p>
+
+<h3 id="git-in-the-command-line">Git in the command line</h3>
+<p>Traditionally, Git uses the command line to perform actions on local Git repositories. In this tutorial we ignored the command line but it is necessary if you want more control over Git. There are several excellent introductory guides on version control using Git, e.g. <a href="http://simon-m-mudd.github.io/NMDM_book/#_version_control_with_git" target="_blank">Prof Simon Mudd’s Numeracy, Modelling and Data management guide</a>, <a href="https://swcarpentry.github.io/git-novice/" target="_blank">The Software Carpentry guide</a>, and this <a href="https://github.com/BES2016Workshop/version-control" target="_blank">guide from the British Ecological Society Version Control workshop </a>. We have also created a neat cheatsheet with some basic Git commands and how they fit into the git/github ecosystem. A couple of the commands require <a href="https://github.com/github/hub"><code class="highlighter-rouge">hub</code></a> a wrapper for Git that increases its functionality, but not having this won’t prevent you using the other commands:</p>
+
+<center><img src="/img/git_cli.png" alt="Img" style="width: 1000px;" /></center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+
+<table class="tg">
+  <tr>
+    <th class="tg-baqh"><b>Command</b></th>
+    <th class="tg-baqh"><b>Is <code>hub</code> required?</b></th>
+    <th class="tg-baqh"><b>Origin</b></th>
+    <th class="tg-baqh"><b>Destination</b></th>
+    <th class="tg-baqh"><b>Description</b></th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git fork</code></td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-yw4l">Other Github</td>
+    <td class="tg-yw4l">Personal Github</td>
+    <td class="tg-yw4l">Creates github repo in your personal account from a previously cloned github repo.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git clone git@github.com:user/repo.git</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">Personal Github</td>
+    <td class="tg-yw4l">Local</td>
+    <td class="tg-yw4l">Creates a local copy of a github repo called "repo" owned by the user "user". This can be copied from github.com.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git add README.md</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">Working Dir</td>
+    <td class="tg-yw4l">Staging Area</td>
+    <td class="tg-yw4l">Add "README.md" to staging area.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git commit -m "Message"</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">Staging Area</td>
+    <td class="tg-yw4l">Local</td>
+    <td class="tg-yw4l">Commits changes to files to the local repo with the commit message "Message".</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git commit -a -m "Message"</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">Working Dir</td>
+    <td class="tg-yw4l">Local</td>
+    <td class="tg-yw4l">adds and commits all file changes to the local repo with the commit message "Message".</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git pull</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">Personal Github</td>
+    <td class="tg-yw4l">Local</td>
+    <td class="tg-yw4l">Retrieve any changes from a github repo.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git push</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">Local</td>
+    <td class="tg-yw4l">Personal Github</td>
+    <td class="tg-yw4l">Sends commited file changes to github repo.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git create</code></td>
+    <td class="tg-baqh">Y</td>
+    <td class="tg-yw4l">Local</td>
+    <td class="tg-yw4l">Personal Github</td>
+    <td class="tg-yw4l">Create a github repo with the same name as the local repo.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git merge</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">NA</td>
+    <td class="tg-yw4l">NA</td>
+    <td class="tg-yw4l">Merge any changes in the named branch with the current branch.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><code>git checkout -b patch1</code></td>
+    <td class="tg-baqh">N</td>
+    <td class="tg-yw4l">NA</td>
+    <td class="tg-yw4l">NA</td>
+    <td class="tg-yw4l">Create a branch called "patch1" from the current branch and switch to it.</td>
+  </tr>
+</table>
+
+<hr />
+
+<hr />
+
+<h4 id="check-out-our-useful-links-page-where-you-can-find-loads-of-guides-and-cheatsheets">Check out our <a href="https://ourcodingclub.github.io/links/" target="_blank">Useful links</a> page where you can find loads of guides and cheatsheets.</h4>
+
+<h4 id="if-you-have-any-questions-about-completing-this-tutorial-please-contact-us-on-ourcodingclubgmailcom">If you have any questions about completing this tutorial, please contact us on ourcodingclub@gmail.com</h4>
+
+<h4 id="we-would-love-to-hear-your-feedback-on-the-tutorial-whether-you-did-it-in-the-classroom-or-online">We would love to hear your feedback on the tutorial, whether you did it in the classroom or online:</h4>
+<h4 id="httpswwwsurveymonkeycoukrnxnhyyx"><a href="https://www.surveymonkey.co.uk/r/NXNHYYX">https://www.surveymonkey.co.uk/r/NXNHYYX</a></h4>
+
+<ul class="social-icons">
+	<li>
+		<h3>
+			<a href="https://twitter.com/our_codingclub" target="_blank">&nbsp;Follow our coding adventures on Twitter! <i class="fa fa-twitter"></i></a>
+		</h3>
+	</li>
+</ul>
+
+<h3 id="subscribe-to-our-mailing-list">  Subscribe to our mailing list:</h3>
+<div class="container">
+	<div class="block">
+        <!-- subscribe form start -->
+		<div class="form-group">
+			<form action="https://getsimpleform.com/messages?form_api_token=de1ba2f2f947822946fb6e835437ec78" method="post">
+			<div class="form-group">
+				<input type="text" class="form-control" name="Email" placeholder="Email" required="" />
+			</div>
+			<div>
+                        	<button class="btn btn-default" type="submit">Subscribe</button>
+                    	</div>
+                	</form>
+		</div>
+	</div>
+</div>
+</p>
+          </div>
+        </div><!-- .col-md-7 close -->
+      </div>
+    </div>
+  </section>
+</div>
+<p class="center-text" style="padding: 30px;">
+  <a href="/blog">Back to blog</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            <li><a href="/consortium">About Us</a></li>
+        <!--    <li><a href="/contact">Contact us</a></li>-->
+          </ul>
+        </div>
+        <p>Content by <a href="/about/">..</a>.</p>
+        <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    
+
+    </body>
+</html>
+
