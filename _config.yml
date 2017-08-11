@@ -21,7 +21,7 @@ subtitle: "Joint Academic Data science Endeavour (JADE) System"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "//mozhgan-kch.github.io" # the base hostname & protocol for your site
-baseurl: '/JADE'
+baseurl: '/JADE' # or just '/'
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
