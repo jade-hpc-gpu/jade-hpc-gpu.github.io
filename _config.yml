@@ -20,7 +20,8 @@ subtitle: "Joint Academic Data science Endeavour (JADE) System"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "//mozhgan-kch.github.io" # the base hostname & protocol for your site
+
+url: "//jade-hpc-gpu.github.io"
 baseurl: 
 logo: "/img/logo/jade_logo_small.png"
 
