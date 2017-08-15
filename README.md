@@ -4,18 +4,37 @@
 
 This is a website for the JADE HPC facility. Feel free to contribute training or posts by submitting a pull request. **This website is built using Jekyll.**
 
-## Linux: Local Jekyll installation
+# Local Jekyll installation
 
-Make sure you have Ruby and Ruby gems installed on your Linux machine. Run the following command to installl Jekyll:
+Make sure you have Ruby and Ruby gems installed on your Linux or Windows machine. Run the following command to install Jekyll:
 
 ```
-gem install jekyll bundler
+gem install jekyll bundler rake
 ```
+
+then
+
+```
+bundler install
+```
+
+## Building the site locally
+
+The site can be built with the following command:
+
+```
+bundle exec jekyll build
+```
+
 
 ## Serving the site locally
 
-The site can then be built and served locally at http://localhost:4000 for testing. Use the command:
+The site can then be served locally at http://localhost:4000 for testing. Use the command:
 
 ```
 bundle exec jekyll serve
 ```
+
+# Contributing to the Site
+
+To contribute to the site please fork the JADE website repository modify the site locally and create a pull request. An Admin will merge your changes after review.
