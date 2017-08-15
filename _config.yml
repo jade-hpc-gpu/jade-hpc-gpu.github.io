@@ -21,9 +21,8 @@ subtitle: "Joint Academic Data science Endeavour (JADE) System"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "//mozhgan-kch.github.io" # the base hostname & protocol for your site
-baseurl: '/JADE' # or just '/'
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+baseurl: 
+logo: "/img/logo/jade_logo_small.png"
 
 # Build settings
 markdown: kramdown
@@ -31,10 +30,3 @@ markdown: kramdown
 # Google analytics
 google_analytics: UA-... #Mozhgan change 
 
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
