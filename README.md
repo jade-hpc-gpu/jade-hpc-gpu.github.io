@@ -1,6 +1,6 @@
 # JADE Website
 
-[![Build Status](https://travis-ci.org/mozhgan-kch/JADE.svg?branch=master)](https://travis-ci.org/mozhgan-kch/JADE)
+[![Build Status](https://travis-ci.org/jade-hpc-gpu/jade-hpc-gpu.github.io.svg?branch=master)](https://travis-ci.org/jade-hpc-gpu/jade-hpc-gpu.github.io)
 
 This is a website for the JADE HPC facility. Feel free to contribute training or posts by submitting a pull request. **This website is built using Jekyll.**
 
