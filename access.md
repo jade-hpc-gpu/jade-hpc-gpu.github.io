@@ -1,37 +1,22 @@
 ---
 title: Access
+subtitle: Get access to JADE HPC facilities
 layout: page
 permalink: "/access/"
 ---
 
-<!-- Slider Start -->
-<section id="global-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="block">
-                    <h1>ACCESS</h1>
-                    <b><p><big>Get access to JADE HPC facilities</big></p></b>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
-<!-- Access info Start -->
-<section id="portfolio-work">
-<div class="container">
+## Introduction ##
 
-<h2>Introduction</h2> 
 Individual access to JADE HPC activities is via projects.  Projects are set up and allocated time on JADE following the procedure described in the <a href="https://www.epsrc.ac.uk/files/funding/calls/2017/tier2openaccess/">EPSRC guidelines</a>.
 
 <h2>Academic Access</h2>
 
 To obtaining a user account you need:
 
-* a Hartree SAFE account;
-* a JADE project account and
-* a JADE project access code.
+- a Hartree SAFE account;
+- a JADE project account and
+- a JADE project access code.
 
 
 <h3>SAFE accounts</h3>
@@ -94,10 +79,6 @@ Due to a problem with synchronising userids between ServiceNow and JADE, it is p
 
 <h2 id="other">Other Access Routes</h2>
 
-
-</section>
-    
-</section>
 <!-- Call to action Start -->
 <section id="call-to-action">
 <!--
