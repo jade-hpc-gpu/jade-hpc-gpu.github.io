@@ -4,9 +4,6 @@ title: Partners
 permalink: /consortium/
 ---
 
-     <!-- Portfolio Start -->
-<section id="portfolio-work">
-<div class="container">
 
 <div class="row">
    <div class="col-xs-4 col-md-2">
@@ -197,9 +194,6 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
 </div>
 
-</section>
-    
-</section>
 <!-- Call to action Start -->
 <section id="call-to-action">
 <!--
