@@ -1,9 +1,60 @@
 ---
-layout: page
+layout: base
 ---
 
+{% include header.html type="post" %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <article role="main" class="blog-post">
+        {{ content }}
+      </article>
+
+      {% if page.tags.size > 0 %}
+        <div class="blog-tags">
+          Tags:
+          {% if site.link-tags %}
+          {% for tag in page.tags %}
+            <a href="/tag/{{ tag }}">{{ tag }}</a>
+          {% endfor %}
+          {% else %}
+            {{ page.tags | join: ", " }}
+          {% endif %}
+        </div>
+      {% endif %}
+
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+
+      <ul class="pager blog-pager">
+        {% if page.previous.url %}
+        <li class="previous">
+          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="next">
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+
+      {% if page.comments %}
+        <div class="disqus-comments">
+          {% include disqus.html %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+
+<!--- OLD
 <div class="post">
-  <!-- Wrapper Start -->
+  <!- - Wrapper Start - ->
   <section id="intro" style="border: 1px dotted #ddd;">
     <div class="container">
       <div class="row">
@@ -16,7 +67,7 @@ layout: page
             <hr />
             <p>{{ content }}</p>
           </div>
-        </div><!-- .col-md-7 close -->
+        </div><!- - .col-md-7 close - ->
       </div>
     </div>
   </section>
@@ -24,3 +75,4 @@ layout: page
 <p class="center-text" style="padding: 30px;">
   <a href="/blog">Back to blog</a>
 </p>
+-->
