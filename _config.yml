@@ -22,11 +22,36 @@ subtitle: "Joint Academic Data science Endeavour (JADE) System"
 # baseurl: "/" # the subpath of your site
 
 url: "//jade-hpc-gpu.github.io"
-baseurl: 
+baseurl: ""
+paginate_path: "/blog/page:num/"
 logo: "/img/logo/jade_logo_small.png"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+gems:
+  - jekyll-paginate
 
 # Google analytics
 google_analytics: UA-... #Mozhgan change 
