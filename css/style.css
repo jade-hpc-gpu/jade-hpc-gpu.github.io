@@ -39,3 +39,8 @@ header .navbar{
 .post-area a:hover {
   color: #0D0017;
 }
+
+ul {
+    list-style-type: disc;
+    padding-left: 40px;
+}

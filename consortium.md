@@ -1,49 +1,10 @@
 ---
 layout: page
-title: Consortium
+title: Partners
 permalink: /consortium/
 ---
 
-    <!-- Slider Start -->
-<section id="global-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="block">
-                    <h1>JADE PARTNERS</h1>
-         <!--           <b><p><big>We are working with great people with a strong motivation to teach and learn - here you can read more about the Coding Club team and our collaborators.</big></p></b>-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-    <!-- Portfolio Start -->
-<section id="portfolio-work">
-<div class="container">
-<!--
-<h3>JADE partners</h3>
-<ul>
-<li><a href="http://www.ox.ac.uk/">University of Oxford</a> (lead partner) </li>
-<li><a href="http://www.bris.ac.uk/">University of Bristol</a></li>
-<li><a href="http://www.ed.ac.uk/">University of Edinburgh</a></li>
-<li><a href="http://www.kcl.ac.uk/">King's College London</a></li>
-<li><a href="http://www.qmul.ac.uk/">Queen Mary, University of London</a></li>
-<li><a href="http://www.sheffield.ac.uk/">University of Sheffield</a></li>
-<li><a href="http://www.soton.ac.uk/">University of Southampton</a></li>
-<li><a href="http://www.ucl.ac.uk/">University College London</a></li>
-</ul>
-<p>
-<img src="{{ site.baseurl }}/img/oxford-logo.gif" alt="" width="25%" height="25%" />&nbsp;&nbsp;
-<img src="{{ site.baseurl }}/img/bristol-logo.jpg" alt="" width="30%" height="30%" />&nbsp; &nbsp;&nbsp;
-<img src="{{ site.baseurl }}/img/uoe-logo.jpg" alt="" width="25%" height="25%" />&nbsp; &nbsp;
-<img src="{{ site.baseurl }}/img/kcl-logo.jpg" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="{{ site.baseurl }}/img/qm-logo.gif" alt="QMUL logo" width="25%" height="25%" />&nbsp;&nbsp;&nbsp;
-<img src="{{ site.baseurl }}/img/tuos-logo.png" alt="" width="35%" height="35%" />
-<img src="{{ site.baseurl }}/img/southampton-logo.png" alt="" width="30%" height="30%"/>&nbsp;&nbsp;
-<img src="{{ site.baseurl }}/img/ucl-logo.png" alt="" width="25%" height="25%"/>
-</p>
--->      
- 
+
 <div class="row">
    <div class="col-xs-4 col-md-2">
       <div class="block">
@@ -166,7 +127,7 @@ permalink: /consortium/
 <div class="row">
    <div class="col-xs-4 col-md-2">
       <div class="block">
-         <a href="http://www.sheffield.ac.uk/" title="http://www.sheffield.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width=95%" height="95%" /></a>
+         <a href="http://www.sheffield.ac.uk/" title="http://www.sheffield.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width="95%" height="95%" /></a>
       </div>
    </div>
    <!-- .col-md-7 close -->
@@ -232,23 +193,3 @@ permalink: /consortium/
    </div>
    <!-- .col-md-5 close -->
 </div>
-
-</section>
-    
-</section>
-<!-- Call to action Start -->
-<section id="call-to-action">
-<!--
- <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h2>We are always looking for new ideas and feedback.</h2>
-          <b><p><big>We are always keen to work with people and organisations. If you think you can contribute to HPC-UK then please just get in touch and talk to us. Feel free to contact us with any questions or feedback - we would really appreciate your input!</big></p></b>
-          <a class="btn btn-default btn-call-to-action" href="https://jade.github.io/contact/" >Get in touch</a>
-        </div>
-      </div>
-    </div>
-  </div>
--->
-</section>
