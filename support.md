@@ -4,49 +4,36 @@ layout: page
 permalink: "/support/"
 ---
 
+## JADE Documentation ## 
+
+Documentation on common tasks and how to use JADE is available [here](http://jade-hpc.readthedocs.io/).
+
 ## Institutional Support ##
 
-Participating univesities provide coordinated institutional technical support to assist local users and their developers with GPU applications and in accessing the JADE HPC facility.  For more information, contact Research Software Engineers at your home university.
+The partner universities provide local technical support for their users through Research Software Engineers (RSEs) and local HPC experts.  They will provide guidance to users staring to use JADE, and can also direct users to sources of specialist information if required.
 
-Institutional support includes
+Currently, the local points of contact are:
 
-* porting applications to GPU processing;
-* advice on how to best make use of the DGX-1 hardware;
-* help with building and runing software on the JADE system.
+**University of Oxford:** Andrew Gittings, Martin Hadley
 
+**University of Sheffield:** Twin Karmakharm, Paul Richmond
 
+**Kings College London:** Jacky Pallas
 
+**University College London:** James Hetherington
 
-<ul>
-<h3>Institutional Support</h3>
-<p>Participating univesities provide coordinated institutional technical support to assist local users and their developers with GPU applications and in accessing the JADE HPC facility.  For more information, contact Research Software Engineers at your home university.</p>
+**Queen Mary University of London:** Tom King
 
-<p>List of contacts to go here.</p>
-
-<p>Institutional support includes</p>
-<ul>
-<li> porting applications to GPU processing;</li>
-<li> advice on how to best make use of the DGX-1 hardware;</li>
-<li> help with building and runing software on the JADE system.</li>
-</ul>
-
-
+**University of Southampton:** Ivan Wolton
+ 
+## SAFE Account Support ##
 <!--This will help local users adopt the new facility, optimise their codes for this platform and hence maximise their scientific output from the machine. -->
 
-<h3>Central Support</h3>
-Contact for central support (Hartree).
+For issues with using your SAFE account on JADE, please contact the [Hartree helpdesk](https://stfc.service-now.com/nav_to.do?uri=%2Fhome_splash.do%3Fsysparm_direct%3Dtrue). Note that this helpdesk only provides support in account management, for questions about using JADE instead contact your local institutional support and for technical queries about software/drivers please use the GitHub Issue tracker.
 
-Centralised support includes
-<ul>
-<li> project setup;</li>
-<li> ...</li>
-</ul>
+## Technical/Software Support ##
 
-
-<h3>JADE User Guide</h3>
-Read the Docs hosts <a href="http://jade-hpc.readthedocs.io/">JADE user documentation</a>. The source is available on GitHub and contributions are always encouraged. Contributions can be as simple as minor tweaks to this documentation, the website or the core. To contribute, fork the project on GitHub and send a pull request.
-</ul>
-
+If you have questions about software versions, including installing new software on to JADE, please use the [GitHub Issue tracker](https://github.com/jade-hpc-gpu/jade-hpc-gpu.github.io/issues).
 
 <!--
 <section id="portfolio-work">
