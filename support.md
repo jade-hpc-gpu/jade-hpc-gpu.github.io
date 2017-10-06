@@ -4,6 +4,18 @@ layout: page
 permalink: "/support/"
 ---
 
+## Institutional Support ##
+
+Participating univesities provide coordinated institutional technical support to assist local users and their developers with GPU applications and in accessing the JADE HPC facility.  For more information, contact Research Software Engineers at your home university.
+
+Institutional support includes
+
+* porting applications to GPU processing;
+* advice on how to best make use of the DGX-1 hardware;
+* help with building and runing software on the JADE system.
+
+
+
 
 <ul>
 <h3>Institutional Support</h3>
@@ -89,6 +101,5 @@ Read the Docs hosts <a href="http://jade-hpc.readthedocs.io/">JADE user document
     </div>
 </section>
 -->
-    
-</section>
+
 
