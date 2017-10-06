@@ -77,20 +77,3 @@ Due to a problem with synchronising userids between ServiceNow and JADE, it is p
 <hr />
 
 <h2 id="other">Other Access Routes</h2>
-
-<!-- Call to action Start -->
-<section id="call-to-action">
-<!--
- <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h2>We are always looking for new ideas and feedback.</h2>
-          <b><p><big>We are always keen to work with people and organisations. If you think you can contribute to HPC-UK then please just get in touch and talk to us. Feel free to contact us with any questions or feedback - we would really appreciate your input!</big></p></b>
-          <a class="btn btn-default btn-call-to-action" href="https://jade.github.io/contact/" >Get in touch</a>
-        </div>
-      </div>
-    </div>
-  </div>
--->
-</section>
