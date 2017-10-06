@@ -6,9 +6,23 @@ permalink: "/access/"
 ---
 
 
-# Introduction #
+## Introduction ##
 
-Individual access to JADE HPC activities is via projects.  Projects are set up and allocated time on JADE following the procedure described in the [ESPRC Guidelines](https://www.epsrc.ac.uk/files/funding/calls/2017/tier2openaccess/).
+As agreed with EPSRC, the use of JADE is to be split approximately 50:30:20 between Machine/Deep Learning (ML), Molecular Dynamics (MD), and other applications, with up to 10% of the use being for research in non-EPSRC areas.
+
+JADE is particularly intended for applications using up to 8 GPUs with a very high performance NVlink interconnect.  It is not designed for MPI applications spanning multple compute nodes; for this purpose users should apply to use the GPU system which is part of the [Cambridge Peta-5 GPU system](http://hpc-sig.org.uk/wp-content/blogs.dir/sites/63/2017/02/2017_02_09_tier2_Peta-5.pdf).
+
+#### Machine Learning ####
+
+Initially, access to JADE for machine learning applications will be provided through the research groups of the partner universities.  PIs within those universities should contact their local RSE support or <a href="mike.giles@maths.ox.ac.uk">Prof Mike Giles</a>.
+
+#### Molecular Dynamics ####
+
+Discussions are underway to provide time for Molecular Dynamics applications via the [BioSim HEC](http://www.hecbiosim.ac.uk/).
+
+#### Other Applications of JADE ####
+
+All UK academic users are eligible to apply for time for Other applications through the [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
 
 ## Academic Access ##
 
@@ -18,7 +32,7 @@ To obtaining a user account you need:
 * a JADE project account and
 * a JADE project access code.
 
-### SAFE accounts ###
+#### SAFE accounts ####
 
 This is a web account which will show you which projects you belong to, and the accounts which you have in them.
 
@@ -32,7 +46,7 @@ Once your account is approved, you receive an email giving your initial password
 Further details on the registration process are available [here](http://community.hartree.stfc.ac.uk/wiki/site/admin/safe%20user%20guide.html).
 
 
-### JADE accounts ###
+#### JADE accounts ####
 
 Use your [SAFE account](https://um.hartree.stfc.ac.uk/hartree/TransitionServlet/ProjectRequest/) to apply for an account on JADE.  Select the appropriate project from the drop-down list, enter the JADE project access which you have from the project PI or manager, and then click "Request".
 
@@ -58,22 +72,19 @@ Each project account will have a separate file structure, and separate quotas fo
 Note also that JADE has multiple front-end systems, and because of this some SSH software operating under stringent security settings might give warnings about possible man-in-the-middle attacks because of apparent changes in machine settings.  This is a known issue and is being addressed, but in the meantime these warnings can be safely ignored.
 
 
-### ServiceNow accounts ###
+#### ServiceNow Account ####
+
 Additionally, an optional step is applying for a Hartree **ServiceNow** account, which is a web account used for reporting any operational issues with JADE.   An account can be obtained following [these directions](http://community.hartree.stfc.ac.uk/wiki/site/admin/servicenow.html).
 
 Note the guidance which explains that on first login, you will not have a password so you need to click on the link which says "reset your password here".
 
-Due to a problem with synchronising userids between ServiceNow and JADE, it is possible that ServiceNow may say that your email address is not recognised.  If this happens, please send an email to *hartree@stfc.ac.uk* and ask them to add you to the ServiceNow database.
+Due to a problem with synchronising userids between ServiceNow and JADE, it is possible that ServiceNow may say that your email address is not recognised.  If this happens, please send an email to <a href="hartree@stfc.ac.uk">hartree@stfc.ac.uk</a> and ask them to add you to the ServiceNow database.
 
-
+<!--- Other sections to come
 <hr />
-
 <h2 id="simple">Simple Access Methods</h2>
-
 <hr />
-
 <h2 id="grant">Grant Access</h2>
-
 <hr />
-
 <h2 id="other">Other Access Routes</h2>
+--->
