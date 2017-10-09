@@ -14,7 +14,7 @@ JADE is particularly intended for applications using up to 8 GPUs with a very hi
 
 #### Machine Learning ####
 
-Initially, access to JADE for machine learning applications will be provided through the research groups of the partner universities.  PIs within those universities should contact their local RSE support or <a href="mike.giles@maths.ox.ac.uk">Prof Mike Giles</a>.
+Initially, access to JADE for machine learning applications will be provided through the research groups of the partner universities.  PIs within those universities should contact their local RSE support or <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a>.
 
 #### Molecular Dynamics ####
 
@@ -22,7 +22,7 @@ Discussions are underway to provide time for Molecular Dynamics applications via
 
 #### Other Applications of JADE ####
 
-All UK academic users are eligible to apply for time for Other applications through the [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
+All UK academic users are eligible to apply for time for Other applications through the [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
 
 ## Academic Access ##
 
@@ -37,7 +37,7 @@ To obtaining a user account you need:
 This is a web account which will show you which projects you belong to, and the accounts which you have in them.
 
 Before applying for a SAFE account, you should have an SSH key-pair ready, so you are ready to provide your public key as part of the SAFE registration process.  Information on generating and using SSH keys is available [here](http://yukon.dl.ac.uk:8080/wiki/site/admin/SAFE%20User%20Guide.html#ssh).  Contact 
-your local university IT support staff for any help.
+your local University RSE Support for any help.
 
 Once you have your public SSH key ready, apply for your SAFE account [here](https://um.hartree.stfc.ac.uk/hartree/login.jsp) and providing all of the required information.
 
@@ -74,11 +74,11 @@ Note also that JADE has multiple front-end systems, and because of this some SSH
 
 #### ServiceNow Account ####
 
-Additionally, an optional step is applying for a Hartree **ServiceNow** account, which is a web account used for reporting any operational issues with JADE.   An account can be obtained following [these directions](http://community.hartree.stfc.ac.uk/wiki/site/admin/servicenow.html).
+Additionally, an optional step is applying for a Hartree **ServiceNow** account, which is a web account used for reporting any operational issues with JADE.   An account can be obtained following [here](http://community.hartree.stfc.ac.uk/wiki/site/admin/servicenow.html).
 
 Note the guidance which explains that on first login, you will not have a password so you need to click on the link which says "reset your password here".
 
-Due to a problem with synchronising userids between ServiceNow and JADE, it is possible that ServiceNow may say that your email address is not recognised.  If this happens, please send an email to <a href="hartree@stfc.ac.uk">hartree@stfc.ac.uk</a> and ask them to add you to the ServiceNow database.
+Due to a problem with synchronising userids between ServiceNow and JADE, it is possible that ServiceNow may say that your email address is not recognised.  If this happens, please send an email to <a href="mailto:hartree@stfc.ac.uk">hartree@stfc.ac.uk</a> and ask them to add you to the ServiceNow database.
 
 <!--- Other sections to come
 <hr />
