@@ -24,12 +24,12 @@ permalink: /links/
 - [Machine Learning (Sheffield)](http://www.sheffield.ac.uk/dcs/research/groups/machine-learning)
 - [Centre for Computational Statistics and Machine Learning (UCL)](http://www.csml.ucl.ac.uk/)
 
-### CDTs and PhD programmes ###
+### CDTs and PhD programs ###
 
 - [CDT in Data Science (Edinburgh)](http://datascience.inf.ed.ac.uk/apply/)
 - [CDT in Medical Imaging (KCL/Imperial)](http://www.imagingcdt.com/)
 - [CDT in Autonomous Intelligent Machines and Systems (Oxford)](http://aims.robots.ox.ac.uk/)
-- [OxWaSP Statistical Programme CDT (Oxford/Warwick)](http://www.oxwasp-cdt.ac.uk/)
+- [OxWaSP Statistical Program CDT (Oxford/Warwick)](http://www.oxwasp-cdt.ac.uk/)
 - [EPSRC/AHRC CDT in Media & Arts Technology (QMUL)](http://www.mat.qmul.ac.uk/programmes/phd-programme/)
 - [CDT in Next Generation Computational Modelling (Southampton)](http://www.ngcm.soton.ac.uk/)
 - [CDT in Financial Computing &amp; Analytics (UCL)](http://www.financialcomputing.org/)
