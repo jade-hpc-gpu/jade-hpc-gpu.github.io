@@ -62,7 +62,7 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>University of Bristol</h5>
+         <h4>University of Bristol</h4>
          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.bris.ac.uk/" title="http://www.bris.ac.uk/" target="_blank">http://www.bris.ac.uk/</a></p>
       </div>
@@ -87,7 +87,7 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>University of Edinburgh</h5>
+         <h4>University of Edinburgh</h4>
          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.ed.ac.uk/" title="http://www.ed.ac.uk/" target="_blank">http://www.ed.ac.uk/</a></p>
       </div>
@@ -111,7 +111,7 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>King's College London</h5>
+         <h4>King's College London</h4>
          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.kcl.ac.uk/" title="http://www.kcl.ac.uk/" target="_blank">http://www.kcl.ac.uk/</a></p>
       </div>
@@ -135,7 +135,7 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>Queen Mary, University of London</h5>
+         <h4>Queen Mary, University of London</h4>
          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.qmul.ac.uk/" title="http://www.qmul.ac.uk/" target="_blank">http://www.qmul.ac.uk/</a></p>
       </div>
@@ -159,7 +159,7 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>University of Sheffield</h5>
+         <h4>University of Sheffield</h4>
          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.sheffield.ac.uk/" title="http://www.sheffield.ac.uk/" target="_blank">http://www.sheffield.ac.uk/</a></p>
       </div>
@@ -183,7 +183,7 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>University of Southampton</h5>
+         <h4>University of Southampton</h4>
          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo..</p>
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.soton.ac.uk/" title="http://www.soton.ac.uk/" target="_blank">http://www.soton.ac.uk/</a></p>
       </div>
@@ -207,7 +207,7 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>University College London</h5>
+         <h4>University College London</h4>
          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.ucl.ac.uk/" title="http://www.ucl.ac.uk/" target="_blank">http://www.ucl.ac.uk/</a></p>
       </div>
