@@ -12,6 +12,8 @@
 <!-- CSS -->
 <link rel="stylesheet" href="/css/owl.carousel.css" />
 <link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/bootstrap-grid.min.css" />
+<link rel="stylesheet" href="/css/bootstrap-reboot.min.css" />
 <link rel="stylesheet" href="/css/font-awesome.min.css" />
 <link rel="stylesheet" href="/css/airspace.css" />
 <link rel="stylesheet" href="/css/style.css" />
@@ -42,32 +44,23 @@
   <body>
 
 
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="https://jade.github.io/">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+  <a class="navbar-brand" href="https://jade.ac.uk">
               <img src="/img/logo/jade_logo_small.png" alt="Logo" height="35px">
             </a>
-          </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="/">Home</a></li>
-                <li><a href="/consortium">Consortium</a></li>
-                <li><a href="/access">Access</a></li>
-                <li><a href="/support">Support</a></li>
-                <li><a href="/links">Useful links</a></li>
-              </ul>
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto">
+      <a class="nav-item nav-link" href="/">Home</a>
+      <a class="nav-item nav-link" href="/consortium">Consortium</a>
+      <a class="nav-item nav-link" href="/access">Access</a>
+      <a class="nav-item nav-link" href="/support">Support</a>
+        <a class="nav-item nav-link" href="/links">Useful links</a>
+    </div>
+  </div>
+</nav>
 
 
     <section id="global-header">
@@ -108,7 +101,7 @@ This system design is also ideal for a large number of molecular dynamics applic
 
 
 <!-- Wrapper Start -->
-<section id="intro">
+
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
@@ -128,25 +121,32 @@ The system design exploits the capabilities of NVIDIA's DGX-1 Deep Learning Syst
 This system design is also ideal for a large number of molecular dynamics applications and so JADE will also provide a powerful resource for molecular dynamics researchers at Bristol, Edinburgh, Oxford and Southampton.
 </p>
 
-          <p><img src="img/dgx_box.jpg" alt="Img">
 	  <p>  <!-- <img src="img/DGX.jpg" alt="Img">-->
         </div>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">
         <div class="block">
-          <img src="./img/DGX1.jpg" alt="Img">
-          <img src="./img/Nvidia-DGX.jpg" alt="Img">
-       <img src="./img/p100.jpg" alt="Img">  
+            <center>
+          <img src="img/dgx_box.jpg" alt="Img" style="max-height:280px;max-width:418px">
+          <img src="./img/Nvidia-DGX.jpg" alt="Img" style="max-height:280px;max-width:418px">
+       <img src="./img/p100.jpg" alt="Img" style="max-height:280px;max-width:418px">  
+                </center>
         </div>
       </div><!-- .col-md-5 close -->
     </div>
   </div>
-</section>
+
 
 <section id="feature">
 <div class="container">
-  <div class="row">
-    <div class="col-md-6 col-md-offset-6">
+  <div class="row align-items-center">
+      <div class="col-lg-6  align-self-center">
+    <img src="img/logo/jade_logo.png" alt="Img" style="max-width:100%">
+      </div>
+      
+      
+    <!--<div class="col-md-6 col-md-offset-6">-->
+        <div class="col-lg-6">
       <h2>SYSTEM SPECIFICATION</h2>
 <span style="margin-left:2em" style="padding-left:20px">
 <ul style="list-style-type:disc;">
