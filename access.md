@@ -34,8 +34,6 @@ To obtaining a user account you need:
 * a JADE project account and
 * a JADE project access code.
 
-<br>
-
 #### SAFE accounts ####
 
 This is a web account which will show you which projects you belong to, and the accounts which you have in them.
