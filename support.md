@@ -4,6 +4,10 @@ layout: page
 permalink: "/support/"
 ---
 
+## JADE System Status ## 
+
+The current status of the JADE system is displayed on the [Hartree Centre Status page](http://community.hartree.stfc.ac.uk/wiki/site/admin/status.html).
+
 ## JADE Documentation ## 
 
 Documentation on common tasks and how to use JADE is available [here](http://jade-hpc.readthedocs.io/).
