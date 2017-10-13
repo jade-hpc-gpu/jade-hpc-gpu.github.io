@@ -6,7 +6,8 @@ permalink: "/access/"
 ---
 
 
-## Introduction ##
+<hr />
+<h2 id="simple">Introduction</h2>
 
 As agreed with EPSRC, the use of JADE is to be split approximately 50:30:20 between Machine/Deep Learning (ML), Molecular Dynamics (MD), and other applications, with up to 10% of the use being for research in non-EPSRC areas.
 
@@ -24,13 +25,16 @@ Discussions are underway to provide time for Molecular Dynamics applications via
 
 All UK academic users are eligible to apply for time for Other applications through the [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
 
-## Academic Access ##
+<hr />
+<h2 id="simple">Academic Access</h2>
 
 To obtaining a user account you need:
 
 * a Hartree SAFE account;
 * a JADE project account and
 * a JADE project access code.
+
+<br>
 
 #### SAFE accounts ####
 
