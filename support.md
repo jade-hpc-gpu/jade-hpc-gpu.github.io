@@ -20,7 +20,7 @@ Currently, the local points of contact are:
 
 **University of Oxford:** Andrew Gittings
 
-**University of Sheffield:** Twin Karmakharm, Paul Richmond
+**University of Sheffield:** Mozhgan Kabiri-Chimeh, Twin Karmakharm, Paul Richmond
 
 **Kings College London:** Jacky Pallas
 
