@@ -44,3 +44,5 @@ ul {
     list-style-type: disc;
     padding-left: 40px;
 }
+
+.bottom-buffer { margin-bottom:20px; }
