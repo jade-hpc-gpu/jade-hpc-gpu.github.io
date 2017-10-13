@@ -14,8 +14,7 @@ permalink: /consortium/
    <div class="col-md-6 col-sm-12">
       <div class="block">
          <h4>University of Oxford (Lead Partner)</h4>
-         University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research. <br>
-         Prof. Mike Giles is the Principal Investigator for JADE and is resident in the Mathematical Institute.
+         University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research. Prof. Mike Giles is the Principal Investigator for JADE and is resident in the Mathematical Institute.
       </div>
       <h5>Machine Learning and Related CDTs</h5>
       <ul>
@@ -47,6 +46,7 @@ permalink: /consortium/
       <div class="block">
       <h4>Principal Investigators</h4>
          <strong>Professor Mike Giles</strong>
+         <p></p>
          <h4>Co-Investigators</h4>
          <strong>Professor Anne Trefethen </strong><br>
          <strong>Dr Wesley Armour</strong><br>
