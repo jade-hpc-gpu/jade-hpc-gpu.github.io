@@ -42,10 +42,12 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Professor Mike Giles</strong> (Principle Investigator)</p>
-         <p><strong>Professor Anne Trefethen </strong></p>
-         <p><strong>Dr Wesley Armour</strong></p>
-         <p><strong>Dr Ian John Bush</strong></p>
+      <h4>Principle Investigators</h4>
+         <strong>Professor Mike Giles</strong>
+         <h4>Co-Investigatorss</h4>
+         <strong>Professor Anne Trefethen </strong><br>
+         <strong>Dr Wesley Armour</strong><br>
+         <strong>Dr Ian John Bush</strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
@@ -68,7 +70,8 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Professor Simon McIntosh-Smith</strong></p>
+      <h4>Co-Investigatorss</h4>
+         <strong>Professor Simon McIntosh-Smith</strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
@@ -92,7 +95,8 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Dr Alan Gray</strong></p>
+      <h4>Co-Investigatorss</h4>
+         <strong>Dr Alan Gray</strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
@@ -115,7 +119,8 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Professor Giovanni Montana</strong></p>
+      <h4>Co-Investigatorss</h4>
+         <strong>Professor Giovanni Montana</strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
@@ -138,7 +143,8 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Professor Mark Sandler</strong></p>
+      <h4>Co-Investigatorss</h4>
+         <strong>Professor Mark Sandler</strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
@@ -161,7 +167,8 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Dr Paul Richmond</strong></p>
+      <h4>Co-Investigatorss</h4>
+         <strong>Dr Paul Richmond</strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
@@ -184,7 +191,8 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Professor Simon Cox</strong></p>
+      <h4>Co-Investigatorss</h4>
+         <strong>Professor Simon Cox</strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
@@ -207,8 +215,9 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-         <p><strong>Dr James Hetherington</strong></p>
-         <p><strong>Mr Denis Timm </strong></p>
+      <h4>Co-Investigatorss</h4>
+         <strong>Dr James Hetherington</strong><br>
+         <strong>Mr Denis Timm </strong>
       </div>
    </div>
    <!-- .col-md-5 close -->
