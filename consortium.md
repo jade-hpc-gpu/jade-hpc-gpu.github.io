@@ -14,9 +14,29 @@ permalink: /consortium/
    <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
       <div class="block">
-         <h5>University of Oxford (Lead Partner)</h5>
-         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
-         <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.ox.ac.uk/" title="http://www.ox.ac.uk/" target="_blank">http://www.ox.ac.uk/</a></p>
+         <h4>University of Oxford (Lead Partner)</h4>
+         University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research. <br>
+         Prof. Mike Giles is the Principal Investigator for JADE and is resident in the Mathematical Institue.
+      </div>
+      <h6>Machine Learning Groups</h6>
+      <ul>
+      <li><a href="https://www.cs.ox.ac.uk/activities/machinelearning/" title="http://www.ox.ac.uk/" target="_blank">Computer Science Machine Learning</a></li>
+      <li><a href="http://ori.ox.ac.uk/" title="http://www.ox.ac.uk/" target="_blank">Molecular Dynamics</a></li>
+      <li><a href="http://www.robots.ox.ac.uk/~parg/" title="http://www.robots.ox.ac.uk/~parg/" target="_blank">Engineering Science Machine Learning Research Group</a></li>
+      
+      <li><a href="http://www.robots.ox.ac.uk/~vgg/" title="http://www.robots.ox.ac.uk/~vgg/" target="_blank">Visual Geometry Group</a></li>
+      
+      <li><a href="http://mlcs.stats.ox.ac.uk/" title="http://mlcs.stats.ox.ac.uk/" target="_blank">Computational Statistics and Machine Learning</a></li>
+
+      </ul>
+      <h6>Molecular Dynamics</h6>
+      <ul>
+      <li><a href="http://aims.robots.ox.ac.uk/" title="http://aims.robots.ox.ac.uk/" target="_blank">CDT in Autonomous Intelligent Machines and Systems</a></li>
+      <li><a href="http://www.oxwasp-cdt.ac.uk/" title="http://www.oxwasp-cdt.ac.uk/" target="_blank">OxWaSP Statistical Program CDT</a></li>
+
+      
+      </ul>
+      <div class="block">
       </div>
    </div>
    <!-- .col-md-5 close -->
