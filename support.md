@@ -18,7 +18,7 @@ The partner universities provide local technical support for their users through
 
 Currently, the local points of contact are:
 
-**University of Oxford:** Andrew Gittings, Martin Hadley
+**University of Oxford:** Andrew Gittings
 
 **University of Sheffield:** Twin Karmakharm, Paul Richmond
 
