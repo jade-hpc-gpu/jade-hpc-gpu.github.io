@@ -16,9 +16,9 @@ permalink: /consortium/
       <div class="block">
          <h4>University of Oxford (Lead Partner)</h4>
          University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research. <br>
-         Prof. Mike Giles is the Principal Investigator for JADE and is resident in the Mathematical Institue.
+         Prof. Mike Giles is the Principal Investigator for JADE and is resident in the Mathematical Institute.
       </div>
-      <h6>Machine Learning Groups</h6>
+      <h5>Machine Learning Groups</h5>
       <ul>
       <li><a href="https://www.cs.ox.ac.uk/activities/machinelearning/" title="http://www.ox.ac.uk/" target="_blank">Computer Science Machine Learning</a></li>
       <li><a href="http://ori.ox.ac.uk/" title="http://www.ox.ac.uk/" target="_blank">Molecular Dynamics</a></li>
@@ -29,7 +29,7 @@ permalink: /consortium/
       <li><a href="http://mlcs.stats.ox.ac.uk/" title="http://mlcs.stats.ox.ac.uk/" target="_blank">Computational Statistics and Machine Learning</a></li>
 
       </ul>
-      <h6>Molecular Dynamics</h6>
+      <h5>Molecular Dynamics</h5>
       <ul>
       <li><a href="http://aims.robots.ox.ac.uk/" title="http://aims.robots.ox.ac.uk/" target="_blank">CDT in Autonomous Intelligent Machines and Systems</a></li>
       <li><a href="http://www.oxwasp-cdt.ac.uk/" title="http://www.oxwasp-cdt.ac.uk/" target="_blank">OxWaSP Statistical Program CDT</a></li>
@@ -44,7 +44,7 @@ permalink: /consortium/
       <div class="block">
       <h4>Principle Investigators</h4>
          <strong>Professor Mike Giles</strong>
-         <h4>Co-Investigatorss</h4>
+         <h4>Co-Investigators</h4>
          <strong>Professor Anne Trefethen </strong><br>
          <strong>Dr Wesley Armour</strong><br>
          <strong>Dr Ian John Bush</strong>
@@ -70,7 +70,7 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-      <h4>Co-Investigatorss</h4>
+      <h4>Co-Investigators</h4>
          <strong>Professor Simon McIntosh-Smith</strong>
       </div>
    </div>
@@ -95,7 +95,7 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-      <h4>Co-Investigatorss</h4>
+      <h4>Co-Investigators</h4>
          <strong>Dr Alan Gray</strong>
       </div>
    </div>
@@ -119,7 +119,7 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-      <h4>Co-Investigatorss</h4>
+      <h4>Co-Investigators</h4>
          <strong>Professor Giovanni Montana</strong>
       </div>
    </div>
@@ -143,7 +143,7 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-      <h4>Co-Investigatorss</h4>
+      <h4>Co-Investigators</h4>
          <strong>Professor Mark Sandler</strong>
       </div>
    </div>
@@ -167,7 +167,7 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-      <h4>Co-Investigatorss</h4>
+      <h4>Co-Investigators</h4>
          <strong>Dr Paul Richmond</strong>
       </div>
    </div>
@@ -191,7 +191,7 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-      <h4>Co-Investigatorss</h4>
+      <h4>Co-Investigators</h4>
          <strong>Professor Simon Cox</strong>
       </div>
    </div>
@@ -215,7 +215,7 @@ permalink: /consortium/
    <!-- .col-md-5 close -->
    <div class="col-md-3 col-sm-12">
       <div class="block">
-      <h4>Co-Investigatorss</h4>
+      <h4>Co-Investigators</h4>
          <strong>Dr James Hetherington</strong><br>
          <strong>Mr Denis Timm </strong>
       </div>
