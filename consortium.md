@@ -29,7 +29,7 @@ permalink: /consortium/
       <li><a href="http://mlcs.stats.ox.ac.uk/" title="http://mlcs.stats.ox.ac.uk/" target="_blank">Computational Statistics and Machine Learning</a></li>
 
       </ul>
-      <h5>Molecular Dynamics</h5>
+      <h5>Molecular Dynamics Groups</h5>
       <ul>
       <li><a href="http://aims.robots.ox.ac.uk/" title="http://aims.robots.ox.ac.uk/" target="_blank">CDT in Autonomous Intelligent Machines and Systems</a></li>
       <li><a href="http://www.oxwasp-cdt.ac.uk/" title="http://www.oxwasp-cdt.ac.uk/" target="_blank">OxWaSP Statistical Program CDT</a></li>
