@@ -10,12 +10,11 @@ permalink: /consortium/
          <a href="http://www.ox.ac.uk/" title="http://www.ox.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/oxford-logo.gif" alt="" width="85%" height="85%" /></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
    <div class="col-md-6 col-sm-12">
-      <div class="block">
-         <h4>University of Oxford (Lead Partner)</h4>
-         University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research. Prof. Mike Giles is the Principal Investigator for JADE and is resident in the Mathematical Institute.
-      </div>
+
+    <h4>University of Oxford (Lead Partner)</h4>
+    University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research. Prof. Mike Giles is the Principal Investigator for JADE and is resident in the Mathematical Institute.
+
       <h5>Machine Learning and Related CDTs</h5>
       <ul>
       <li><a href="https://www.cs.ox.ac.uk/activities/machinelearning/" title="https://www.cs.ox.ac.uk/activities/machinelearning/" target="_blank">Computer Science Machine Learning</a></li>
@@ -39,7 +38,7 @@ permalink: /consortium/
       <li><a href="http://sbcb.bioch.ox.ac.uk/biggin.php/" title="http://sbcb.bioch.ox.ac.uk/biggin.php/" target="_blank">Biggin group -- Computational Biochemistry </a></li>
       </ul>
    </div>
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Principal Investigators</h4>
@@ -51,7 +50,7 @@ permalink: /consortium/
          <strong>Dr Ian John Bush</strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
 
 <div class="row bottom-buffer">
@@ -60,7 +59,7 @@ permalink: /consortium/
        <a href="http://www.bris.ac.uk/" title="http://www.bris.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/bristol-logo.jpg" alt="" width="80%" height="80%" /></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
+
    <div class="col-md-6 col-sm-12">
       <div class="block">
          <h4>University of Bristol</h4>
@@ -68,14 +67,14 @@ permalink: /consortium/
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.bris.ac.uk/" title="http://www.bris.ac.uk/" target="_blank">http://www.bris.ac.uk/</a></p>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
          <strong>Professor Simon McIntosh-Smith</strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
 
 
@@ -85,7 +84,7 @@ permalink: /consortium/
          <a href="http://www.ed.ac.uk/" title="http://www.ed.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/uoe-logo.jpg" alt="" width="80%" height="80%" /></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
+
    <div class="col-md-6 col-sm-12">
       <div class="block">
          <h4>University of Edinburgh</h4>
@@ -93,14 +92,14 @@ permalink: /consortium/
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.ed.ac.uk/" title="http://www.ed.ac.uk/" target="_blank">http://www.ed.ac.uk/</a></p>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
          <strong>Dr Alan Gray</strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
 
 <div class="row bottom-buffer">
@@ -109,7 +108,7 @@ permalink: /consortium/
          <a href="http://www.kcl.ac.uk/" title="http://www.kcl.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/kcl-logo.jpg" alt="" width="70%" height="70%"/></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
+
    <div class="col-md-6 col-sm-12">
       <div class="block">
          <h4>King's College London</h4>
@@ -117,14 +116,14 @@ permalink: /consortium/
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.kcl.ac.uk/" title="http://www.kcl.ac.uk/" target="_blank">http://www.kcl.ac.uk/</a></p>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
          <strong>Professor Giovanni Montana</strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
 
 <div class="row bottom-buffer">
@@ -133,7 +132,7 @@ permalink: /consortium/
          <a href="http://www.qmul.ac.uk/" title="http://www.qmul.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/qm-logo.gif" alt="QMUL logo" width="90%" height="90%" /></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
+
    <div class="col-md-6 col-sm-12">
 
 <div class="block">
@@ -162,14 +161,14 @@ based in the School of Electronic Engineering and Computer Science.
 </ul>
 </div>
 
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
          <strong>Professor Mark Sandler</strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
 
 <div class="row bottom-buffer">
@@ -178,7 +177,7 @@ based in the School of Electronic Engineering and Computer Science.
          <a href="http://www.sheffield.ac.uk/" title="http://www.sheffield.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width="95%" height="95%" /></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
+
    <div class="col-md-6 col-sm-12">
       <div class="block">
          <h4>University of Sheffield</h4>
@@ -186,14 +185,14 @@ based in the School of Electronic Engineering and Computer Science.
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.sheffield.ac.uk/" title="http://www.sheffield.ac.uk/" target="_blank">http://www.sheffield.ac.uk/</a></p>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
          <strong>Dr Paul Richmond</strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
  
 <div class="row bottom-buffer">
@@ -202,7 +201,7 @@ based in the School of Electronic Engineering and Computer Science.
          <a href="http://www.soton.ac.uk/" title="http://www.soton.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/southampton-logo.png" alt="" width="95%" height="95%"/></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
+
    <div class="col-md-6 col-sm-12">
       <div class="block">
          <h4>University of Southampton</h4>
@@ -210,14 +209,14 @@ based in the School of Electronic Engineering and Computer Science.
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.soton.ac.uk/" title="http://www.soton.ac.uk/" target="_blank">http://www.soton.ac.uk/</a></p>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
          <strong>Professor Simon Cox</strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
 
 <div class="row bottom-buffer">
@@ -226,7 +225,7 @@ based in the School of Electronic Engineering and Computer Science.
          <a href="http://www.ucl.ac.uk/" title="http://www.ucl.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/ucl-logo.png" alt="" width="80%" height="80%"/></a>
       </div>
    </div>
-   <!-- .col-md-7 close -->
+
    <div class="col-md-6 col-sm-12">
       <div class="block">
          <h4>University College London</h4>
@@ -234,7 +233,7 @@ based in the School of Electronic Engineering and Computer Science.
          <p class="website" ><strong class="uppercase">Website</strong> <a href="http://www.ucl.ac.uk/" title="http://www.ucl.ac.uk/" target="_blank">http://www.ucl.ac.uk/</a></p>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
@@ -242,5 +241,5 @@ based in the School of Electronic Engineering and Computer Science.
          <strong>Mr Denis Timm </strong>
       </div>
    </div>
-   <!-- .col-md-5 close -->
+
 </div>
