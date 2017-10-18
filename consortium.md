@@ -156,7 +156,7 @@ based in the School of Electronic Engineering and Computer Science.
 <h5>Molecular Dynamics Research Centres</h5>
 
 <ul>
-<li><a href="https://www.materials.qmul.ac.uk/" title="https://www.materials.qmul.ac.uk/" target="_blank">Materials Research Centre</a></li>
+<li><a href="https://www.materials.qmul.ac.uk/" title="https://www.materials.qmul.ac.uk/" target="_blank">Materials Research Institute</a></li>
 <li><a href="http://www.sbcs.qmul.ac.uk/about-us/researchdivisions/cellandmolecularbiology/" title="http://www.sbcs.qmul.ac.uk/about-us/researchdivisions/cellandmolecularbiology/" target="_blank">Cell and Molecular Biology</a></li>
 </ul>
 </div>
