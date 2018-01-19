@@ -15,15 +15,20 @@ JADE is particularly intended for applications using up to 8 GPUs with a very hi
 
 #### Machine Learning ####
 
-Initially, access to JADE for machine learning applications will be provided through the research groups of the partner universities.  PIs within those universities should contact their local RSE support or <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a>.
+PIs in the partner universities should contact their [local RSE support](http://www.jade.ac.uk/support/) or <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a>.
+
+PIs from other universities should apply for time through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/).
+
 
 #### Molecular Dynamics ####
 
-Discussions are underway to provide time for Molecular Dynamics applications via the [BioSim HEC](http://www.hecbiosim.ac.uk/).
+ Time for Molecular Dynamics applications will be allocated via the [BioSim HEC](http://www.hecbiosim.ac.uk/).
+
 
 #### Other Applications of JADE ####
 
-All UK academic users are eligible to apply for time for Other applications through the [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
+
+All UK academic users are eligible to apply for time for Other applications through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
 
 <hr />
 <h2 id="simple">Academic Access</h2>
