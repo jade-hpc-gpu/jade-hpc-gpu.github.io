@@ -17,7 +17,7 @@ JADE is particularly intended for applications using up to 8 GPUs with a very hi
 
 PIs in the partner universities should contact their [local RSE support](http://www.jade.ac.uk/support/) or <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a>.
 
-PIs from other universities should apply for time through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/).
+PIs from other universities should apply for time through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/files/funding/calls/2018/tier-2rapopenaccesscallspring2018/).
 
 
 #### Molecular Dynamics ####
