@@ -23,13 +23,13 @@ PIs from other universities should apply for time through the twice-yearly [EPSR
 
 #### Molecular Dynamics ####
 
- Time for Molecular Dynamics applications will be allocated via the [BioSim HEC](http://www.hecbiosim.ac.uk/).
+ Time for Molecular Dynamics applications will only be allocated via the [BioSim HEC](http://www.hecbiosim.ac.uk/).
 
 
 #### Other Applications of JADE ####
 
 
-All UK academic users are eligible to apply for time for Other applications through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
+All UK academic users are eligible to apply for time for Other applications (not Machine Learning or Molecular Dynamics) through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
 
 <hr />
 <h2 id="simple">Academic Access</h2>
