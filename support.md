@@ -29,6 +29,8 @@ Currently, the local points of contact are:
 **Queen Mary University of London:** Tom King
 
 **University of Southampton:** Ivan Wolton
+
+**The Alan Turing Institution:** Martin O'Reilly
  
 ## SAFE Account Support ##
 <!--This will help local users adopt the new facility, optimise their codes for this platform and hence maximise their scientific output from the machine. -->
