@@ -15,7 +15,7 @@ JADE is particularly intended for applications using up to 8 GPUs with a very hi
 
 #### Machine Learning ####
 
-PIs in the partner universities should contact their [local RSE support](http://www.jade.ac.uk/support/) or <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a>.
+PIs in the partner universities should contact their [local RSE support](http://www.jade.ac.uk/support/) or <a href="mailto:wes.armour@oerc.ox.ac.uk">Prof Wes Armour</a>.
 
 PIs from other universities should apply for time through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/files/funding/calls/2018/tier-2rapopenaccesscallspring2018/
 ).
@@ -29,7 +29,7 @@ PIs from other universities should apply for time through the twice-yearly [EPSR
 #### Other Applications of JADE ####
 
 
-All UK academic users are eligible to apply for time for Other applications (not Machine Learning or Molecular Dynamics) through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:mike.giles@maths.ox.ac.uk">Prof Mike Giles</a> in the first instance.
+All UK academic users are eligible to apply for time for Other applications (not Machine Learning or Molecular Dynamics) through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:wes.armour@oerc.ox.ac.uk">Prof Wes Armour</a> in the first instance.
 
 <hr />
 <h2 id="simple">Academic Access</h2>
