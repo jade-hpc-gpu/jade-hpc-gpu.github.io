@@ -24,7 +24,7 @@ Currently, the local points of contact are:
 
 **Kings College London:** Jacky Pallas
 
-**University College London:** James Hetherington
+**University College London:** Jonathan Cooper
 
 **Queen Mary University of London:** Tom King
 
