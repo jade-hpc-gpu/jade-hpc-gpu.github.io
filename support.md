@@ -30,7 +30,7 @@ Currently, the local points of contact are:
 
 **University of Southampton:** Ivan Wolton
 
-**The Alan Turing Institution:** Martin O'Reilly
+**The Alan Turing Institute:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
  
 ## SAFE Account Support ##
 <!--This will help local users adopt the new facility, optimise their codes for this platform and hence maximise their scientific output from the machine. -->
