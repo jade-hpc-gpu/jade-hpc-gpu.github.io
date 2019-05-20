@@ -56,6 +56,40 @@ permalink: /consortium/
 <div class="row bottom-buffer">
    <div class="col-xs-4 col-md-2">
       <div class="block">
+         <a href="https://www.turing.ac.uk/" title="https://www.turing.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/turing-logo.png" alt="" width="85%" height="85%" /></a>
+      </div>
+   </div>
+
+   <div class="col-md-6 col-sm-12">
+      <h4>The Alan Turing Institute</h4>
+      The Alan Turing Institute is a proud partner of the JADE consortium. Researchers at The Turing use and develop machine learning techniques across a range of disciplines, research programmes and challenge areas.
+
+      <h5>Research Programmes Using Machine Learning</h5>
+      <ul>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai" title="https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai" target="_blank">Artificial Intelligence (AI)</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/data-science-scale" title="https://www.turing.ac.uk/research/research-programmes/data-science-scale" target="_blank">Data Science at Scale</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/data-science-science" title="https://www.turing.ac.uk/research/research-programmes/data-science-science" target="_blank">Data Science for Science</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/data-centric-engineering" title="https://www.turing.ac.uk/research/research-programmes/data-centric-engineering" target="_blank">Data-Centric Engineering</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/defence-and-security" title="https://www.turing.ac.uk/research/research-programmes/defence-and-security" target="_blank">Defence and Security</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/finance-and-economics" title="https://www.turing.ac.uk/research/research-programmes/finance-and-economics" target="_blank">Finance and Economics</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/health-and-medical-sciences" title="https://www.turing.ac.uk/research/research-programmes/health-and-medical-sciences" target="_blank">Health and Medical Sciences</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/public-policy" title="https://www.turing.ac.uk/research/research-programmes/public-policy" target="_blank">Public Policy</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/research-engineering" title="https://www.turing.ac.uk/research/research-programmes/research-engineering" target="_blank">Research Engineering</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes/urban-analytics" title="https://www.turing.ac.uk/research/research-programmes/urban-analytics" target="_blank">Urban Analytics</a></li>
+      </ul>
+   </div>
+
+   <div class="col-md-3 col-sm-12">
+      <div class="block">
+       <h4>Co-Investigators</h4>
+         <strong>Dr James Hetherington</strong><br>
+      </div>
+   </div>
+</div>
+
+<div class="row bottom-buffer">
+   <div class="col-xs-4 col-md-2">
+      <div class="block">
        <a href="http://www.bris.ac.uk/" title="http://www.bris.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/bristol-logo.jpg" alt="" width="80%" height="80%" /></a>
       </div>
    </div>
