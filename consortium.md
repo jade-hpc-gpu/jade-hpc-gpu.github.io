@@ -64,18 +64,11 @@ permalink: /consortium/
       <h4>The Alan Turing Institute</h4>
       The Alan Turing Institute is a proud partner of the JADE consortium. Researchers at The Turing use and develop machine learning techniques across a range of disciplines, research programmes and challenge areas.
 
-      <h5>Research Programmes Using Machine Learning</h5>
+      <h5>Machine Learning at the Turing</h5>
       <ul>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai" title="https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai" target="_blank">Artificial Intelligence (AI)</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/data-science-scale" title="https://www.turing.ac.uk/research/research-programmes/data-science-scale" target="_blank">Data Science at Scale</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/data-science-science" title="https://www.turing.ac.uk/research/research-programmes/data-science-science" target="_blank">Data Science for Science</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/data-centric-engineering" title="https://www.turing.ac.uk/research/research-programmes/data-centric-engineering" target="_blank">Data-Centric Engineering</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/defence-and-security" title="https://www.turing.ac.uk/research/research-programmes/defence-and-security" target="_blank">Defence and Security</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/finance-and-economics" title="https://www.turing.ac.uk/research/research-programmes/finance-and-economics" target="_blank">Finance and Economics</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/health-and-medical-sciences" title="https://www.turing.ac.uk/research/research-programmes/health-and-medical-sciences" target="_blank">Health and Medical Sciences</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/public-policy" title="https://www.turing.ac.uk/research/research-programmes/public-policy" target="_blank">Public Policy</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/research-engineering" title="https://www.turing.ac.uk/research/research-programmes/research-engineering" target="_blank">Research Engineering</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes/urban-analytics" title="https://www.turing.ac.uk/research/research-programmes/urban-analytics" target="_blank">Urban Analytics</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes" title="https://www.turing.ac.uk/research/research-programmes" target="_blank">Research Programmes</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-projects" title="https://www.turing.ac.uk/research/research-projects" target="_blank">Research Projects</a></li>
+        <li><a href="https://www.turing.ac.uk/research/interest-groups" title="https://www.turing.ac.uk/research/interest-groups" target="_blank">Interest Groups</a></li>
       </ul>
    </div>
 
