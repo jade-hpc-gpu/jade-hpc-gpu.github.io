@@ -56,6 +56,33 @@ permalink: /consortium/
 <div class="row bottom-buffer">
    <div class="col-xs-4 col-md-2">
       <div class="block">
+         <a href="https://www.turing.ac.uk/" title="https://www.turing.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/turing-logo.png" alt="" width="85%" height="85%" /></a>
+      </div>
+   </div>
+
+   <div class="col-md-6 col-sm-12">
+      <h4>The Alan Turing Institute</h4>
+      The Alan Turing Institute is a proud partner of the JADE consortium. Researchers at The Turing use and develop machine learning techniques across a range of disciplines, research programmes and challenge areas.
+
+      <h5>Machine Learning at the Turing</h5>
+      <ul>
+        <li><a href="https://www.turing.ac.uk/research/research-programmes" title="https://www.turing.ac.uk/research/research-programmes" target="_blank">Research Programmes</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-projects" title="https://www.turing.ac.uk/research/research-projects" target="_blank">Research Projects</a></li>
+        <li><a href="https://www.turing.ac.uk/research/interest-groups" title="https://www.turing.ac.uk/research/interest-groups" target="_blank">Interest Groups</a></li>
+      </ul>
+   </div>
+
+   <div class="col-md-3 col-sm-12">
+      <div class="block">
+       <h4>Co-Investigators</h4>
+         <strong>Dr James Hetherington</strong><br>
+      </div>
+   </div>
+</div>
+
+<div class="row bottom-buffer">
+   <div class="col-xs-4 col-md-2">
+      <div class="block">
        <a href="http://www.bris.ac.uk/" title="http://www.bris.ac.uk/" target="_blank"><img src="{{ site.baseurl }}/img/logo/bristol-logo.jpg" alt="" width="80%" height="80%" /></a>
       </div>
    </div>
