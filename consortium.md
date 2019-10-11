@@ -66,9 +66,14 @@ permalink: /consortium/
 
       <h5>Machine Learning at the Turing</h5>
       <ul>
-        <li><a href="https://www.turing.ac.uk/research/research-programmes" title="https://www.turing.ac.uk/research/research-programmes" target="_blank">Research Programmes</a></li>
-        <li><a href="https://www.turing.ac.uk/research/research-projects" title="https://www.turing.ac.uk/research/research-projects" target="_blank">Research Projects</a></li>
-        <li><a href="https://www.turing.ac.uk/research/interest-groups" title="https://www.turing.ac.uk/research/interest-groups" target="_blank">Interest Groups</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/computer-vision" title="https://www.turing.ac.uk/research/research-areas/machine-learning/computer-vision" target="_blank">Computer Vision</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/deep-learning" title="https://www.turing.ac.uk/research/research-areas/machine-learning/deep-learning" target="_blank"> Deep Learning</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/natural-language-processing" title="https://www.turing.ac.uk/research/research-areas/machine-learning/natural-language-processing" target="_blank"> Natural Language Processing</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/pattern-recognition" title="https://www.turing.ac.uk/research/research-areas/machine-learning/pattern-recognition" target="_blank">Pattern Recognition</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/reinforcement-learning" title="https://www.turing.ac.uk/research/research-areas/machine-learning/reinforcement-learning" target="_blank">Reinforcement Learning</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/semi-supervised-learning" title="https://www.turing.ac.uk/research/research-areas/machine-learning/semi-supervised-learning" target="_blank">Semi-supervised Learning</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/unsupervised-learning" title="https://www.turing.ac.uk/research/research-areas/machine-learning/unsupervised-learning" target="_blank">Unsupervised Learning</a></li>
+        <li><a href="https://www.turing.ac.uk/research/research-areas/machine-learning/speech-recognition" title="https://www.turing.ac.uk/research/research-areas/machine-learning/speech-recognition" target="_blank">Speech Recognition</a></li>
       </ul>
    </div>
 
