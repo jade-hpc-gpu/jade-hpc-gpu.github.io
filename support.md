@@ -22,7 +22,7 @@ Currently, the local points of contact are:
 
 **University of Sheffield:** Mozhgan Kabiri-Chimeh, Twin Karmakharm, Paul Richmond
 
-**Kings College London:** Jacky Pallas
+**Kings College London:** Richard Christie
 
 **University College London:** Jonathan Cooper
 
