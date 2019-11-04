@@ -69,7 +69,6 @@ permalink: /links/
 - JADE Web site (University of Oxford): [http://www.arc.ox.ac.uk/content/jade](http://www.arc.ox.ac.uk/content/jade)
 - JADE Documentation: [http://docs.jade.ac.uk/en/latest/](http://docs.jade.ac.uk/en/latest/)
 - HPC-UK web site: [http://www.hpc-uk.ac.uk/](http://www.hpc-uk.ac.uk/)
-- Hartree User Guide for JADE: [http://community.hartree.stfc.ac.uk/wiki/site/admin/jade.html](http://community.hartree.stfc.ac.uk/wiki/site/admin/jade.html)
 
 
 

@@ -6,7 +6,7 @@ permalink: "/support/"
 
 ## JADE System Status ## 
 
-The current status of the JADE system is displayed on the [Hartree Centre Status page](http://community.hartree.stfc.ac.uk/wiki/site/admin/status.html).
+The current status of the JADE system is displayed on the [Hartree Centre Status page](https://stfc.service-now.com/hartreecentre?id=hartree_status_page).
 
 ## JADE Documentation ## 
 

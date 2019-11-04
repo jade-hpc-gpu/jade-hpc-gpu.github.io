@@ -44,19 +44,19 @@ To obtaining a user account you need:
 
 This is a web account which will show you which projects you belong to, and the accounts which you have in them.
 
-Before applying for a SAFE account, you should have an SSH key-pair ready, so you are ready to provide your public key as part of the SAFE registration process.  Information on generating and using SSH keys is available [here](http://yukon.dl.ac.uk:8080/wiki/site/admin/SAFE%20User%20Guide.html#ssh).  Contact 
+Before applying for a SAFE account, you should have an SSH key-pair ready, so you are ready to provide your public key as part of the SAFE registration process.  Information on generating and using SSH keys is available [here](https://stfc.service-now.com/hartreecentre?id=kb_article&sys_id=9dbedf2edba96200e47b7cc9bf9619a2).  Contact 
 your local University RSE Support for any help.
 
 Once you have your public SSH key ready, apply for your SAFE account [here](https://um.hartree.stfc.ac.uk/hartree/login.jsp) and providing all of the required information.
 
 Once your account is approved, you receive an email giving your initial password.  When you login for the first time you will be asked to change it to a new one.
 
-Further details on the registration process are available [here](http://community.hartree.stfc.ac.uk/wiki/site/admin/safe%20user%20guide.html).
+Further details on the registration process are available [here](https://stfc.service-now.com/hartreecentre?id=kb_article&sys_id=9dbedf2edba96200e47b7cc9bf9619a2).
 
 
 #### JADE accounts ####
 
-Use your [SAFE account](https://um.hartree.stfc.ac.uk/hartree/TransitionServlet/ProjectRequest/) to apply for an account on JADE.  Select the appropriate project from the drop-down list, enter the JADE project access which you have from the project PI or manager, and then click "Request".
+Use your [SAFE account](https://um.hartree.stfc.ac.uk/hartree/) to apply for an account on JADE.  Select the appropriate project from the drop-down list, enter the JADE project access which you have from the project PI or manager, and then click "Request".
 
 
 The approval process goes through several steps:
@@ -82,7 +82,7 @@ Note also that JADE has multiple front-end systems, and because of this some SSH
 
 #### ServiceNow Account ####
 
-Additionally, an optional step is applying for a Hartree **ServiceNow** account, which is a web account used for reporting any operational issues with JADE.   An account can be obtained following [here](http://community.hartree.stfc.ac.uk/wiki/site/admin/servicenow.html).
+Additionally, an optional step is applying for a Hartree **ServiceNow** account, which is a web account used for reporting any operational issues with JADE.   An account can be obtained following [here](https://stfc.service-now.com/hartreecentre).
 
 Note the guidance which explains that on first login, you will not have a password so you need to click on the link which says "reset your password here".
 
