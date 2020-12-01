@@ -6,7 +6,7 @@ permalink: "/support/"
 
 ## JADE System Status ## 
 
-The current status of the JADE system is displayed on the [Hartree Centre Status page](https://stfc.service-now.com/hartreecentre?id=hartree_status_page).
+The current status of the JADE system is displayed on the [Hartree Centre Status page](https://stfc.service-now.com/hcssp?id=services_status).
 
 ## JADE Documentation ## 
 
@@ -14,11 +14,11 @@ Documentation on common tasks and how to use JADE is available [here](http://jad
 
 ## Institutional Support ##
 
-The partner universities provide local technical support for their users through Research Software Engineers (RSEs) and local HPC experts.  They will provide guidance to users staring to use JADE, and can also direct users to sources of specialist information if required.
+The partner universities provide technical support for their users through local HPC experts.  They will provide guidance to users starting to use JADE, and can also direct users to sources of specialist information if required.
 
 Currently, the local points of contact are:
 
-**University of Oxford:** Andrew Gittings
+**University of Oxford:** [Andrew Gittings](mailto:support@arc.ox.ac.uk)
 
 **University of Sheffield:** Mozhgan Kabiri-Chimeh, Twin Karmakharm, Paul Richmond
 
@@ -35,7 +35,7 @@ Currently, the local points of contact are:
 ## SAFE Account Support ##
 <!--This will help local users adopt the new facility, optimise their codes for this platform and hence maximise their scientific output from the machine. -->
 
-For issues with using your SAFE account on JADE, please contact the [Hartree helpdesk](https://stfc.service-now.com/nav_to.do?uri=%2Fhome_splash.do%3Fsysparm_direct%3Dtrue). Note that this helpdesk only provides support in account management, for questions about using JADE instead contact your local institutional support and for technical queries about software/drivers please use the GitHub Issue tracker.
+For issues with using your SAFE account on JADE, please contact the [Hartree helpdesk](https://stfc.service-now.com/hcssp). Note that this helpdesk only provides support in account management, for questions about using JADE instead contact your local institutional support and for technical queries about software/drivers please use the GitHub Issue tracker.
 
 ## Technical/Software Support ##
 
