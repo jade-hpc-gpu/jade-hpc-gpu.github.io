@@ -34,36 +34,59 @@ All UK academic users are eligible to apply for time for Other applications (not
 <hr />
 <h2 id="simple">Academic Access</h2>
 
-To obtaining a user account you need:
+To obtain a user account you need:
 
+* a Hartree Centre Self Service Portal Account;
 * a Hartree SAFE account;
 * a JADE project account and
 * a JADE project access code.
 
-#### SAFE accounts ####
+#### Hartree Centre Self Service Portal Account ####
 
-This is a web account which will show you which projects you belong to, and the accounts which you have in them.
+In order to gain technical support for the JADE machine firstly register for access to the
+Hartree Centre Self-Service Portal (HCSSP), which is a web account used for
+reporting any operational issues with JADE and provides access to the Hartree knowledge base. An account can be obtained [here](https://stfc.service-now.com/hcssp), using the
+register option in the top right hand corner. Once registered a user will be able to access
+the user guides linked below.
 
-Before applying for a SAFE account, you should have an SSH key-pair ready, so you are ready to provide your public key as part of the SAFE registration process.  Information on generating and using SSH keys is available [here](https://stfc.service-now.com/hartreecentre?id=kb_article&sys_id=9dbedf2edba96200e47b7cc9bf9619a2).  Contact 
-your local University RSE Support for any help.
+To access the Hartree Centre status page click [here](https://stfc.service-now.com/hcssp?id=services_status).
 
-Once you have your public SSH key ready, apply for your SAFE account [here](https://um.hartree.stfc.ac.uk/hartree/login.jsp) and providing all of the required information.
+For any account issues, please contact your local University JADE [point of contact](http://www.jade.ac.uk/support) in the first instance.
 
-Once your account is approved, you receive an email giving your initial password.  When you login for the first time you will be asked to change it to a new one.
+#### Accessing the JADE Machine - SAFE Accounts ####
 
-Further details on the registration process are available [here](https://stfc.service-now.com/hartreecentre?id=kb_article&sys_id=9dbedf2edba96200e47b7cc9bf9619a2).
+SAFE is the user account management system that the Hartree Centre currently use for
+accessing machines, this is a web account which will show you which projects you
+belong to, and your accounts associated with them.
+
+Before applying for a SAFE account it is necessary to prepare an SSH key-pair, this will
+enable you to provide the public key as part of the SAFE registration. Information on
+generating and using SSH keys is available [here](https://stfc.service-now.com/kb?id=kb_article_view&amp;sys_kb_id=318854b7db451410b40c9334ca9619ec) for users who have already registered for the Hartree Self Service Portal.
+
+* Contact your local University JADE [point of contact](http://www.jade.ac.uk/support) for technical SSH key help.
+* Contact [hartree@stfc.ac.uk](mailto:hartree@stfc.ac.uk) if you are unable to access the links provided.
+
+Once your public SSH key is ready, apply for a SAFE account [here](https://um.hartree.stfc.ac.uk/hartree/login.jsp). An email will be
+sent to your inbox containing a temporary password. Upon first login it will be necessary
+to update your password.
+
+Further details on the SAFE registration process are available [here](https://stfc.service-now.com/kb?id=kb_article_view&amp;sys_kb_id=3eae9073db851410b40c9334ca961991).
+
+In order to request access to a project, contact the PI of the project for the access code.
+Request access and await approval by the PI of the project. In order to learn how to
+request access, please read the section below.
 
 
 #### JADE accounts ####
 
-Use your [SAFE account](https://um.hartree.stfc.ac.uk/hartree/) to apply for an account on JADE.  Select the appropriate project from the drop-down list, enter the JADE project access which you have from the project PI or manager, and then click "Request".
+Use your [SAFE account](https://um.hartree.stfc.ac.uk/hartree/) to apply for an account on JADE.  Select the appropriate project from the drop-down list, found beneath your personal information and any existing login accounts. Then enter the JADE project access code which you will have received from the project PI or manager, and then click "Request".
 
 
 The approval process goes through several steps:
 
 * approval by the PI or project manager (once this is done the SAFE status changes to Pending);
 * initial account setup (once this is done the SAFE status changes to Active) and
-* completion of account setup.
+* completion of account setup. Please note, that account setup is a manual process, and any changes/updates to your SSH key will be manually uploaded by the Hartree Centre support team.
 
 Once the account setup is complete, your SAFE account has full details on your new project account and you get a confirmation email.  This process should not take more than 2 working days.  If it takes more than that, check if the PI or project manager is aware that you have applied, and therefore your application needs their approval through the SAFE system.
 
@@ -78,15 +101,6 @@ Note that some users may belong to more than one project, in which case they wil
 Each project account will have a separate file structure, and separate quotas for GPU time, filestore and other system resources.
 
 Note also that JADE has multiple front-end systems, and because of this some SSH software operating under stringent security settings might give warnings about possible man-in-the-middle attacks because of apparent changes in machine settings.  This is a known issue and is being addressed, but in the meantime these warnings can be safely ignored.
-
-
-#### ServiceNow Account ####
-
-Additionally, an optional step is applying for a Hartree **ServiceNow** account, which is a web account used for reporting any operational issues with JADE.   An account can be obtained following [here](https://stfc.service-now.com/hartreecentre).
-
-Note the guidance which explains that on first login, you will not have a password so you need to click on the link which says "reset your password here".
-
-Due to a problem with synchronising userids between ServiceNow and JADE, it is possible that ServiceNow may say that your email address is not recognised.  If this happens, please send an email to <a href="mailto:hartree@stfc.ac.uk">hartree@stfc.ac.uk</a> and ask them to add you to the ServiceNow database.
 
 <!--- Other sections to come
 <hr />
