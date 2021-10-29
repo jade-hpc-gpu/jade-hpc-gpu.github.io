@@ -177,7 +177,7 @@ permalink: /consortium/
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
-         <strong>Professor Giovanni Montana</strong>
+         <strong>Dr Marc Modat</strong>
       </div>
    </div>
 
