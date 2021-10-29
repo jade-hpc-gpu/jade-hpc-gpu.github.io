@@ -45,9 +45,8 @@ permalink: /consortium/
          <strong>Professor Wes Armour</strong><br>
          <p></p>
          <h4>Co-Investigators</h4>
-         <strong>Professor Anne Trefethen </strong><br>
          <strong>Professor Mike Giles</strong><br>
-         <strong>Dr Ian John Bush</strong>
+         <strong>Professor Phil Biggin </strong><br>
       </div>
    </div>
 
@@ -80,7 +79,7 @@ permalink: /consortium/
    <div class="col-md-3 col-sm-12">
       <div class="block">
        <h4>Co-Investigators</h4>
-         <strong>Dr James Hetherington</strong><br>
+         <strong>Dr Tomas Lazauskas</strong><br>
       </div>
    </div>
 </div>
@@ -109,13 +108,13 @@ permalink: /consortium/
    <div class="col-md-3 col-sm-12">
       <div class="block">
       <h4>Co-Investigators</h4>
-         <strong>Professor Simon McIntosh-Smith</strong>
+         <strong>Dr Dima Damen</strong>
       </div>
    </div>
 
 </div>
 
-
+<!--
 <div class="row bottom-buffer">
    <div class="col-xs-4 col-md-2">
       <div class="block">
@@ -149,6 +148,7 @@ permalink: /consortium/
    </div>
 
 </div>
+-->
 
 <div class="row bottom-buffer">
    <div class="col-xs-4 col-md-2">
