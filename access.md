@@ -11,7 +11,7 @@ permalink: "/access/"
 
 As agreed with EPSRC, the use of JADE is to be split approximately 50:30:20 between Machine/Deep Learning (ML), Molecular Dynamics (MD), and other applications, with up to 10% of the use being for research in non-EPSRC areas.
 
-JADE is particularly intended for applications using up to 8 GPUs with a very high performance NVlink interconnect.  It is not designed for MPI applications spanning multple compute nodes; for this purpose users should apply to use the GPU system which is part of the [Cambridge Peta-5 GPU system](http://hpc-sig.org.uk/wp-content/blogs.dir/sites/63/2017/02/2017_02_09_tier2_Peta-5.pdf).
+JADE is particularly intended for applications using up to 8 GPUs with a very high performance NVlink interconnect.  It is not designed for MPI applications spanning multple compute nodes; for this purpose users should apply to use a more appropriate CPU/GPU Tier 2 system. Further details of these systems can be found [here](https://epsrc.ukri.org/research/facilities/hpc/tier-2-hpc-centres)
 
 #### Machine Learning ####
 
@@ -23,7 +23,7 @@ PIs from other universities should apply for time through the twice-yearly [EPSR
 
 #### Molecular Dynamics ####
 
- Time for Molecular Dynamics applications will only be allocated via the [BioSim HEC](http://www.hecbiosim.ac.uk/).
+Time for Molecular Dynamics applications will only be allocated via the [HECBioSim](http://www.hecbiosim.ac.uk/) consortium.
 
 
 #### Other Applications of JADE ####
@@ -36,8 +36,8 @@ All UK academic users are eligible to apply for time for Other applications (not
 
 To obtain a user account you need:
 
-* a Hartree Centre Self Service Portal Account;
-* a Hartree SAFE account;
+* a Hartree Centre Self Service Portal (Service Now) Account;
+* a [Hartree SAFE account](https://um.hartree.stfc.ac.uk/hartree/signup.jsp);
 * a JADE project account and
 * a JADE project access code.
 
@@ -93,7 +93,7 @@ Once the account setup is complete, your SAFE account has full details on your n
 Assuming your SAFE userid is **xyz**, and your project suffix is **abc**, then your project account username will be **xyz-abc** and you will login to JADE using the command
 
 ~~~ bash
-ssh -l xyz-abc jade.hartree.stfc.ac.uk
+ssh -l xyz-abc jade2.hartree.stfc.ac.uk
 ~~~
 
 Note that some users may belong to more than one project, in which case they will have different account usernames for each project, and all of them will be listed on their SAFE web account.
