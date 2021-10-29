@@ -12,26 +12,6 @@ The current status of the JADE system is displayed on the [Hartree Centre Status
 
 Documentation on common tasks and how to use JADE is available [here](http://jade-hpc.readthedocs.io/).
 
-## Institutional Support ##
-
-The partner universities provide technical support for their users through local HPC experts.  They will provide guidance to users starting to use JADE, and can also direct users to sources of specialist information if required.
-
-Currently, the local points of contact are:
-
-**University of Oxford:** [Andrew Gittings](mailto:support@arc.ox.ac.uk)
-
-**University of Sheffield:** Mozhgan Kabiri-Chimeh, Twin Karmakharm, Paul Richmond
-
-**Kings College London:** Richard Christie
-
-**University College London:** Jonathan Cooper
-
-**Queen Mary University of London:** Tom King
-
-**University of Southampton:** Ivan Wolton
-
-**The Alan Turing Institute:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
- 
 ## SAFE Account Support ##
 <!--This will help local users adopt the new facility, optimise their codes for this platform and hence maximise their scientific output from the machine. -->
 
@@ -40,6 +20,28 @@ For issues with using your SAFE account on JADE, please contact the [Hartree hel
 ## Technical/Software Support ##
 
 If you have questions about software versions, including installing new software on to JADE, please use the [GitHub Issue tracker](https://github.com/jade-hpc-gpu/jade-hpc-gpu.github.io/issues).
+
+## Institutional Support ##
+
+The partner universities provide technical support for their users through local HPC experts.  They will provide guidance to users starting to use JADE, and can also direct users to sources of specialist information if required.
+
+Currently, the local points of contact are:
+
+**The Alan Turing Institute:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
+ 
+**Kings College London:** Richard Christie
+
+**Queen Mary University of London:** Tom King
+
+**University College London:** Jonathan Cooper
+
+**University of Oxford:** [Andrew Gittings](mailto:support@arc.ox.ac.uk)
+
+**University of Sheffield:** Mozhgan Kabiri-Chimeh, Twin Karmakharm, Paul Richmond
+
+**University of Southampton:** Ivan Wolton
+
+
 
 <!--
 <section id="portfolio-work">
