@@ -15,7 +15,7 @@ University of Oxford is proud to be the Lead Partner for the JADE system and wil
 **Machine Learning and Related CDTs**
 - [Computer Science Machine Learning](https://www.cs.ox.ac.uk/activities/machinelearning/)
 - [Mobile Robotics](http://ori.ox.ac.uk/)
-- [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/projects.php "http://www.robots.ox.ac.uk/~tvg/projects.php")
+- [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/projects.php "http://www.robots.ox.ac.uk/~tvg")
 - [Engineering Science Machine Learning Research Group](http://www.robots.ox.ac.uk/~parg/ "http://www.robots.ox.ac.uk/~parg/")
 -   [Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/ "http://www.robots.ox.ac.uk/~vgg/")
 - [Computational Statistics and Machine Learning](http://mlcs.stats.ox.ac.uk/ "http://mlcs.stats.ox.ac.uk/")
