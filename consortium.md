@@ -75,7 +75,6 @@ Queen Mary University of London is pleased to be a member the JADE consortium. W
 **Molecular Dynamics Research Centres**
 
 -   [Materials Research Institute](https://www.materials.qmul.ac.uk/ "https://www.materials.qmul.ac.uk/")
--   [Cell and Molecular Biology](http://www.sbcs.qmul.ac.uk/about-us/researchdivisions/cellandmolecularbiology/ "http://www.sbcs.qmul.ac.uk/about-us/researchdivisions/cellandmolecularbiology/")
 
 ## University of Sheffield
 University of Sheffield is a proud partner of the JADE consortium, and looks forward to supporting academics from the University in using JADE for their research into machine learning and molecular dynamics applications.
