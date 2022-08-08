@@ -9,6 +9,7 @@ permalink: /consortium/
 University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research.
 
 **Principal Investigator:**  Professor Wes Armour
+
 **Co-Investigators:** Professor Mike Giles, Professor Phil Biggin
 
 **Machine Learning and Related CDTs**
