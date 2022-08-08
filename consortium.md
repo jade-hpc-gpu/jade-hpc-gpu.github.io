@@ -90,11 +90,11 @@ University of Sheffield is a proud partner of the JADE consortium, and looks for
 
 **Co-Investigators:** Professor Simon Cox
 
-##### Machine Learning and Related CDTs
+**Machine Learning and Related CDTs**
 
 -   [Vision, Learning and Control Research Group](http://www.vlc.ecs.soton.ac.uk/ "http://www.vlc.ecs.soton.ac.uk/")
 
-##### Moleculear Dynamics Groups
+**Moleculear Dynamics Groups**
 
 -   [Next Generation Computational Modelling](http://www.ngcm.soton.ac.uk/ "http://www.ngcm.soton.ac.uk//")
 
