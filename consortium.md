@@ -100,5 +100,8 @@ permalink: /consortium/
 
 -   [Centre for Computational Statistics and Machine Learning](http://www.csml.ucl.ac.uk/ "http://www.csml.ucl.ac.uk/")
 
+## University of Bath
+
+**Co-Investigators:** Dr Tom Fincham-Haines
 
 
