@@ -6,10 +6,8 @@ permalink: /consortium/
 
 
 ## University of Oxford (Lead Partner)
-University of Oxford is proud to be the Lead Partner for the JADE system and will host events in the near future to showcase the applications of JADE for both machine learning and molecular dynamics research.
 
 **Principal Investigator:**  Professor Wes Armour
-
 **Co-Investigators:** Professor Mike Giles, Professor Phil Biggin
 
 **Machine Learning and Related CDTs**
@@ -27,7 +25,6 @@ University of Oxford is proud to be the Lead Partner for the JADE system and wil
 -   [Biggin group -- Computational Biochemistry](http://sbcb.bioch.ox.ac.uk/biggin.php/ "http://sbcb.bioch.ox.ac.uk/biggin.php/")
 
 ## The Alan Turing Institute
-The Alan Turing Institute is a proud partner of the JADE consortium. Researchers at The Turing use and develop machine learning techniques across a range of disciplines, research programmes and challenge areas.
 
 **Co-Investigators:** Dr Tomas Lazauskas
 
@@ -43,7 +40,6 @@ The Alan Turing Institute is a proud partner of the JADE consortium. Researchers
 -   [Speech Recognition](https://www.turing.ac.uk/research/research-areas/machine-learning/speech-recognition "https://www.turing.ac.uk/research/research-areas/machine-learning/speech-recognition")
 
 ## University of Bristol
-University of Bristol is a proud partner of the JADE consortium, and looks forward to supporting academics from the University in using JADE for their research into machine learning and molecular dynamics applications.
 
 **Co-Investigators:** Dr Dima Damen
 
@@ -52,7 +48,6 @@ University of Bristol is a proud partner of the JADE consortium, and looks forwa
 -   [Intelligent Systems Lab](http://intelligentsystems.bristol.ac.uk/ "http://intelligentsystems.bristol.ac.uk/")
 
 ## King's College London
-King's College London is a proud partner of the JADE consortium, and looks forward to supporting academics from the University in using JADE for their research into machine learning and molecular dynamics applications.
 
 **Co-Investigators:** Dr Marc Modat
 
@@ -61,7 +56,6 @@ King's College London is a proud partner of the JADE consortium, and looks forwa
 -   [Statistical Learning Group](https://www.kcl.ac.uk/ioppn/depts/BiostatisticsHealthInformatics/research/Research-groups/Statistical-Learning-Group.aspx "https://www.kcl.ac.uk/ioppn/depts/BiostatisticsHealthInformatics/research/Research-groups/Statistical-Learning-Group.aspx")
 
 ## Queen Mary, University of London
-Queen Mary University of London is pleased to be a member the JADE consortium. We have a number of research centres engaged in Machine Learning and Molecular Dynamics, within our Science and Engineering faculty, that will benefit from this unique resource. Mark Sandler, Professor of Signal Processing, is the co-investigator for QMUL and is based in the School of Electronic Engineering and Computer Science.
 
 **Co-Investigators:** Professor Mark Sandler
 
@@ -77,7 +71,6 @@ Queen Mary University of London is pleased to be a member the JADE consortium. W
 -   [Materials Research Institute](https://www.materials.qmul.ac.uk/ "https://www.materials.qmul.ac.uk/")
 
 ## University of Sheffield
-University of Sheffield is a proud partner of the JADE consortium, and looks forward to supporting academics from the University in using JADE for their research into machine learning and molecular dynamics applications.
 
 **Co-Investigators:** Dr Paul Richmond
 
@@ -86,7 +79,6 @@ University of Sheffield is a proud partner of the JADE consortium, and looks for
 -   [Machine Learning](http://www.sheffield.ac.uk/dcs/research/groups/machine-learning "http://www.sheffield.ac.uk/dcs/research/groups/machine-learning")
 
 ## University of Southampton
-University of Sheffield is a proud partner of the JADE consortium, and looks forward to supporting academics from the University in using JADE for their research into machine learning and molecular dynamics applications.
 
 **Co-Investigators:** Professor Simon Cox
 
@@ -100,7 +92,6 @@ University of Sheffield is a proud partner of the JADE consortium, and looks for
 
 
 ## University College London
-University College London is a proud partner of the JADE consortium, and looks forward to supporting academics from the University in using JADE for their research into machine learning and molecular dynamics applications.
 
 **Co-Investigators:** Dr James Hetherington, Mr Denis Timm
 
