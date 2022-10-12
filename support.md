@@ -35,7 +35,7 @@ Currently, the local points of contact are:
 
 **University College London:** Jonathan Cooper
 
-**University of Oxford:** [Advanced Research Computing Support](mailto:support@arc.ox.ac.uk) This will normally be Andy...
+**University of Oxford:** [Advanced Research Computing Support](mailto:support@arc.ox.ac.uk)
 
 **University of Sheffield:** Mozhgan Kabiri-Chimeh, Twin Karmakharm, Paul Richmond
 
