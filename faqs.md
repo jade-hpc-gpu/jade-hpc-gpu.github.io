@@ -4,6 +4,6 @@ layout: page
 permalink: "/faqs/"
 ---
 
-Frequently Asked Quesions
-=========================
+Frequently Asked Questions
+==========================
 
