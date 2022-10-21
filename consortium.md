@@ -125,6 +125,5 @@ permalink: /consortium/
 **Co-Investigators:** Dr Ahmed Fetit, Dr Dugan Witherick
 
 
-For more information see our [User Guide](https://docs.jade.ac.uk/en/latest/)
 
 
