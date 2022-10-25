@@ -53,7 +53,7 @@ permalink: /consortium/
 ## King's College London
 
 **Co-Investigators:** Dr Marc Modat
-**Instituional Support:** Richard Christie 
+**Institutional Support:** Richard Christie 
 
 **Machine Learning and Related CDTs**
 
