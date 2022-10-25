@@ -101,7 +101,7 @@ permalink: /consortium/
 ## University College London
 
 **Co-Investigators:** Dr James Hetherington, Mr Denis Timm
-**Instituional Support:** Jonathan Cooper
+**Institutional Support:** Jonathan Cooper
 
 **Machine Learning and Related CDTs**
 
