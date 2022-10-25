@@ -28,7 +28,7 @@ permalink: /consortium/
 ## The Alan Turing Institute
 
 **Co-Investigators:** Dr Tomas Lazauskas
-**Institutional Support:** (Jim Madge)(https://www.turing.ac.uk/people/researchers/jim-madge), (Tomas Lazauskas)(https://www.turing.ac.uk/people/researchers/tomas-lazauskas) 
+**Institutional Support:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas) 
 
 **Machine Learning at the Turing**
 
