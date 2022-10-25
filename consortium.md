@@ -78,7 +78,7 @@ permalink: /consortium/
 ## University of Sheffield
 
 **Co-Investigators:** Dr Paul Richmond
-**Instituional Support:** Twin Karmakharm
+**Institutional Support:** Twin Karmakharm
 
 **Machine Learning and Related CDTs**
 
