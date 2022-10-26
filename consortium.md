@@ -152,7 +152,9 @@ permalink: /consortium/
 
 ## Imperial College London
 
-**Co-Investigators:** Dr Ahmed Fetit, Dr Dugan Witherick
+**Co-Investigators:** Aldo Faisal 
+
+**Institutional Support:** Dr Dugan Witherick
 
 
 ## Newcastle University
