@@ -5,8 +5,7 @@ permalink: "/events/"
 ---
 
 
-## Related Upcoming Events in December 
-<br>
+## Upcoming Related Events in December 
 
 ## [ARCHER2 Training Course Information](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/)
 <br>
