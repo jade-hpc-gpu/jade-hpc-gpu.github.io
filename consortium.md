@@ -24,8 +24,7 @@ permalink: /consortium/
 **Molecular Dynamics Groups**
 -   [Structural Bioinformatics and Computational Biochemistry Unit](http://sbcb.bioch.ox.ac.uk/sansom.php "http://sbcb.bioch.ox.ac.uk/sansom.php")
 -   [Biggin group -- Computational Biochemistry](http://sbcb.bioch.ox.ac.uk/biggin.php/ "http://sbcb.bioch.ox.ac.uk/biggin.php/")
-
-
+<br>
 
 
 ## The Alan Turing Institute
@@ -44,7 +43,7 @@ permalink: /consortium/
 -   [Semi-supervised Learning](https://www.turing.ac.uk/research/research-areas/machine-learning/semi-supervised-learning "https://www.turing.ac.uk/research/research-areas/machine-learning/semi-supervised-learning")
 -   [Unsupervised Learning](https://www.turing.ac.uk/research/research-areas/machine-learning/unsupervised-learning "https://www.turing.ac.uk/research/research-areas/machine-learning/unsupervised-learning")
 -   [Speech Recognition](https://www.turing.ac.uk/research/research-areas/machine-learning/speech-recognition "https://www.turing.ac.uk/research/research-areas/machine-learning/speech-recognition")
-
+<br>
 
 ## University of Bristol
 
@@ -55,7 +54,7 @@ permalink: /consortium/
 **Machine Learning and Related CDTs**
 
 -   [Intelligent Systems Lab](http://intelligentsystems.bristol.ac.uk/ "http://intelligentsystems.bristol.ac.uk/")
-
+<br>
 
 ## King's College London
 
@@ -66,7 +65,7 @@ permalink: /consortium/
 **Machine Learning and Related CDTs**
 
 -   [Statistical Learning Group](https://www.kcl.ac.uk/ioppn/depts/BiostatisticsHealthInformatics/research/Research-groups/Statistical-Learning-Group.aspx "https://www.kcl.ac.uk/ioppn/depts/BiostatisticsHealthInformatics/research/Research-groups/Statistical-Learning-Group.aspx")
-
+<br>
 
 ## Queen Mary, University of London
 
@@ -84,7 +83,7 @@ permalink: /consortium/
 **Molecular Dynamics Research Centres**
 
 -   [Materials Research Institute](https://www.materials.qmul.ac.uk/ "https://www.materials.qmul.ac.uk/")
-
+<br>
 
 ## University of Sheffield
 
@@ -95,7 +94,7 @@ permalink: /consortium/
 **Machine Learning and Related CDTs**
 
 -   [Machine Learning](http://www.sheffield.ac.uk/dcs/research/groups/machine-learning "http://www.sheffield.ac.uk/dcs/research/groups/machine-learning")
-
+<br>
 
 ## University of Southampton
 
@@ -110,7 +109,7 @@ permalink: /consortium/
 **Moleculear Dynamics Groups**
 
 -   [Next Generation Computational Modelling](http://www.ngcm.soton.ac.uk/ "http://www.ngcm.soton.ac.uk//")
-
+<br>
 
 ## University College London
 
@@ -121,70 +120,71 @@ permalink: /consortium/
 **Machine Learning and Related CDTs**
 
 -   [Centre for Computational Statistics and Machine Learning](http://www.csml.ucl.ac.uk/ "http://www.csml.ucl.ac.uk/")
-
+<br>
 
 ## University of Bath
 
 **Co-Investigators:** Dr Tom Fincham-Haines
 
 **Institutional Support:** Djordje Baljozovic
-
+<br>
 
 ## University of Surrey
 
 **Co-Investigators:** Dr Helen Cooper
 
 **Institutional Support:** servicedesk@surrey.ac.uk
-
+<br>
 
 ## University of York
 
 **Co-Investigators:** Dr James Walker
-
+<br>
 
 ## Loughborough University
 
 **Co-Investigators:** Professor Qinggang Meng
-
+<br>
 
 ## University of Leeds
 
 **Co-Investigators:** Martin Callaghan
-
+<br>
 
 ## Imperial College London
 
 **Co-Investigators:** Aldo Faisal 
 
 **Institutional Support:** Dr Dugan Witherick
-
+<br>
 
 ## Newcastle University
 
 **Co-Investigators:** Jaume Bacardit 
 
 **Institutional Support:** Jaume Bacardit 
-
+<br>
 
 ## University of Sussex
 
 **Co-Investigators:** Thomas Nowotny 
 
 **Institutional Support:** James Knight
-
+<br>
 
 ## University of Warwick
 
 **Co-Investigators:** Giovanni Montana 
 
 **Institutional Support:** Giovanni Montana 
-
+<br>
 
 ## University of Exeter
 
 **Co-Investigators:** Tim Dodwell
 
 **Institutional Support:** Omar Jamil 
+<br>
 
 ## Lancaster University
 
