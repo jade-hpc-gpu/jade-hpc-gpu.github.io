@@ -27,7 +27,7 @@ The partner universities provide technical support for their users through local
 
 Currently, the local points of contact are:
 
-**The Alan Turing Institute:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
+**The Alan Turing Institute:** [Research Computing](mailto:ResearchComputePlatforms@turing.ac.uk)
  
 **Kings College London:** Richard Christie
 
