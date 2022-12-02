@@ -4,6 +4,8 @@ layout: page
 permalink: "/events/"
 ---
 
+**[CIUK22](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** Thursday 1st and 2nd December 2022 
+<br>
 
 ## Upcoming Related Events in December 
 
