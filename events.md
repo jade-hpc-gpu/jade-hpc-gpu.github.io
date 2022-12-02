@@ -16,7 +16,7 @@ permalink: "/events/"
 **[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
 <br>
 ## Past Events 
-## Bristol University:
+**Bristol University:**
 **Introduction to Data Analysis in Python** - Monday 18th October
 <br>
 **Introduction to Data Analysis in Python** - Friday 22nd October 
