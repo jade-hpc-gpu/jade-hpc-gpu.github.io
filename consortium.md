@@ -67,7 +67,7 @@ permalink: /consortium/
 -   [Statistical Learning Group](https://www.kcl.ac.uk/ioppn/depts/BiostatisticsHealthInformatics/research/Research-groups/Statistical-Learning-Group.aspx "https://www.kcl.ac.uk/ioppn/depts/BiostatisticsHealthInformatics/research/Research-groups/Statistical-Learning-Group.aspx")
 <br><br>
 
-## Queen Mary, University of London
+## Queen Mary University of London
 
 **Co-Investigators:** Professor Mark Sandler
 
