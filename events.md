@@ -19,17 +19,17 @@ permalink: "/events/"
 
 **Bristol University:**
 <br>
-**Introduction to Data Analysis in Python** - Monday 18th October
-<br>
-**Introduction to Data Analysis in Python** - Friday 22nd October 
-<br>
-**Best practices in Software Engineering** - Monday 1st November 
-<br>
-**Best practices in Software Engineering** - 5th November 
-<br>
-**Introducing Git Version Control** - Monday 8th November 
+**Applied Data Analysis in Python** - Monday 15th November 
 <br>
 **Introducing Git Version Control** - Friday 12th November 
 <br>
-**Applied Data Analysis in Python** - Monday 15th November 
+**Introducing Git Version Control** - Monday 8th November 
+<br>
+**Best practices in Software Engineering** - 5th November 
+<br>
+**Best practices in Software Engineering** - Monday 1st November 
+<br>
+**Introduction to Data Analysis in Python** - Friday 22nd October 
+<br>
+**Introduction to Data Analysis in Python** - Monday 18th October
 <br>
