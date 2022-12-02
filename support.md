@@ -31,15 +31,15 @@ Currently, the local points of contact are:
 
 **University of Bath:** Djordje Baljozovic
 
-**University of Bristol:** Dima Damen, Daniel Whettam
+**University of Bristol:** Dr Dima Damen, Dr Daniel Whettam
 
 **University of Exeter:** Omar Jamil
 
-**Imperial College London:** Ahmed Fetit, Dugan Witherick
+**Imperial College London:** Ahmed Fetit, Dr Dugan Witherick
  
 **Kings College London:** Eric Kerfoot
 
-**Lancaster University:** Robin Long, Mike Pacey
+**Lancaster University:** Dr Robin Long, Dr Mike Pacey
 
 **HecBioSim:** Syma Khalid
 
@@ -53,7 +53,7 @@ Currently, the local points of contact are:
 
 **University of Southampton:** Ivan Wolton
 
-**University of Surrey:** Helen Cooper, servicedesk@surrey.ac.uk
+**University of Surrey:** servicedesk@surrey.ac.uk
 
 **University of Sussex:** James Knight
 
@@ -61,7 +61,7 @@ Currently, the local points of contact are:
 
 **University of Warwick:** Giovanni Montana
 
-**University of York:** James Walker
+**University of York:** Dr James Walker
 
 
 
