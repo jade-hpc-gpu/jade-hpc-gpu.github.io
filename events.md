@@ -14,3 +14,13 @@ permalink: "/events/"
 **[ARCHER2 Training Course Information](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/)**
 <br>
 **[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
+<br>
+## Past Events 
+# Bristol University:
+**Introduction to Data Analysis in Python** - Monday 18th October
+**Introduction to Data Analysis in Python** - Friday 22nd October 
+**Best practices in Software Engineering** - Monday 1st November 
+**Best practices in Software Engineering** - 5th November 
+**Introducing Git Version Control** - Monday 8th November 
+**Introducing Git Version Control** - Friday 12th November 
+**Applied Data Analysis in Python** - Monday 15th November 
