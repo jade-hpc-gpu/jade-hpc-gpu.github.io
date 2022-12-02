@@ -28,18 +28,42 @@ The partner universities provide technical support for their users through local
 Currently, the local points of contact are:
 
 **The Alan Turing Institute:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
+
+**University of Bath:** Djordje Baljozovic
+
+**University of Bristol:** Dima Damen, Daniel Whettam
+
+**University of Exeter:** Omar Jamil
+
+**Imperial College London:** Ahmed Fetit, Dugan Witherick
  
-**Kings College London:** Richard Christie
+**Kings College London:** Eric Kerfoot
 
-**Queen Mary University of London:** Tom King
+**Lancaster University:** Robin Long, Mike Pacey
 
-**University College London:** Jonathan Cooper
+**HecBioSim:** Syma Khalid
+
+**Newcastle University:** Jaume Bacardit 
 
 **University of Oxford:** [Advanced Research Computing Support](mailto:support@arc.ox.ac.uk)
 
-**University of Sheffield:** Mozhgan Kabiri-Chimeh, Twin Karmakharm, Paul Richmond
+**Queen Mary University of London:** Simon Butcher
+
+**University of Sheffield:** Twin Karmakharm, Paul Richmond
 
 **University of Southampton:** Ivan Wolton
+
+**University of Surrey:** Helen Cooper, servicedesk@surrey.ac.uk
+
+**University of Sussex:** James Knight
+
+**University College London:** Jonathan Cooper
+
+**University of Warwick:** Giovanni Montana
+
+**University of York:** James Walker
+
+
 
 
 
