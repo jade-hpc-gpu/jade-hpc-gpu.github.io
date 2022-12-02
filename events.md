@@ -18,6 +18,7 @@ permalink: "/events/"
 ## Past Training Courses 
 
 **Bristol University:**
+<br>
 **Introduction to Data Analysis in Python** - Monday 18th October
 <br>
 **Introduction to Data Analysis in Python** - Friday 22nd October 
