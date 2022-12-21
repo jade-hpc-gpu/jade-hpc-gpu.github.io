@@ -4,19 +4,30 @@ layout: page
 permalink: "/events/"
 ---
 
-## Upcoming Events in December 
-
-**[CIUK22](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** Thursday 1st and 2nd December 2022 
+## Training Courses 
+<br>
+**Imperial College London**
+<br>
+**[Online eLearning Course on AI and Machine Learning for Healthcare:](https://learn.nihr.ac.uk/course/view.php?id=975) 
+<br>
+**[Imperial AI Talks](https://ai4health.io/reports-and-resources/)
 <br>
 
-## Upcoming Related Events in December 
-
+## Past Events
+<br>
+**[CIUK22](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** Thursday 1st and 2nd December 2022 
+<br>
 **[ARCHER2 Training Course Information](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/)**
 <br>
 **[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
 <br>
+<br>
+**Imperial College London**
+<br>
+Digital Health Industry Day - September 
+<br>
 ## Past Training Courses 
-
+<br>
 **Bristol University:**
 <br>
 **Applied Data Analysis in Python** - Monday 15th November 
@@ -33,3 +44,5 @@ permalink: "/events/"
 <br>
 **Introduction to Data Analysis in Python** - Monday 18th October
 <br>
+
+
