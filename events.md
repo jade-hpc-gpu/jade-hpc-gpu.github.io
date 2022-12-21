@@ -9,7 +9,7 @@ permalink: "/events/"
 <br>
 **[Online eLearning Course on AI and Machine Learning for Healthcare:](https://learn.nihr.ac.uk/course/view.php?id=975)** 
 <br>
-**[Imperial AI Talks](https://ai4health.io/reports-and-resources/**
+**[Imperial AI Talks](https://ai4health.io/reports-and-resources/)**
 <br>
 
 ## Past Events
