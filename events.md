@@ -7,7 +7,7 @@ permalink: "/events/"
 ## Training Courses 
 **Imperial College London**
 <br>
-**[Online eLearning Course on AI and Machine Learning for Healthcare:](https://learn.nihr.ac.uk/course/view.php?id=975)** 
+**[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
 <br>
 **[Imperial AI Talks](https://ai4health.io/reports-and-resources/)**
 <br>
