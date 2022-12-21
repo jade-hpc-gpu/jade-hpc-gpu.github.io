@@ -19,7 +19,8 @@ permalink: "/events/"
 <br>
 **[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
 <br>
-**Imperial College London**
+<br>
+**Imperial College London:**
 <br>
 Digital Health Industry Day - September 
 <br>
