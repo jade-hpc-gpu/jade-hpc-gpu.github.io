@@ -13,7 +13,7 @@ permalink: "/events/"
 <br>
 
 ## Past Events
-**[CIUK22](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** 
+**[Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** 
 <br>
 **[ARCHER2 Training Course Information](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/)**
 <br>
