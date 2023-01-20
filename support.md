@@ -19,7 +19,7 @@ For issues with using your SAFE account on JADE, please contact the [Hartree hel
 
 ## Technical/Software Support ##
 
-If you have any technical questions or issues, your first point of contact should be your Institution's local RSE - please see below. For general questions please see our [FAQ](https://www.jade.ac.uk/faqs/) page. If you have any general issues please use our [GitHub Issue tracker](https://github.com/jade-hpc-gpu/jade-hpc-gpu.github.io/issues).
+If you have any technical questions or issues, please contact your local University RSE support in the first instance - see below for details. For general questions please see our [FAQ](https://www.jade.ac.uk/faqs/) page. If you have any general issues please use our [GitHub Issue tracker](https://github.com/jade-hpc-gpu/jade-hpc-gpu.github.io/issues).
 
 ## Institutional Support ##
 
