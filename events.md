@@ -43,5 +43,5 @@ Digital Health Industry Day - September
 <br>
 
 <p>
- <img src="{{ site.baseurl }}/img/logo/JADE_stand.jpg" alt="" width="20%" height="20%"/>
+ <img src="{{ site.baseurl }}/img/JADE-stand.jpg" alt="" width="20%" height="30%"/>
 </p>
