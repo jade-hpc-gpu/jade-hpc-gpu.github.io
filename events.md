@@ -42,4 +42,6 @@ Digital Health Industry Day - September
 **Introduction to Data Analysis in Python** - Monday 18th October
 <br>
 
-
+<p>
+ <img src="{{ site.baseurl }}/img/logo/JADE_stand.jpeg" alt="" width="20%" height="20%"/>
+</p>
