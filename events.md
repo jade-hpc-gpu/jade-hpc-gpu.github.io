@@ -3,6 +3,9 @@ title: JADE Training and Events
 layout: page
 permalink: "/events/"
 ---
+## Upcoming Events
+**CUDA Summer School** 24th July - 28th July 
+<br>
 
 ## Training Courses 
 **Imperial College London**
