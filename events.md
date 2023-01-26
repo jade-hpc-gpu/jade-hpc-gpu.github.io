@@ -6,6 +6,7 @@ permalink: "/events/"
 ## Upcoming Events
 **CUDA Summer School** 24th July - 28th July 2023
 <br>
+<br>
 
 ## Training Courses 
 **Imperial College London**
