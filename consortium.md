@@ -131,9 +131,9 @@ permalink: /consortium/
 
 ## University of Surrey
 
-**Co-Investigators:** Dr Helen Cooper
+**Co-Investigators:** Professor Mark Plumbley
 
-**Institutional Support:** servicedesk@surrey.ac.uk
+**Institutional Support:** servicedesk@surrey.ac.uk, Dr Helen Cooper
 <br><br>
 
 ## University of York
