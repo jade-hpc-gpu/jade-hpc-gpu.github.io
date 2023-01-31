@@ -4,7 +4,7 @@ layout: page
 permalink: "/events/"
 ---
 ## Upcoming Events
-**CUDA Summer School** 24th July - 28th July 2023
+**[CUDA Summer School](Course on CUDA Programming (ox.ac.uk))** 24th July - 28th July 2023
 <br>
 <br>
 
