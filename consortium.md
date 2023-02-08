@@ -126,7 +126,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Dr Tom Fincham-Haines
 
-**Institutional Support:** Djordje Baljozovic
+**Institutional Support:** Mark Townsend 
 <br><br>
 
 ## University of Surrey
