@@ -124,7 +124,7 @@ permalink: /consortium/
 
 ## University of Bath
 
-**Co-Investigators:** Dr Tom Fincham-Haines
+**Co-Investigators:** Dr Tom Haines
 
 **Institutional Support:** Mark Townsend 
 <br><br>
