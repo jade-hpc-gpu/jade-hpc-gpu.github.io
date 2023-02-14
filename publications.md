@@ -4,7 +4,7 @@ layout: page
 permalink: "/publications/"
 ---
 
-Publications
+
 ------------
 ## Turing Institute
 <br>
