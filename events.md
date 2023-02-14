@@ -24,7 +24,7 @@ permalink: "/events/"
 **[Imperial AI Talks - Regulatory Workshop](https://ai4health.io/reports-and-resources/)**
 <br>
 **KCL:**
-[How to run MONAI on JADE2] *Date to be confirmed*
+**How to run MONAI on JADE2** *Date to be confirmed*
 <br>
 
 
