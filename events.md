@@ -8,6 +8,8 @@ permalink: "/events/"
 <br>
 **JADE day** *Date to be confirmed*
 <br>
+**KCL: Hackathon on JADE** *Date to be confirmed*
+
 <br>
 
 ## Training Courses 
@@ -20,6 +22,9 @@ permalink: "/events/"
 **[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
 <br>
 **[Imperial AI Talks - Regulatory Workshop](https://ai4health.io/reports-and-resources/)**
+<br>
+**KCL:**
+[How to run MONAI on JADE2] *Date to be confirmed*
 <br>
 
 
