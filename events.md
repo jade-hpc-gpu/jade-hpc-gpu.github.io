@@ -66,7 +66,7 @@ permalink: "/events/"
 **Introduction to Data Analysis in Python** - 22nd October 2022
 <br>
 **Introduction to Data Analysis in Python** - 18th October 2022
-<br>
+<br><br>
 **Surrey University:**
 <br> 
 **Health and Wellbeing 2** - 14th September 2022
