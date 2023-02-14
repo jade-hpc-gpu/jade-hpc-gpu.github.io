@@ -82,6 +82,18 @@ permalink: "/events/"
 **Education, Media and Entertainment** - 9th March 2022
 <br>
 **Trustworthy AI** - 2nd March 2022 
+<br><br>
+**Lancaster University:**
+<br>
+**Introduction to Linux and the command line**
+<br>
+**Version control with Git**
+<br>
+**Data Analysis and programming in Python**
+<br>
+**Sharing and collaboration with Git and GitHub**
+<br>
+
 <p>
  <img src="{{ site.baseurl }}/img/JADE-stand.jpg" alt="" width="20%" height="30%"/>
 </p>
