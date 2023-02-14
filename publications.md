@@ -8,9 +8,9 @@ Publications
 ------------
 ## Turing Institute
 <br>
-**Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531** 
+Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
 <br>
-**Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu. Local2global: Scaling global representation learning on graphs via local training. In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21, 2021**
+Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu. Local2global: Scaling global representation learning on graphs via local training. In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21, 2021
 <br>
 
 ## Bristol University 
@@ -31,11 +31,11 @@ Publications
 <br>
 ## Sussex University 
 <br>
-**[In Search of Good Ancestors / Ahnen in Arbeit, Jonathan Chaim Reus, NordiCHI '22: Nordic Human-Computer Interaction Conference] (https://dl.acm.org/doi/10.1145/3546155.3547294)** 
+[In Search of Good Ancestors / Ahnen in Arbeit, Jonathan Chaim Reus, NordiCHI '22: Nordic Human-Computer Interaction Conference] (https://dl.acm.org/doi/10.1145/3546155.3547294) 
 <br>
-**mlGeNN: accelerating SNN inference using GPU-enabled neural networks** *Author: Turner et al., Date: 2022-06-01, DOI: 10.1088/2634-4386/ac5ac5, publication Title: Neuromorphic Computing and Engineering* 
+mlGeNN: accelerating SNN inference using GPU-enabled neural networks Author: Turner et al., Date: 2022-06-01, DOI: 10.1088/2634-4386/ac5ac5, publication Title: Neuromorphic Computing and Engineering 
 <br>
-**Efficient GPU training of LSNNs using eProp** *Author: Knight et al., Date: 2022-03-28, DOI: 10.1145/3517343.3517346, proceedings Title: Neuro-Inspired Computational Elements Conference* 
+Efficient GPU training of LSNNs using eProp Author: Knight et al., Date: 2022-03-28, DOI: 10.1145/3517343.3517346, proceedings Title: Neuro-Inspired Computational Elements Conference* 
 <br>
-**Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks** *Author: Nowotny et al., Date: 2022-12-02, archiveID: arXiv:2212.01232* 
+Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks Author: Nowotny et al., Date: 2022-12-02, archiveID: arXiv:2212.01232 
 <br>
