@@ -5,6 +5,7 @@ permalink: "/events/"
 ---
 ## Upcoming Events
 **[Course on Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)** 24th July - 28th July 2023
+<br>
 **JADE day** Date to be confirmed
 <br>
 <br>
