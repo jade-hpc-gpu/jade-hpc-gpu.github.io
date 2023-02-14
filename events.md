@@ -13,15 +13,13 @@ permalink: "/events/"
 <br>
 **[Introduction to Deep Learning](https://rses-dl-course.github.io/)**
 <br>
-<br>
 **Imperial College London**
 <br>
 **[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
 <br>
 **[Imperial AI Talks - Regulatory Workshop](https://ai4health.io/reports-and-resources/)**
 <br>
-<br>
-**Surrey University**
+
 
 
 ## Past Events
@@ -35,24 +33,48 @@ permalink: "/events/"
 <br>
 **[Digital Health Industry Day](https://ai4health.io/reports-and-resources/)** 
 <br>
+**Surrey University**
+<br>
+**[Designing AI for Home Wellbeing: World Café and Seminar Day](https://www.ias.surrey.ac.uk/event/designing-ai-for-home-wellbeing-world-cafe/)** 
+<br>
+**[Technologies for Home Wellbeing]( https://ai4s.surrey.ac.uk/2021/wellbeing_events)**
+<br>
+**[Diabetes and AI]( https://www.ias.surrey.ac.uk/event/ai-for-diabetes/#:~:text=Bringing%20together%20experts%20in%20AI,life%20for%20people%20with%20diabetes)**
+<br>
+<br>
+
 ## Past Training Courses 
 **Bristol University:**
 <br>
-**Applied Data Analysis in Python** - Monday 15th November 
+**Applied Data Analysis in Python** - 15th November 2022
 <br>
-**Introducing Git Version Control** - Friday 12th November 
+**Introducing Git Version Control** - 12th November 2022
 <br>
-**Introducing Git Version Control** - Monday 8th November 
+**Introducing Git Version Control** - 8th November 2022
 <br>
-**Best practices in Software Engineering** - 5th November 
+**Best practices in Software Engineering** - 5th November 2022
 <br>
-**Best practices in Software Engineering** - Monday 1st November 
+**Best practices in Software Engineering** - 1st November 2022
 <br>
-**Introduction to Data Analysis in Python** - Friday 22nd October 
+**Introduction to Data Analysis in Python** - 22nd October 2022
 <br>
-**Introduction to Data Analysis in Python** - Monday 18th October
+**Introduction to Data Analysis in Python** - 18th October 2022
 <br>
-
+**Surrey University**
+<br> 
+**Health and Wellbeing 2** - 14th September 2022
+<br>
+**Sustainable AI** - 25th May 2022 
+<br>
+**AI for Society** - 18th May 2022
+<br>
+**Human AI Interaction** - 4th May 2022
+<br>
+**Health and Wellbeing** - 4th April 2022
+<br>
+**Education, Media and Entertainment** - 9th March 2022
+<br>
+**Trustworthy AI** - 2nd March 2022 
 <p>
  <img src="{{ site.baseurl }}/img/JADE-stand.jpg" alt="" width="20%" height="30%"/>
 </p>
