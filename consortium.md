@@ -134,6 +134,13 @@ permalink: /consortium/
 **Co-Investigators:** Professor Mark Plumbley
 
 **Institutional Support:** servicedesk@surrey.ac.uk, Dr Helen Cooper
+
+**Machine Learning and Related CDTs**
+
+-   [Creative Audio Visual]( https://www.surrey.ac.uk/centre-vision-speech-signal-processing/research/creative)
+-   [Robotics](https://www.surrey.ac.uk/centre-vision-speech-signal-processing/research/robotics)
+-   [Security](https://www.surrey.ac.uk/centre-vision-speech-signal-processing/research/security)
+-   [Healthcare](https://www.surrey.ac.uk/centre-vision-speech-signal-processing/research/healthcare)
 <br><br>
 
 ## University of York
