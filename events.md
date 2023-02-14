@@ -9,7 +9,6 @@ permalink: "/events/"
 **JADE day** *Date to be confirmed*
 <br>
 **KCL: Hackathon on JADE** *Date to be confirmed*
-
 <br>
 
 ## Training Courses 
@@ -26,7 +25,6 @@ permalink: "/events/"
 **KCL:**
 **How to run MONAI on JADE2** *Date to be confirmed*
 <br>
-
 
 
 ## Past Events
