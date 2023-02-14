@@ -9,6 +9,10 @@ permalink: "/events/"
 <br>
 
 ## Training Courses 
+**Sheffield University**
+<br>
+**[Introduction to Deep Learning](https://rses-dl-course.github.io/)
+<br>
 **Imperial College London**
 <br>
 **[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
