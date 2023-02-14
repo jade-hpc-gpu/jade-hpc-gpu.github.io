@@ -11,7 +11,7 @@ permalink: "/events/"
 ## Training Courses 
 **Sheffield University**
 <br>
-**[Introduction to Deep Learning](https://rses-dl-course.github.io/)
+**[Introduction to Deep Learning](https://rses-dl-course.github.io/)**
 <br>
 **Imperial College London**
 <br>
