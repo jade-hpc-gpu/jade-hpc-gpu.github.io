@@ -31,11 +31,11 @@ Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucur
 <br>
 ## Sussex University 
 <br>
-[In Search of Good Ancestors / Ahnen in Arbeit, Jonathan Chaim Reus, NordiCHI '22: Nordic Human-Computer Interaction Conference] (https://dl.acm.org/doi/10.1145/3546155.3547294) 
+[In Search of Good Ancestors / Ahnen in Arbeit, Jonathan Chaim Reus, NordiCHI '22: Nordic Human-Computer Interaction Conference](https://dl.acm.org/doi/10.1145/3546155.3547294) 
 <br>
 mlGeNN: accelerating SNN inference using GPU-enabled neural networks Author: Turner et al., Date: 2022-06-01, DOI: 10.1088/2634-4386/ac5ac5, publication Title: Neuromorphic Computing and Engineering 
 <br>
-Efficient GPU training of LSNNs using eProp Author: Knight et al., Date: 2022-03-28, DOI: 10.1145/3517343.3517346, proceedings Title: Neuro-Inspired Computational Elements Conference* 
+Efficient GPU training of LSNNs using eProp Author: Knight et al., Date: 2022-03-28, DOI: 10.1145/3517343.3517346, proceedings Title: Neuro-Inspired Computational Elements Conference 
 <br>
 Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks Author: Nowotny et al., Date: 2022-12-02, archiveID: arXiv:2212.01232 
 <br>
