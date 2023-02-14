@@ -13,12 +13,16 @@ permalink: "/events/"
 <br>
 **[Introduction to Deep Learning](https://rses-dl-course.github.io/)**
 <br>
+<br>
 **Imperial College London**
 <br>
 **[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
 <br>
 **[Imperial AI Talks - Regulatory Workshop](https://ai4health.io/reports-and-resources/)**
 <br>
+<br>
+**Surrey University**
+
 
 ## Past Events
 **[Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** 
@@ -27,10 +31,9 @@ permalink: "/events/"
 <br>
 **[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
 <br>
-<br>
 **Imperial College London:**
 <br>
-Digital Health Industry Day - September 
+**[Digital Health Industry Day](https://ai4health.io/reports-and-resources/)** 
 <br>
 ## Past Training Courses 
 **Bristol University:**
