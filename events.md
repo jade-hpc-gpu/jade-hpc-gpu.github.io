@@ -3,7 +3,7 @@ title: JADE Training and Events
 layout: page
 permalink: "/events/"
 ---
-## Upcoming Events
+## Upcoming JADE2 Events
 **[Course on Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)** 24th July - 28th July 2023
 <br>
 **JADE day** *Date to be confirmed*
@@ -11,7 +11,7 @@ permalink: "/events/"
 **KCL: Hackathon on JADE** *Date to be confirmed*
 <br>
 
-## Training Courses 
+## Current Training relevant for JADE2 users
 **Sheffield University:**
 <br>
 **[Introduction to Deep Learning](https://rses-dl-course.github.io/)**
@@ -24,10 +24,10 @@ permalink: "/events/"
 <br>
 **KCL:**
 **How to run MONAI on JADE2** *Date to be confirmed*
-<br>
+<br><br>
 
 
-## Past Events
+## Past JADE2 Related Events
 **[Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** 
 <br>
 **[ARCHER2 Training Course Information](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/)**
@@ -46,9 +46,8 @@ permalink: "/events/"
 <br>
 **[Diabetes and AI]( https://www.ias.surrey.ac.uk/event/ai-for-diabetes/#:~:text=Bringing%20together%20experts%20in%20AI,life%20for%20people%20with%20diabetes)**
 <br>
-<br>
 
-## Past Training Courses 
+## Past JADE2 Related Training Courses 
 **Bristol University:**
 <br>
 **Applied Data Analysis in Python** - 15th November 2022
