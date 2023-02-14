@@ -9,11 +9,11 @@ permalink: "/events/"
 <br>
 
 ## Training Courses 
-**Sheffield University**
+**Sheffield University:**
 <br>
 **[Introduction to Deep Learning](https://rses-dl-course.github.io/)**
 <br>
-**Imperial College London**
+**Imperial College London:**
 <br>
 **[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
 <br>
@@ -33,7 +33,7 @@ permalink: "/events/"
 <br>
 **[Digital Health Industry Day](https://ai4health.io/reports-and-resources/)** 
 <br>
-**Surrey University**
+**Surrey University:**
 <br>
 **[Designing AI for Home Wellbeing: World Café and Seminar Day](https://www.ias.surrey.ac.uk/event/designing-ai-for-home-wellbeing-world-cafe/)** 
 <br>
@@ -60,7 +60,7 @@ permalink: "/events/"
 <br>
 **Introduction to Data Analysis in Python** - 18th October 2022
 <br>
-**Surrey University**
+**Surrey University:**
 <br> 
 **Health and Wellbeing 2** - 14th September 2022
 <br>
