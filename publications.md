@@ -10,13 +10,9 @@ permalink: "/publications/"
 ## Oxford University
 <br>
 [Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447)  
-<br>
 ICML 2022 (Spotlight) 
-<br>
 ICLR 2022 Workshop on Gamification and Multiagent Solutions  
-<br>
 Lu, C., Willi, T., De Witt, C. A. S., & Foerster, J. (2022, June). Model-free opponent shaping. In International Conference on Machine Learning (pp. 14398-14411). PMLR.   
-<br>
 [Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639) 
 NeurIPS 2022 
 Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
