@@ -25,6 +25,7 @@ Workshop on Machine Learning for Cybersecurity @ ICML 2022 (Spotlight)
 <br>
 Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
 <br>
+[Disease variant prediction with deep generative models of evolutionary data](https://www.nature.com/articles/s41586-021-04043-8) 
 
 
 ## Turing Institute
