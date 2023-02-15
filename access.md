@@ -15,22 +15,20 @@ JADE is particularly intended for applications using up to 8 GPUs with a very hi
 
 #### Machine Learning ####
 
-PIs in the partner universities should contact their [local RSE support](http://www.jade.ac.uk/support/) or <a href="mailto:wes.armour@oerc.ox.ac.uk">Prof Wes Armour</a>.
+Researchers in the partner universities should contact their [local RSE support](http://www.jade.ac.uk/support/) or <a href="mailto:wes.armour@oerc.ox.ac.uk">Prof Wes Armour</a>.
 
-PIs from other universities should apply for time through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/)
+Researchers from other universities should apply for time through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.ukri.org/councils/epsrc/facilities-and-resources/using-epsrc-facilities-and-resources/apply-for-access-to-high-performance-computing-facilities/)
 
 Tier 2 RAP Technial Assessments for JADE should be sent to: [ResearchComputePlatforms@turing.ac.uk](mailto:ResearchComputePlatforms@turing.ac.uk)
+
+
+Pump-priming time will also be available; please contact <a href="mailto:wes.armour@oerc.ox.ac.uk">Prof Wes Armour</a> in the first instance.
 
 
 #### Molecular Dynamics ####
 
 Time for Molecular Dynamics applications will only be allocated via the [HECBioSim](http://www.hecbiosim.ac.uk/) consortium.
 
-
-#### Other Applications of JADE ####
-
-
-All UK academic users are eligible to apply for time for Other applications (not Machine Learning or Molecular Dynamics) through the twice-yearly [EPSRC Tier 2 RAP (Resource Allocation Panel)](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/). Pump-priming time will also be available; please contact <a href="mailto:wes.armour@oerc.ox.ac.uk">Prof Wes Armour</a> in the first instance.
 
 <hr />
 <h2 id="simple">Academic Access</h2>
