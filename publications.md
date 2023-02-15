@@ -13,7 +13,7 @@ permalink: "/publications/"
 ICML 2022 (Spotlight) 
 ICLR 2022 Workshop on Gamification and Multiagent Solutions  
 Lu, C., Willi, T., De Witt, C. A. S., & Foerster, J. (2022, June). Model-free opponent shaping. In International Conference on Machine Learning (pp. 14398-14411). PMLR.  
-[Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639) 
+[Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639) <br>
 NeurIPS 2022 
 Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
 <br>
