@@ -21,7 +21,13 @@ Lu, C., Kuba, J. G., Letcher, A., Metz, L., de Witt, C. S., & Foerster, J. (2022
 [Adversarial Cheap Talk](https://arxiv.org/abs/2211.11030) Workshop on Machine Learning for Cybersecurity @ ICML 2022 (Spotlight) 
 Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
 <br>
-[Disease variant prediction with deep generative models of evolutionary data](https://www.nature.com/articles/s41586-021-04043-8) 
+[Disease variant prediction with deep generative models of evolutionary data](https://www.nature.com/articles/s41586-021-04043-8)
+<br>
+[Universal characteristics of deep neural network loss surfaces from random matrix theory](https://iopscience.iop.org/article/10.1088/1751-8121/aca7f5/pdf)
+Nicholas P Baskerville et L. Journal of Physics A: Mathematical and Theoretical. 55 494002. 
+<br>
+Diego Granziol, Stefan Zohren, Stephen Roberts (2022). Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training. Journal of Machine Learning Research 23(173):1-65, 2022. 
+
 
 
 ## Turing Institute
