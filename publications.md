@@ -6,6 +6,31 @@ permalink: "/publications/"
 
 
 ------------
+
+## Oxford University
+<br>
+[Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447)  
+<br>
+ICML 2022 (Spotlight) 
+<br>
+ICLR 2022 Workshop on Gamification and Multiagent Solutions  
+<br>
+Lu, C., Willi, T., De Witt, C. A. S., & Foerster, J. (2022, June). Model-free opponent shaping. In International Conference on Machine Learning (pp. 14398-14411). PMLR.   
+<br>
+[Discovered Policy Optimisation]((https://arxiv.org/abs/2210.05639) 
+NeurIPS 2022 
+Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
+<br>
+Lu, C., Kuba, J. G., Letcher, A., Metz, L., de Witt, C. S., & Foerster, J. (2022). Discovered policy optimisation. arXiv preprint arXiv:2210.05639. 
+<br>
+[Adversarial Cheap Talk](https://arxiv.org/abs/2211.11030 )
+<br>
+Workshop on Machine Learning for Cybersecurity @ ICML 2022 (Spotlight) 
+<br>
+Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
+<br>
+
+
 ## Turing Institute
 <br>
 Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
