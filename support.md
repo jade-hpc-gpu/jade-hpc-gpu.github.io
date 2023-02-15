@@ -29,7 +29,7 @@ Currently, the local points of contact are:
 
 **The Alan Turing Institute:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
 
-**University of Bath:** Djordje Baljozovic
+**University of Bath:** Mark Townsend
 
 **University of Bristol:** Dr Dima Damen, Dr Daniel Whettam
 
