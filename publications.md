@@ -38,9 +38,13 @@ Wang Y, Ramezani M, Mattamala M, 'Digumarti ST & Fallon M (2022), Strategies for
 <br>
 Gangapurwala S, Geisert M, Orsolino R, Fallon M & Havoutis I (2022),'RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control ', IEEE Transactions on Robotics, IEEE.  
 
-
-
-
+## HecBioSim
+<br>
+Christian. M. Orr et al. (2022)'[Hinge disulfides in human IgG2 CD40 antibodies modulate receptor signaling by regulation of conformation and flexibility](https://www.science.org/doi/10.1126/sciimmunol.abm3723)Science Immunology, 7,73.
+<br>
+Oliver. J. Melling et al. (2023) ['Enhanced Grand Canonical Sampling of Occluded Water Sites Using Nonequilibrium Candidate Monte Carlo'](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00823), Chemical Theory and Computational, 19,3.
+<br>
+Miroslav Suruzhon et al. (2022) ['Enhancing Ligand and Protein Sampling Using Sequential Monte Carlo'](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01198), Theory and Computational, 18,6. 
 
 ## Turing Institute
 <br>
