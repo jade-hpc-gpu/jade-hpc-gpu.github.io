@@ -45,6 +45,10 @@ Christian. M. Orr et al. (2022)'[Hinge disulfides in human IgG2 CD40 antibodies 
 Oliver. J. Melling et al. (2023) ['Enhanced Grand Canonical Sampling of Occluded Water Sites Using Nonequilibrium Candidate Monte Carlo'](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00823), Chemical Theory and Computational, 19,3.
 <br>
 Miroslav Suruzhon et al. (2022) ['Enhancing Ligand and Protein Sampling Using Sequential Monte Carlo'](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01198), Theory and Computational, 18,6. 
+<br>
+Jenke Scheen, Mark Mackey, Julien Michel, (2022)'Data-driven generation of perturbation networks for relative binding free energy calculations'. Digital Discover, 1, 870-885. 
+<br>
+Mark Mackey, (2022)['Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations'](https://www.cresset-group.com/about/news/data-driven-fep/)
 
 ## Turing Institute
 <br>
