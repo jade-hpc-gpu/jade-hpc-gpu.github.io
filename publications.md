@@ -31,7 +31,7 @@ Nicholas P Baskerville et L. Journal of Physics A: Mathematical and Theoretical.
 <br>
 Diego Granziol, Stefan Zohren, Stephen Roberts (2022). Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training. Journal of Machine Learning Research 23(173):1-65, 2022.
 <br>
-Marc Rigter, Bruno Lacerda and Nick Hawes (2022). [RAMBO-RL: Robust adversarial model-based offline reinforcement learning. Advances in Neural Information Processing Systems (NeurIPS).](https://arxiv.org/abs/2204.12581)
+Marc Rigter, Bruno Lacerda and Nick Hawes (2022). [RAMBO-RL: Robust adversarial model-based offline reinforcement learning.](https://arxiv.org/abs/2204.12581) Advances in Neural Information Processing Systems (NeurIPS).
 
 
 
