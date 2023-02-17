@@ -8,9 +8,9 @@ permalink: "/publications/"
 ------------
 
 ## Oxford University
-X Li, W Armour.(2022)[Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
+X Li, W Armour.(2022) [Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
 <br>
-[Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447)ICML 2022 (Spotlight) 
+[Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447) ICML 2022 (Spotlight) 
 ICLR 2022 Workshop on Gamification and Multiagent Solutions  
 Lu, C., Willi, T., De Witt, C. A. S., & Foerster, J. (2022, June). Model-free opponent shaping. In International Conference on Machine Learning (pp. 14398-14411). PMLR.  
 [Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639)
@@ -46,7 +46,7 @@ Miroslav Suruzhon et al. (2022) ['Enhancing Ligand and Protein Sampling Using Se
 <br>
 Jenke Scheen, Mark Mackey, Julien Michel, (2022)'Data-driven generation of perturbation networks for relative binding free energy calculations'. Digital Discover, 1, 870-885. 
 <br>
-Mark Mackey, (2022)['Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations'](https://www.cresset-group.com/about/news/data-driven-fep/)
+Mark Mackey, (2022) ['Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations'](https://www.cresset-group.com/about/news/data-driven-fep/)
 
 ## Turing Institute
 Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
