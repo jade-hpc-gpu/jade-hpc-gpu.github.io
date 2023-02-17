@@ -9,6 +9,9 @@ permalink: "/publications/"
 
 ## Oxford University
 <br>
+[Intensity-Sensitive Similarity Indexes for Image Quality Assessment(https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC)
+X Li, W Armour. 26th International Conference on Pattern Recognition (ICPR'22)
+<br>
 [Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447)ICML 2022 (Spotlight) 
 ICLR 2022 Workshop on Gamification and Multiagent Solutions  
 Lu, C., Willi, T., De Witt, C. A. S., & Foerster, J. (2022, June). Model-free opponent shaping. In International Conference on Machine Learning (pp. 14398-14411). PMLR.  
