@@ -8,7 +8,6 @@ permalink: "/publications/"
 ------------
 
 ## Oxford University
-<br>
 X Li, W Armour.(2022)[Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
 <br>
 [Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447)ICML 2022 (Spotlight) 
@@ -39,7 +38,6 @@ Wang Y, Ramezani M, Mattamala M, 'Digumarti ST & Fallon M (2022), Strategies for
 Gangapurwala S, Geisert M, Orsolino R, Fallon M & Havoutis I (2022),'RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control ', IEEE Transactions on Robotics, IEEE.  
 
 ## HecBioSim
-<br>
 Christian. M. Orr et al. (2022)'[Hinge disulfides in human IgG2 CD40 antibodies modulate receptor signaling by regulation of conformation and flexibility](https://www.science.org/doi/10.1126/sciimmunol.abm3723)Science Immunology, 7,73.
 <br>
 Oliver. J. Melling et al. (2023) ['Enhanced Grand Canonical Sampling of Occluded Water Sites Using Nonequilibrium Candidate Monte Carlo'](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00823), Chemical Theory and Computational, 19,3.
@@ -51,14 +49,12 @@ Jenke Scheen, Mark Mackey, Julien Michel, (2022)'Data-driven generation of pertu
 Mark Mackey, (2022)['Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations'](https://www.cresset-group.com/about/news/data-driven-fep/)
 
 ## Turing Institute
-<br>
 Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
 <br>
 Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu. Local2global: Scaling global representation learning on graphs via local training. In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21, 2021
 <br>
 
 ## Bristol University 
-<br>
 (2022) A Darkhalil, D Shan, B Zhu, J Ma, A Kar, R Higgins, S Fidler, D Fouhey, D Damen. EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
 <br>
 (2022) W Price, C Vondrick, D Damen. UnweaveNet: Unweaving Activity Stories. IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
@@ -74,7 +70,6 @@ Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucur
 (2021) E Kazakos, A Nagrani, A Zisserman, D Damen. Slow-Fast Auditory Streams for Audio Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 <br>
 ## Sussex University 
-<br>
 [In Search of Good Ancestors / Ahnen in Arbeit, Jonathan Chaim Reus, NordiCHI '22: Nordic Human-Computer Interaction Conference](https://dl.acm.org/doi/10.1145/3546155.3547294) 
 <br>
 mlGeNN: accelerating SNN inference using GPU-enabled neural networks Author: Turner et al., Date: 2022-06-01, DOI: 10.1088/2634-4386/ac5ac5, publication Title: Neuromorphic Computing and Engineering 
