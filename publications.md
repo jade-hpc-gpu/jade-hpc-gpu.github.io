@@ -9,8 +9,7 @@ permalink: "/publications/"
 
 ## Oxford University
 <br>
-[Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC)
-X Li, W Armour. 26th International Conference on Pattern Recognition (ICPR'22)
+X Li, W Armour.(2022)[Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
 <br>
 [Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447)ICML 2022 (Spotlight) 
 ICLR 2022 Workshop on Gamification and Multiagent Solutions  
@@ -27,7 +26,7 @@ Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
 [Disease variant prediction with deep generative models of evolutionary data](https://www.nature.com/articles/s41586-021-04043-8)
 <br>
 [Universal characteristics of deep neural network loss surfaces from random matrix theory](https://iopscience.iop.org/article/10.1088/1751-8121/aca7f5/pdf) Frazer, J., Notin, P., Dias, M. et al. Disease variant prediction with deep generative models of evolutionary data. Nature 599, 91–95 (2021). 
-Nicholas P Baskerville et L. Journal of Physics A: Mathematical and Theoretical. 55 (2022) 494002. 
+Nicholas P Baskerville et al.(2022) Journal of Physics A: Mathematical and Theoretical. 55 494002. 
 <br>
 Diego Granziol, Stefan Zohren, Stephen Roberts (2022). Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training. Journal of Machine Learning Research 23(173):1-65, 2022.
 <br>
