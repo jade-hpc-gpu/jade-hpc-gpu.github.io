@@ -78,3 +78,17 @@ Efficient GPU training of LSNNs using eProp Author: Knight et al., Date: 2022-03
 <br>
 Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks Author: Nowotny et al., Date: 2022-12-02, archiveID: arXiv:2212.01232 
 <br>
+## Surrey University 
+Abhra Chaudhuri et al. (2022)['Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval'](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
+<br>
+Abhra Chaudhuri et al. (2022)'Relational Proxies: Emergent Relationships as Fine-Grained Discriminators', In the Proceedings of Neural Information Processing Systems (NeurIPS), New Orleans, USA
+<br>
+Marco Pesavento, Maro Volino, Adrian Hilton. (2022) ['super resolution 3D human shape from a single low resolution image'](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_26), European conference on computer vision (ECCV22) 
+<br>
+Andres Fernandez, Mark D Plumbley. (2021). ['Using UMAP to Inspect Audio Data for Unsupervised Anomaly Detection under Domain-Shift Conditions'](https://arxiv.org/abs/2107.10880), Proc Detection and Classification of Acoustic Scenes and Events 2021.
+<br>
+Akash Rawat et al. (2022), 'Modelling Political Aggression On Social Media Platforms', The International AAAI Conference on Web and Social Media (ICWSM) 
+<br>
+Ammarah Farooq et al. 'AXM-Net: Implicit Cross-Modal Feature Alignment for Person Re-identification', AAAI 2022: 4477-4485.
+<br>
+Ali Akbari et al. 'How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation', ICML 2021: 141-151. 
