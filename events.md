@@ -6,7 +6,7 @@ permalink: "/events/"
 ## Upcoming JADE2 Events
 **[Course on Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)** 24th July - 28th July 2023
 <br>
-**JADE day** Please fill out our pre-event survey [here](https://oxford.onlinesurveys.ac.uk/jadeday) if you are interested in attending *Date TBC*
+**JADE day** Please fill out our pre-event survey [here](https://oxford.onlinesurveys.ac.uk/jadeday) if you are interested in attending *(date TBC)*
 <br>
 **KCL: Hackathon on JADE** *Date to be confirmed*
 <br>
