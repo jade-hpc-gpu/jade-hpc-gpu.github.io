@@ -92,3 +92,12 @@ Akash Rawat et al. (2022), 'Modelling Political Aggression On Social Media Platf
 Ammarah Farooq et al. 'AXM-Net: Implicit Cross-Modal Feature Alignment for Person Re-identification', AAAI 2022: 4477-4485.
 <br>
 Ali Akbari et al. 'How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation', ICML 2021: 141-151. 
+
+## Queen Mary University 
+Hengyi Wang, Chaoran Zhu, Ziyin Ma, Changjae Oh, (2022) ['Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings,'](https://arxiv.org/pdf/2203.01192.pdf) IEEE Int. Conf. Acoustic, Speech, Sig. Proc. Grand Challenges: Audio-Visual Object Classification For Human-Robot Collaboration (1st rank)
+<br>
+Stoidis, D., Cavallaro, A. (2021) ['Protecting Gender and Identity with Disentangled Speech Representations'](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
+<br>
+Stoidis, D., Cavallaro, A. (2022) ['Generating gender-ambiguous voices for privacy-preserving speech recognition'](https://www.isca-speech.org/archive/interspeech_2022/stoidis22_interspeech.html) Proc. Interspeech, 4237-4241
+<br>
+Stoidis, D., Cavallaro, A. (2022) ['Content-based Graph Privacy Advisor'](https://ieeexplore.ieee.org/document/9999084) IEEE Eighth International Conference on Multimedia Big Data (BigMM) 
