@@ -101,3 +101,12 @@ Stoidis, D., Cavallaro, A. (2021) ['Protecting Gender and Identity with Disentan
 Stoidis, D., Cavallaro, A. (2022) ['Generating gender-ambiguous voices for privacy-preserving speech recognition'](https://www.isca-speech.org/archive/interspeech_2022/stoidis22_interspeech.html) Proc. Interspeech, 4237-4241
 <br>
 Stoidis, D., Cavallaro, A. (2022) ['Content-based Graph Privacy Advisor'](https://ieeexplore.ieee.org/document/9999084) IEEE Eighth International Conference on Multimedia Big Data (BigMM) 
+
+## Kings College London
+B. Gao and M. W. Spratling (2021) [Robust template matching via hierarchical convolutional features from a shape biased CNN.](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Volume 813. Springer, Singapore.
+<br>
+B. Gao and M. W. Spratling (2022) [Explaining away results in more robust visual tracking.](https://link.springer.com/article/10.1007/s00371-022-02466-6) Vis. Comput
+<br>
+B. Gao and M. W. Spratling (2022) [More robust object tracking via shape and motion cue integration.] (https://www.sciencedirect.com/science/article/pii/S0165168422001682?via%3Dihub) Signal Processing, Vol. 199
+<br>
+B. Gao and M. W. Spratling (2022) [Shape-texture debiased training for robust template matching.](https://www.mdpi.com/1424-8220/22/17/6658) Sensors, online 22(17), p.6658.
