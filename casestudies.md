@@ -7,7 +7,7 @@ permalink: "/casestudies/"
 
 --------------------------
 ## Newcastle University 
-## Dermatologically Inspired Deep Face Analytics 
+**Dermatologically Inspired Deep Face Analytics** 
 <br>
 Introduction 
 
@@ -31,7 +31,7 @@ The ability to accurately extract age and health related features from face imag
 
 Given a mortality feature extractor with a good correlation to the endpoint of death, it is possible to implement screening systems in high risk locations such as GP surgeries and Care Homes. These systems could be designed to flag individuals with a higher relative mortality risk for their age, allowing them to receive care in a timely fashion. 
 
-## Estimating individual pig liveweight trajectories from group-level weight measurements 
+**Estimating individual pig liveweight trajectories from group-level weight measurements**
 
 Introduction <br>
 Recent years have seen an increase in the use of advanced data collection systems to improve management in pig farms, however, the cost of implementing such systems remains a barrier to many. Some of the most useful data for farm management are on an individual pig level, which requires investment of labour and expense of systems such as RFID tagging. Machine learning approaches can help to alleviate this issue for instance by estimating individual growth trajectories from unknown weight measurements without requiring expensive RFID systems. 
@@ -91,7 +91,7 @@ The visual focus of attention detection as an important topic under the Human-Ro
 Up till now, we have already configured the environment on Jade2 to train models. For the next step, we will train the models we build, and enlarge the annotated training dataset to achieve better performance in our study. 
 
 ## Kings College London
-## JADE User Project Summaries 
+**JADE User Project Summaries** 
 
 "Convolutional Neural Networks (CNNs) have achieved state-of-the-art performance for many medical segmentation tasks when trained in a fully-supervised manner, i.e. by using pixel-wise annotations. In practice, CNNs require large annotated datasets to be able to generalise to different acquisition protocols and to cover variability in the data (e.g. size and location of a pathology). Given the time and expertise required to carefully annotate medical data, the data-labelling process is a key bottleneck for the development of automatic image medical segmentation tools. To address this issue, we would like to investigate techniques that exploit weak annotations (e.g. scribbles, bounding boxes, extreme points) instead of time-consuming pixel-wise annotations." 
 
@@ -133,7 +133,7 @@ Predicting autism spectrum phenotypes from neonatal brain connectivity: The goal
 1.Training machine learning algorithms in adult populations to classify ASD from controls <br>
 2.Transferring techniques to state-of-the-art neonatal acquisitions <br>
 3. Interpreting algorithms to find altered connectivity patterns associated with outcome <br>
-More information here: https://gtr.ukri.org/projects?ref=studentship-2269804 
+More information [here.](https://gtr.ukri.org/projects?ref=studentship-2269804) 
 
 In this project we aim to provide better understanding and improve the current methods in diagnosis and prognosis of Tuberculous meningitis, leveraging state-of-the art method and MR imaging data. 
 
