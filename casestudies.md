@@ -6,8 +6,8 @@ permalink: "/casestudies/"
 
 Case Studies 
 --------------------------
-## Newcastle University 
-# Dermatologically Inspired Deep Face Analytics 
+# Newcastle University 
+## Dermatologically Inspired Deep Face Analytics 
 <br>
 Introduction 
 
