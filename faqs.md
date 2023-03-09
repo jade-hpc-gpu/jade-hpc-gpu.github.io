@@ -30,13 +30,16 @@ Accounts pending SSH key availability will result in reminders sent at 1, 2- and
 
 Partner institutions provide technical support for their users through local HPC experts. They will provide guidance to users starting out on JADE and can also direct users to sources of specialist information if required.
 
-Currently, the local points of contact are listed on the main support page linked here:[Support (jade.ac.uk)](https://www.jade.ac.uk/support/)
+Currently, the local points of contact are listed on the main support page linked below: <br>
+
+[Support (jade.ac.uk)](https://www.jade.ac.uk/support/)
 
 ## Where to raise requests for further support
 
 For issues with using your SAFE account on JADE, SSH keys, jobs failing or service availability, please contact the [Hartree helpdesk.](https://stfc.service-now.com/hcssp)
 
-For specialist questions relating to the use of JADE please contact your local institutional support in the first instance, information for which can be found below: <br>
+For specialist questions relating to the use of JADE please contact your local institutional support in the first instance, information for which can be found here: <br>
+
 [Support (jade.ac.uk)](https://www.jade.ac.uk/support/) 
 
 For technical queries about software/drivers please use the [GitHub Issue tracker.](https://github.com/jade-hpc-gpu/jade-hpc-gpu.github.io/issues)
