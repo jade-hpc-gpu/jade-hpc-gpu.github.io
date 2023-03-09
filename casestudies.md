@@ -6,7 +6,7 @@ permalink: "/casestudies/"
 
 
 --------------------------
-# Newcastle University 
+## Newcastle University 
 ## Dermatologically Inspired Deep Face Analytics 
 <br>
 Introduction 
@@ -32,3 +32,19 @@ Our work is highly applicable to several practical and research areas, with many
 The ability to accurately extract age and health related features from face images allows Dermatological research to be carried on sample sizes which are several orders of magnitude larger than without. Presently clinical trials for dermatological treatment are run in labs, with expensive photography equipment and highly skilled reviewers needed to evaluate outcomes. Given an effectively trained neural network, these analyses can be carried out automatically using selfie images from mobile phones; allowing participants to be located anywhere globally. The benefits of remote face skin analysis also extend to every-day practice, where pre-appointment screening can be carried out to filter patients who may not need to see a doctor immediately. 
 
 Given a mortality feature extractor with a good correlation to the endpoint of death, it is possible to implement screening systems in high risk locations such as GP surgeries and Care Homes. These systems could be designed to flag individuals with a higher relative mortality risk for their age, allowing them to receive care in a timely fashion. 
+
+## Estimating individual pig liveweight trajectories from group-level weight measurements 
+
+Introduction <br>
+Recent years have seen an increase in the use of advanced data collection systems to improve management in pig farms, however, the cost of implementing such systems remains a barrier to many. Some of the most useful data for farm management are on an individual pig level, which requires investment of labour and expense of systems such as RFID tagging. Machine learning approaches can help to alleviate this issue for instance by estimating individual growth trajectories from unknown weight measurements without requiring expensive RFID systems. 
+
+Explaining the science <br>
+Machine learning methods can be used to estimate individual-level pig growth trajectories as a cheaper alternative to using RFID tag systems. However, the use of traditional machine learning methods in this task has several limitations, namely that they cannot incorporate all data on a group-level time series simultaneously. This limitation could have a potentially profound impact on their predictive accuracy and thus also their applicability. 
+
+Project aims <br>
+This project aims to develop more accurate methods for the prediction of individual-level growth trajectories. To achieve this, attention methods capable of integrating all contextual data within group-level time series will be developed, and comparisons between these methods and existing machine learning methods will be made. 
+
+This project will also involve the exploration of attention weights produced by the attention methods to allow for the interpretation of resulting predictions. In addition, this project seeks to develop additional metrics for evaluating the accuracy of predicted growth trajectories, and to improve the ability of methods to generalize to pigs of different breeds than those that they were trained on. 
+
+Applications <br>
+The methods developed during this project have the potential to be used as a significantly cheaper alternative to RFID tagging systems for the tracking of individual-level pig weights when combined with either weighting platforms or camera-based pig weight estimation systems. This work could also be used as a foundation for the development of methods that can be applied to other livestock. 
