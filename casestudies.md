@@ -4,7 +4,7 @@ layout: page
 permalink: "/casestudies/"
 ---
 
-Case Studies 
+
 --------------------------
 # Newcastle University 
 ## Dermatologically Inspired Deep Face Analytics 
