@@ -30,8 +30,7 @@ Accounts pending SSH key availability will result in reminders sent at 1, 2- and
 
 Partner institutions provide technical support for their users through local HPC experts. They will provide guidance to users starting out on JADE and can also direct users to sources of specialist information if required.
 
-Currently, the local points of contact are listed on the main support page linked below:<br>
-[Support (jade.ac.uk)](https://www.jade.ac.uk/support/)
+Currently, the local points of contact are listed on the main support page linked here:[Support (jade.ac.uk)](https://www.jade.ac.uk/support/)
 
 ## Where to raise requests for further support
 
