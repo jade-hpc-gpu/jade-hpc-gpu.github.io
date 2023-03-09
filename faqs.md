@@ -56,6 +56,6 @@ No, and this is a design and implementation decision for the service and not one
 
 ## Information for PIs and Project Managers
 
-The Information for PIs and Project Managers can be found using the link below. 
+The Information for PIs and Project Managers can be found using the link below: 
 
 [Information for PIs and Project Managers — JADE documentation](https://docs.jade.ac.uk/en/latest/jade/pi-projectmanager.html)
