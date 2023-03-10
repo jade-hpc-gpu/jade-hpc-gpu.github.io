@@ -127,7 +127,7 @@ In the research, we aim at designing and improving the COVID-19 automatic classi
 
 A study of nonrigid registration methods for tracking local features of the left atrium in retrospective gated CT images. This includes deep learning-based approaches, for which I require GPU access and usage. 
 
-icovid project looks at develop AI solution for covid lesion detection. We are currently looking into developing interactive segmentation methods for covid lesion annotation that will be used to improve quality and quantity of labelled CT volumes 
+icovid project looks at developing an AI solution for covid lesion detection. We are currently looking into developing interactive segmentation methods for covid lesion annotation that will be used to improve quality and quantity of labelled CT volumes 
 
 Modelling uncertainty in segmentation predictions 
 
@@ -144,8 +144,6 @@ In this project we aim to provide better understanding and improve the current m
 Visual tracking is a fundamental task in computer vision with numerous applications in surveillance, self-driving vehicles and UAV-based monitoring. It is the task of locating the same moving object in each frame of a video sequence, given only the initial appearance of the target object. Most modern trackers treat visual tracking as a classification problem. By learning an appearance model of the target from the initial frame, the trackers distinguish the target from the background and other objects by a cross-correlation operation to predict its location in the following frames. Although they ignore other potentially useful sources of information, such as previous motion trajectory, these Tracking-by-Detection methods achieve impressive performance. However, they can fail when the appearance model misidentifies a similar-looking object (a ``distractor'') as the target. This project focuses on this tracking drift problem caused by distractors, and adopts three novel solutions: (1) making the appearance model more sensitive to shape cues in offline training, (2) using the appearance of distractors to prevent other objects being mis-identified as the target, and (3) using the historical locations of the target to predict its future position during online inference. 
 
 Tiny object detection is a heated discussed subfield of object detection. Current methods such as SM, fusion factor, SSPNet make effective modifications mainly on how to utilize features of different scales and extend training set. But I believe the commonly used networks have suboptimal architectures for tiny object detection. I am exploring a thought guiding the design of backbones. 
-
-improve adversarial robustness and interpretability of deep neural networks, research the connnetion between these two properties. 
 
 The goal of this project is to evaluate the use of novel contrastive learning methods for improving the performance of transformers for the task of semantic segmentation in medical and natural image datasets. 
 
