@@ -52,6 +52,7 @@ Applications <br>
 The methods developed during this project have the potential to be used as a significantly cheaper alternative to RFID tagging systems for the tracking of individual-level pig weights when combined with either weighting platforms or camera-based pig weight estimation systems. This work could also be used as a foundation for the development of methods that can be applied to other livestock.
 
 ## Loughborough University
+**Project Summaries** 
 
 Yang Zhou 
 
