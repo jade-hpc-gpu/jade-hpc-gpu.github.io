@@ -11,14 +11,14 @@ permalink: "/publications/"
 X. Li, W. Armour.(2022) [Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
 <br>
 C. Lu, T. Willi, C. S. de Witt, J. Foerster. (2022) [Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447) In International Conference on Machine Learning. ICML(Spotlight) (pp. 14398-14411). PMLR.  
-<br>
+
 C. Lu, J. G. Kuba, A. Letcher,L Metz, C. S de Witt, & J. Foerster. (2022) [Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639) NeurIPS Decision Awareness in Reinforcement Learning Workshop ICML
 <br>
 C. Lu, T. Willi, A. Letcher, J. Foerster. (2022) [Adversarial Cheap Talk](https://arxiv.org/abs/2211.11030) Workshop on Machine Learning for Cybersecurity, Decision Awareness in Reinforcement Learning Workshop, ICML
 <br>
 Frazer, J., Notin, P., Dias, M. et al. (2021)[Disease variant prediction with deep generative models of evolutionary data](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
 <br>
-Nicholas P Baskerville et al.(2022) [Universal characteristics of deep neural network loss surfaces from random matrix theory] (https://iopscience.iop.org/article/10.1088/1751-8121/aca7f5/pdf) Journal of Physics A: Mathematical and Theoretical. 55 494002. 
+Nicholas P Baskerville et al.(2022) [Universal characteristics of deep neural network loss surfaces from random matrix theory](https://iopscience.iop.org/article/10.1088/1751-8121/aca7f5/pdf) Journal of Physics A: Mathematical and Theoretical. 55 494002. 
 <br>
 D. Granziol, S. Zohren, S. Roberts (2022). Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training. Journal of Machine Learning Research 23(173):1-65
 <br>
