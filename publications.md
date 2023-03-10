@@ -103,3 +103,12 @@ B. Gao and M. W. Spratling (2022) [Explaining away results in more robust visual
 B. Gao and M. W. Spratling (2022) [More robust object tracking via shape and motion cue integration.](https://www.sciencedirect.com/science/article/pii/S0165168422001682?via%3Dihub) Signal Processing, Vol. 199
 <br>
 B. Gao and M. W. Spratling (2022) [Shape-texture debiased training for robust template matching.](https://www.mdpi.com/1424-8220/22/17/6658) Sensors, online 22(17), p.6658.
+
+## Loughborough University
+Zhou, Y., Li, B., Wang, J., Rocco, E. and Meng, Q, (2022). Discovering unknowns: Context-enhanced anomaly detection for curiosity-driven autonomous underwater exploration. Pattern Recognition, 131, p.108860. 
+<br>
+Jiang, L., Schaefer, G., & Meng, Q. (2022). An Improved Novel View Synthesis Approach Based on Feature Fusion and Channel Attention. In 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 2459-2464).
+<br>
+Huo, J., Cai, H., & Meng, Q. (2022). Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition. In 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611).
+<br>
+
