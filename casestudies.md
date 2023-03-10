@@ -111,13 +111,7 @@ Domain adaptation in crowd counting has gained much success. However, in real-wo
 
 Combining MD data and HDX-MS data, we first characterized the distinct features of XylE upon substrate xylose and inhibitor glucose binding. Currently, we are interested in investigating the protein dynamic difference of XylE binding to different GLUT-1 inhibitors in a single conformation. 
 
-We aim to stabilise a robot for vitreoretinal surgery in lateral dimensions by detecting the tools and motion of the retina. 
-
-My project aims at improving automated medical image registration for abdominal scans. To achieve this goal, I employ deep learning models. 
-
 The objective of this project is to develop a decision-making tool that identifies abnormalities on magnetic resonance imaging (MRI) brain scans using deep learning. A clinically validated decision-making tool that identifies abnormalities on brain MRI scans does not exist. Immediate triage of a brain MRI into normal or abnormal, which will allow radiology departments to prioritise their limited resources into first reporting abnormal scans. Abnormal scan reports will be reported more quickly than is currently the situation, which will expedite early intervention from the referring clinical team. Specific examples relate to cancer or infective processes. The project will use a retrospective dataset of »100,000, minimally processed, MRI scans from three different sites, which have been labelled by a combination of consultant neuroradiologists and a validated NLP algorithm (ALARM). A classification model is to be built and validated using this data to determine abnormal and normal scans. This model would have to be generalisable and would need to be validated within this sample and externally, on a prospective dataset of »1000 scans from these study sites and from other secondary and tertiary NHS centres across the UK. Further characterisation of the abnormalities detected are a secondary outcome. Exploring unsupervised and semi-supervised methodologies, starting with the use of autoencoders and exploration of the lower dimensional space generated is the first step towards this. 
-
-The aim of this PhD is to model development of glioblastoma in MRIs acquired in routine clinical practice using deep learning. 
 
 This project investigates how 3D structure may be obtained from various kinds of microscopy images through automated processes, and the impacts this might have for further biology research. We address this challenge by focusing in two key areas: by enhancing high-throughput C.elegans experiments with artificial intelligence and machine learning and reconstructing the CEP152 protein complex from STORM images. The C.elegans case has two key limitations: first, the neurons are identified by hand, which is very labour intensive; and second, the need for highly standardised images means many images are discarded. The first issue offers an opportunity to automate cell identification, either by applying supervised machine learning (e.g. random forest classifier) to tens of thousands of annotated image stacks; or by using deep learning so that the algorithm can select the parameters to optimise. The second issue means that there are many unannotated image stacks that can be analysed by unsupervised deep learning and cross-validated against the annotated subset to check performance. Existing evidence supports the hypothesis that the structure of the CEP152 complex is a torus. A large number of images of this complex already exist. We aim to investigate this data using deep-learning techniques to prove this hypothesis further. Several challenges exist, such as noise from the fluoresence microscopy technique, which must be overcome. In both of these cases, structure and orientation are intertwined, providing a basis for identifying areas of interest within a traditional image. We hypothesis that deep-learning and artificial intelligence can detect structure and orientation from a set of images, leading to identification of objects within a single image, at high speed. 
 
@@ -128,8 +122,6 @@ In the research, we aim at designing and improving the COVID-19 automatic classi
 A study of nonrigid registration methods for tracking local features of the left atrium in retrospective gated CT images. This includes deep learning-based approaches, for which I require GPU access and usage. 
 
 icovid project looks at developing an AI solution for covid lesion detection. We are currently looking into developing interactive segmentation methods for covid lesion annotation that will be used to improve quality and quantity of labelled CT volumes 
-
-Modelling uncertainty in segmentation predictions 
 
 I am trying to test diverse supervised and unsupervised algorithms on drug databases to find the algorithm with the best performances for this type of data. The ML generated model can be used to find new candidates against the certain validated target protein. Running molecular docking followed by Molecular Dynamics (MD) simulations can validate the model and results in terms of the binding free energy of the diverse ligand-target complexes. 
 
@@ -159,19 +151,12 @@ My project is about developing deep-learning techniques for different applicatio
 
 The project is part of a collaboration with OUCRU Vietnam and King’s College London, aiming the use of machine learning (ML) approaches to develop tools for diagnosis, staging and prognosis of Tuberculosis Brain Meningitis (TBM) patients. In detail, this project envisions the extraction of relevant features to characterise TBM and its different phenotypes during the course of the disease. Furthermore, we also aim to design a subject-specific disease progression model that can account for environmental and clinical factors, which might influence the patient outcome. 
 
-U-Nets are trained to parcellate the human brain. 
-
-Deep learning-based prostate cancer diagnosis tool. 
-
-Creation of augmentation module in PyTorch compatible with Monai environment. Investigation of performance gains on the 3D segmentation using multiple different networks. 
 
 The project aims to develop and validate deep learning models to predict, from MRI and clinical data, which tumours are likely to grow and require treatment. The student will be able to focus on designing novel radiomics analysis for vestibular schwannoma while exploiting an existing fully-automated AI tumour segmentation framework. This will enable clinicians to deliver personalised and standardised management plans to individual patients and has the potential to significantly reduce the number of required surveillance scans. 
 
 This research project will investigate Visual Question Answering and Image Captioning. The first aims to find the correct answer to a given question that is consistent with the visual content of a given image while the second focuses on describing the content of an image with a natural language sentence. These technologies empower computers to better understand realistic visual information and transform it into natural language that we are familiar with, which can be used to build an intelligent human-computer interaction system. The project will involve the usage of public datasets, such as VQA-CP for Visual Question Answering, and MSCOCO for Image Captioning, as well as deep learning platforms, such as TensorFlow, PyTorch, etc. 
 
 Adequate hydration is considered a significant factor in good physiological and physical health for human. Mild dehydration happens commonly among people and was proved to increase the risk of chronic diseases. It has been proved that dehydration is closely associated with disability, hospitalization and mortality. To avoid dehydration, many studies have stressed the significance of adequate drinking, which is the predominant way of body water supplying. However, low-intake dehydration, which refers to dehydration status caused by inadequate fluid intake, has been endangering public health and often underemphasized. Hence, fluid intake monitoring, which monitors the action and amount of drinking, is crucially needed for ensuring adequate drinking. 
-
-Using machine learning to automatically detect standard planes and measure biometrics during the mid-pregnancy ultrasound scan. 
 
 The objective of this research is to study deep learning methods for the visual recognition of urban and rural scenes in remote sensing imagery. Algorithms will be developed to detect and analyze the distribution of different objects such as buildings and trees in visual images; their applications in the geographical field will also be investigated. 
 
@@ -183,11 +168,4 @@ This research project will investigate few-shot learning in semantic segmentatio
 
 One of the directions of RL is goal-conditioned learning, which focuses on how an agent can effectively learn  the optimal policy by small supervision of the expert, some end goal which should be reached or a few subgoals in the process. It has a problem that these goals are usually very sparse and hard to reach the first time. Thus, the RL agent can only succeed with the exploration of heuristics. Partly, it can be solved by imitation learning when the goal is set for each frame/second. However, in real life, it is hard to supervise some robot as it has different dynamics compared to humans. Moreover, when humans learn new information or skill, they do not need the observations for each time point but instead supervised by some key steps.   In Dreamer paper, they have learnt the decoder from observations into compact latent space,  which was used to predict the future states and understand the policy. Such latent representation is a powerful tool that can help address the problem above. The main idea is to train representation learning, which will give us the encoder to provide latent representation for current  and goal images. Afterwards, the reward can be expressed in terms of Euclidean distance. 
 
-Making TIAGo robot help the elderly or physically disabled people with daily household activities. 
-
-Video data will be collected in a café and will be analysed to build a human approaching behaviour recognition algorithm. 
-
-Use reinforcement learning method to solve problem in robot control, multi-agent control under safety consideration, involved with graph representation learning for improve performance and learning efficiency, also use fuzzy theory for increasing the explainability of the model 
-
-Using ML tools to distinguish brain lesions in Tuberculosis Meningitis patients 
 
