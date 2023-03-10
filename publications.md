@@ -50,7 +50,6 @@ Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucur
 A Darkhalil, D Shan, B Zhu, J Ma, A Kar, R Higgins, S Fidler, D Fouhey, D Damen.(2022) EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
 <br>
 W Price, C Vondrick, D Damen. (2022) UnweaveNet: Unweaving Activity Stories. IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
-<br>
 J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced Video and Signal-Based Surveillance (AVSS). 
 <br>
 D Damen, H Doughty et al. (2022)  Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100. International Journal of Computer Vision (IJCV). 
