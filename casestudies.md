@@ -6,6 +6,10 @@ permalink: "/casestudies/"
 
 
 --------------------------
+## Oxford University
+[**Mapping the old with the new: handheld 3D scanning of Oxford's Sheldonian Theatre**](https://eng.ox.ac.uk/news/handheld-3d-scanning-of-oxfords-sheldonian-theatre/)
+[**Oxford quadruped robot research-tested on a live Chevron facility**](https://eng.ox.ac.uk/news/oxford-quadruped-robot-research-tested-on-a-live-chevron-facility/)
+
 ## Newcastle University 
 **Dermatologically Inspired Deep Face Analytics** 
 <br>
