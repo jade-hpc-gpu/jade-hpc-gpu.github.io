@@ -11,7 +11,6 @@ permalink: "/publications/"
 X. Li, W. Armour.(2022) [Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
 <br>
 C. Lu, T. Willi, C. S. de Witt, J. Foerster. (2022) [Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447) In International Conference on Machine Learning. ICML(Spotlight) (pp. 14398-14411). PMLR.  
-
 C. Lu, J. G. Kuba, A. Letcher,L Metz, C. S de Witt, & J. Foerster. (2022) [Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639) NeurIPS Decision Awareness in Reinforcement Learning Workshop ICML
 <br>
 C. Lu, T. Willi, A. Letcher, J. Foerster. (2022) [Adversarial Cheap Talk](https://arxiv.org/abs/2211.11030) Workshop on Machine Learning for Cybersecurity, Decision Awareness in Reinforcement Learning Workshop, ICML
