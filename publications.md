@@ -27,7 +27,7 @@ A. Proudman, M. Ramezani, S.T. Digumarti, N. Chebrolu & M. Fallon. (2022) 'Towar
 <br>
 Y. Wang, M. Ramezani, M. Mattamala, S.T.'Digumarti & M. Fallon. (2022), Strategies for large scale elastic and semantic LiDAR reconstruction', Robotics and Autonomous Systems, 155.
 <br>
-S. Gangapurwala, M. Geisert, R. Orsolino, M. Fallon & I. Havoutis (2022),'RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control', IEEE Transactions on Robotics, IEEE.  
+S. Gangapurwala, M. Geisert, R. Orsolino, M. Fallon & I. Havoutis (2022), RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control, IEEE Transactions on Robotics, IEEE.  
 Weston, Rob and Gadd, Matthew and De Martini, Daniele and Newman, Paul and Posner, Ingmar. (2022), [Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry](https://arxiv.org/pdf/2203.00459.pdf), International Conference on Robotics and Automation (ICRA), IEEE, 2186-2192 
 Ramtoula, Benjamin and Gadd, Matthew and Newman, Paul and De Martini, Daniele (2023), Visual DNA: Representing and Comparing Images using Distributions of Neuron Activations, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
 
