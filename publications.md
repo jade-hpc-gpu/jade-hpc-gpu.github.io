@@ -47,37 +47,37 @@ Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucur
 <br>
 
 ## Bristol University 
-(2022) A Darkhalil, D Shan, B Zhu, J Ma, A Kar, R Higgins, S Fidler, D Fouhey, D Damen. EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
+A Darkhalil, D Shan, B Zhu, J Ma, A Kar, R Higgins, S Fidler, D Fouhey, D Damen.(2022) EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
 <br>
-(2022) W Price, C Vondrick, D Damen. UnweaveNet: Unweaving Activity Stories. IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
+W Price, C Vondrick, D Damen. (2022) UnweaveNet: Unweaving Activity Stories. IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
 <br>
-(2022) J Ma, D Damen. Hand-Object Interaction Reasoning. IEEE Conf. on Advanced Video and Signal-Based Surveillance (AVSS). 
+J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced Video and Signal-Based Surveillance (AVSS). 
 <br>
-(2022) D Damen, H Doughty, GM Farinella, A Furnari, J Ma, E Kazakos, D Moltisanti, J Munro, T Perrett, W Price, M Wray. Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100. International Journal of Computer Vision (IJCV). 
+D Damen, H Doughty et al. (2022)  Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100. International Journal of Computer Vision (IJCV). 
 <br>
-(2021) E Kazakos, J Huh, A Nagrani, A Zisserman, D Damen. With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition. British Machine Vision Conference (BMVC). 
+E Kazakos, J Huh, A Nagrani, A Zisserman, D Damen. (2021) With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition. British Machine Vision Conference (BMVC). 
 <br>
-(2021) D Damen, H Doughty, GM Farinella, S Fidler, A Furnari, E Kazakos, D Moltisanti, J Munro, T Perrett, W Price, M Wray. The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
+D Damen, H Doughty, GM Farinella, S Fidler et al. (2021) The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
 <br>
-(2021) E Kazakos, A Nagrani, A Zisserman, D Damen. Slow-Fast Auditory Streams for Audio Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+E Kazakos, A Nagrani, A Zisserman, D Damen. (2021) Slow-Fast Auditory Streams for Audio Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 <br>
 ## Sussex University 
-[In Search of Good Ancestors / Ahnen in Arbeit, Jonathan Chaim Reus, NordiCHI '22: Nordic Human-Computer Interaction Conference](https://dl.acm.org/doi/10.1145/3546155.3547294) 
+J.C.Reus. (2022) [In Search of Good Ancestors / Ahnen in Arbeit](https://dl.acm.org/doi/10.1145/3546155.3547294) NordiCHI '22: Nordic Human-Computer Interaction Conference. 78.1
 <br>
-mlGeNN: accelerating SNN inference using GPU-enabled neural networks Author: Turner et al., Date: 2022-06-01, DOI: 10.1088/2634-4386/ac5ac5, publication Title: Neuromorphic Computing and Engineering 
+Turner et al. (2022) Neuromorphic Computing and Engineering, Accelerating SNN inference using GPU-enabled neural networks 
 <br>
-Efficient GPU training of LSNNs using eProp Author: Knight et al., Date: 2022-03-28, DOI: 10.1145/3517343.3517346, proceedings Title: Neuro-Inspired Computational Elements Conference 
+Knight et al. (2022) Neuro-Inspired Computational Elements Conference, Efficient GPU training of LSNNs using eProp. 
 <br>
-Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks Author: Nowotny et al., Date: 2022-12-02, archiveID: arXiv:2212.01232 
+Nowotny et al. (2022) Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks
 <br>
 ## Surrey University 
 Abhra Chaudhuri et al. (2022)['Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval'](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
 <br>
 Abhra Chaudhuri et al. (2022)'Relational Proxies: Emergent Relationships as Fine-Grained Discriminators', In the Proceedings of Neural Information Processing Systems (NeurIPS), New Orleans, USA
 <br>
-Marco Pesavento, Maro Volino, Adrian Hilton. (2022) ['super resolution 3D human shape from a single low resolution image'](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_26), European conference on computer vision (ECCV22) 
+M. Pesavento, M. Volino, A. Hilton. (2022) ['super resolution 3D human shape from a single low resolution image'](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_26), European conference on computer vision (ECCV22) 
 <br>
-Andres Fernandez, Mark D Plumbley. (2021). ['Using UMAP to Inspect Audio Data for Unsupervised Anomaly Detection under Domain-Shift Conditions'](https://arxiv.org/abs/2107.10880), Proc Detection and Classification of Acoustic Scenes and Events 2021.
+A. Fernandez, M. D. Plumbley. (2021). ['Using UMAP to Inspect Audio Data for Unsupervised Anomaly Detection under Domain-Shift Conditions'](https://arxiv.org/abs/2107.10880), Proc Detection and Classification of Acoustic Scenes and Events 2021.
 <br>
 Akash Rawat et al. (2022), 'Modelling Political Aggression On Social Media Platforms', The International AAAI Conference on Web and Social Media (ICWSM) 
 <br>
@@ -86,13 +86,13 @@ Ammarah Farooq et al. 'AXM-Net: Implicit Cross-Modal Feature Alignment for Perso
 Ali Akbari et al. 'How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation', ICML 2021: 141-151. 
 
 ## Queen Mary University 
-Hengyi Wang, Chaoran Zhu, Ziyin Ma, Changjae Oh, (2022) ['Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings,'](https://arxiv.org/pdf/2203.01192.pdf) IEEE Int. Conf. Acoustic, Speech, Sig. Proc. Grand Challenges: Audio-Visual Object Classification For Human-Robot Collaboration (1st rank)
+H. Wang, C. Zhu, Z. Ma, C. Oh, (2022) ['Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings,'](https://arxiv.org/pdf/2203.01192.pdf) IEEE Int. Conf. Acoustic, Speech, Sig. Proc. Grand Challenges: Audio-Visual Object Classification For Human-Robot Collaboration (1st rank)
 <br>
-Stoidis, D., Cavallaro, A. (2021) ['Protecting Gender and Identity with Disentangled Speech Representations'](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
+D.Stoidis, A. Cavallaro. (2021) ['Protecting Gender and Identity with Disentangled Speech Representations'](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
 <br>
-Stoidis, D., Cavallaro, A. (2022) ['Generating gender-ambiguous voices for privacy-preserving speech recognition'](https://www.isca-speech.org/archive/interspeech_2022/stoidis22_interspeech.html) Proc. Interspeech, 4237-4241
+D.Stoidis, A. Cavallaro. (2022) ['Generating gender-ambiguous voices for privacy-preserving speech recognition'](https://www.isca-speech.org/archive/interspeech_2022/stoidis22_interspeech.html) Proc. Interspeech, 4237-4241
 <br>
-Stoidis, D., Cavallaro, A. (2022) ['Content-based Graph Privacy Advisor'](https://ieeexplore.ieee.org/document/9999084) IEEE Eighth International Conference on Multimedia Big Data (BigMM) 
+D.Stoidis, A. Cavallaro.  (2022) ['Content-based Graph Privacy Advisor'](https://ieeexplore.ieee.org/document/9999084) IEEE Eighth International Conference on Multimedia Big Data (BigMM) 
 
 ## Kings College London
 B. Gao and M. W. Spratling (2021) [Robust template matching via hierarchical convolutional features from a shape biased CNN.](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Vol. 813. Springer, Singapore.
