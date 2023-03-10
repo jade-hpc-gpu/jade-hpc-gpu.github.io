@@ -8,34 +8,27 @@ permalink: "/publications/"
 ------------
 
 ## Oxford University
-X Li, W Armour.(2022) [Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
+X. Li, W. Armour.(2022) [Intensity-Sensitive Similarity Indexes for Image Quality Assessment](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=0cuZV8gAAAAJ&sortby=pubdate&citation_for_view=0cuZV8gAAAAJ:bnK-pcrLprsC) 26th International Conference on Pattern Recognition, ICPR.
 <br>
-[Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447) ICML 2022 (Spotlight) 
-ICLR 2022 Workshop on Gamification and Multiagent Solutions  
-Lu, C., Willi, T., De Witt, C. A. S., & Foerster, J. (2022, June). Model-free opponent shaping. In International Conference on Machine Learning (pp. 14398-14411). PMLR.  
-[Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639)
-NeurIPS 2022 
-Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
+C. Lu, T. Willi, C. S. de Witt, J. Foerster. (2022) [Model-Free Opponent Shaping](https://arxiv.org/abs/2205.01447) In International Conference on Machine Learning. ICML(Spotlight) (pp. 14398-14411). PMLR.  
 <br>
-Lu, C., Kuba, J. G., Letcher, A., Metz, L., de Witt, C. S., & Foerster, J. (2022). Discovered policy optimisation. arXiv preprint arXiv:2210.05639. 
+C. Lu, J. G. Kuba, A. Letcher,L Metz, C. S de Witt, & J. Foerster. (2022) [Discovered Policy Optimisation](https://arxiv.org/abs/2210.05639) NeurIPS Decision Awareness in Reinforcement Learning Workshop ICML
 <br>
-[Adversarial Cheap Talk](https://arxiv.org/abs/2211.11030) Workshop on Machine Learning for Cybersecurity @ ICML 2022 (Spotlight) 
-Decision Awareness in Reinforcement Learning Workshop @ ICML 2022
+C. Lu, T. Willi, A. Letcher, J. Foerster. (2022) [Adversarial Cheap Talk](https://arxiv.org/abs/2211.11030) Workshop on Machine Learning for Cybersecurity, Decision Awareness in Reinforcement Learning Workshop, ICML
 <br>
-[Disease variant prediction with deep generative models of evolutionary data](https://www.nature.com/articles/s41586-021-04043-8)
+Frazer, J., Notin, P., Dias, M. et al. (2021)[Disease variant prediction with deep generative models of evolutionary data](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
 <br>
-[Universal characteristics of deep neural network loss surfaces from random matrix theory](https://iopscience.iop.org/article/10.1088/1751-8121/aca7f5/pdf) Frazer, J., Notin, P., Dias, M. et al. Disease variant prediction with deep generative models of evolutionary data. Nature 599, 91–95 (2021). 
-Nicholas P Baskerville et al.(2022) Journal of Physics A: Mathematical and Theoretical. 55 494002. 
+Nicholas P Baskerville et al.(2022) [Universal characteristics of deep neural network loss surfaces from random matrix theory] (https://iopscience.iop.org/article/10.1088/1751-8121/aca7f5/pdf) Journal of Physics A: Mathematical and Theoretical. 55 494002. 
 <br>
-Diego Granziol, Stefan Zohren, Stephen Roberts (2022). Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training. Journal of Machine Learning Research 23(173):1-65, 2022.
+D. Granziol, S. Zohren, S. Roberts (2022). Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training. Journal of Machine Learning Research 23(173):1-65
 <br>
-Marc Rigter, Bruno Lacerda and Nick Hawes (2022). [RAMBO-RL: Robust adversarial model-based offline reinforcement learning.](https://arxiv.org/abs/2204.12581) Advances in Neural Information Processing Systems (NeurIPS).
+M. Rigter, B. Lacerda and N.Hawes (2022). [RAMBO-RL: Robust adversarial model-based offline reinforcement learning.](https://arxiv.org/abs/2204.12581) Advances in Neural Information Processing Systems (NeurIPS).
 <br>
-Proudman A, Ramezani M, Digumarti ST, Chebrolu N & Fallon M.(2022)'Towards real-time forest inventory using handheld LiDAR', Robotics and Autonomous Systems, 157.
+A. Proudman, M. Ramezani, S.T. Digumarti, N. Chebrolu & M. Fallon. (2022) 'Towards real-time forest inventory using handheld LiDAR', Robotics and Autonomous Systems, 157.
 <br>
-Wang Y, Ramezani M, Mattamala M, 'Digumarti ST & Fallon M (2022), Strategies for large scale elastic and semantic LiDAR reconstruction',Robotics and Autonomous Systems, 155.
+Y. Wang, M. Ramezani, M. Mattamala, S.T.'Digumarti & M. Fallon. (2022), Strategies for large scale elastic and semantic LiDAR reconstruction', Robotics and Autonomous Systems, 155.
 <br>
-Gangapurwala S, Geisert M, Orsolino R, Fallon M & Havoutis I (2022),'RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control ', IEEE Transactions on Robotics, IEEE.  
+S. Gangapurwala, M. Geisert, R. Orsolino, M. Fallon & I. Havoutis (2022),'RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control', IEEE Transactions on Robotics, IEEE.  
 
 ## HecBioSim
 Christian. M. Orr et al. (2022)'[Hinge disulfides in human IgG2 CD40 antibodies modulate receptor signaling by regulation of conformation and flexibility'](https://www.science.org/doi/10.1126/sciimmunol.abm3723) Science Immunology, 7,73.
@@ -44,9 +37,9 @@ Oliver. J. Melling et al. (2023) ['Enhanced Grand Canonical Sampling of Occluded
 <br>
 Miroslav Suruzhon et al. (2022) ['Enhancing Ligand and Protein Sampling Using Sequential Monte Carlo'](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01198), Theory and Computational, 18,6. 
 <br>
-Jenke Scheen, Mark Mackey, Julien Michel, (2022)'Data-driven generation of perturbation networks for relative binding free energy calculations'. Digital Discover, 1, 870-885. 
+J. Scheen, M. Mackey, J. Michel, (2022)'Data-driven generation of perturbation networks for relative binding free energy calculations'. Digital Discover, 1, 870-885. 
 <br>
-Mark Mackey, (2022) ['Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations'](https://www.cresset-group.com/about/news/data-driven-fep/)
+M. Mackey, (2022) ['Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations'](https://www.cresset-group.com/about/news/data-driven-fep/)
 
 ## Turing Institute
 Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
