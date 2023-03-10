@@ -107,8 +107,8 @@ B. Gao and M. W. Spratling (2022) [Shape-texture debiased training for robust te
 ## Loughborough University
 Y. Zhou, B. Li, J Wang, E. Rocco & Q. Meng (2022). Discovering unknowns: Context-enhanced anomaly detection for curiosity-driven autonomous underwater exploration. Pattern Recognition, 131, p.108860. 
 <br>
-L. Jiang, G. Schaefer, & Q. Meng (2022). An Improved Novel View Synthesis Approach Based on Feature Fusion and Channel Attention. In 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 2459-2464).
+L. Jiang, G. Schaefer, & Q. Meng (2022). An Improved Novel View Synthesis Approach Based on Feature Fusion and Channel Attention. IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 2459-2464).
 <br>
-J. Huo, H. Cai, & Q. Meng (2022). Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition. In 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611).
+J. Huo, H. Cai, & Q. Meng (2022). Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition. IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611).
 <br>
 
