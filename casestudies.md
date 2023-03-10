@@ -136,7 +136,7 @@ I am trying to test diverse supervised and unsupervised algorithms on drug datab
 Predicting autism spectrum phenotypes from neonatal brain connectivity: The goal of this project is to improve our understanding of brain development and outcome in babies at risk of autism spectrum disorders (ASD) by: <br>
 1.Training machine learning algorithms in adult populations to classify ASD from controls <br>
 2.Transferring techniques to state-of-the-art neonatal acquisitions <br>
-3. Interpreting algorithms to find altered connectivity patterns associated with outcome <br>
+3.Interpreting algorithms to find altered connectivity patterns associated with outcome <br>
 More information [here.](https://gtr.ukri.org/projects?ref=studentship-2269804) 
 
 In this project we aim to provide better understanding and improve the current methods in diagnosis and prognosis of Tuberculous meningitis, leveraging state-of-the art method and MR imaging data. 
