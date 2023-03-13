@@ -52,9 +52,8 @@ Applications <br>
 The methods developed during this project have the potential to be used as a significantly cheaper alternative to RFID tagging systems for the tracking of individual-level pig weights when combined with either weighting platforms or camera-based pig weight estimation systems. This work could also be used as a foundation for the development of methods that can be applied to other livestock.
 
 ## Loughborough University
-**Project Summaries** 
 
-Title: Visual focus of attention detection in an unconstrained environment 
+**Visual focus of attention detection in an unconstrained environment**
 
 The visual focus of attention (VFOA) is this kind of human behaviour which is determined by eye gaze and head pose dynamics. We need to estimate the Gaze to determine where the visual focus of attention is. Gaze estimation can be applied to many scenarios, such as driving, and human-robot interaction. In addition, the detection of abnormal gaze is also widely used in the medical field. For example, in the standard of early screening and treatment of autism spectrum disorder (ASD), reduced eye contact is considered an important indicator. There is a robot-assisted system that can help with the treatment in the early stage of ASD. In this system, the robot needs to judge the child’s gaze information to give the corresponding response. If the robot wants to interact with humans, the robot needs to determine whether the gaze attention of the person is concentrated on the robot or not, this will help the robot to catch the timing of interacting with the human. 
 
@@ -62,6 +61,7 @@ The visual focus of attention detection as an important topic under the Human-Ro
 
 Up till now, we have already configured the environment on Jade2 to train models. For the next step, we will train the models we build, and enlarge the annotated training dataset to achieve better performance in our study. 
 
+**Project Summaries** 
 
 - As a PhD student from Department of Computer Science at Loughborough University, I have been using the JADE-2 to train an anomaly detection model for underwater unknown detection. In this case, apart from the normal layers like convolutional layers, activation functions etc., I implemented a new layer named Mask Fully Connected (MFC) layer, which was successfully run on the JADE-2. Four datasets were used in this experiment: CIFAR-10 dataset with 60,000 images, a simulation dataset with around 100 images, an underwater statue dataset around 4,000 images and a public underwater dataset SUIM around 5,000 images. Thus, I used JADE-2 to train different models on these datasets respectively and train the comparison methods such as GAN, VAE and LSA models as well. With JADE-2, the training process can be accelerated, and the model can be easily downloaded to my workstation for further validation locally. 
  
