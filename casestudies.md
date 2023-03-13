@@ -54,6 +54,14 @@ The methods developed during this project have the potential to be used as a sig
 ## Loughborough University
 **Project Summaries** 
 
+Title: Visual focus of attention detection in an unconstrained environment 
+
+The visual focus of attention (VFOA) is this kind of human behaviour which is determined by eye gaze and head pose dynamics. We need to estimate the Gaze to determine where the visual focus of attention is. Gaze estimation can be applied to many scenarios, such as driving, and human-robot interaction. In addition, the detection of abnormal gaze is also widely used in the medical field. For example, in the standard of early screening and treatment of autism spectrum disorder (ASD), reduced eye contact is considered an important indicator. There is a robot-assisted system that can help with the treatment in the early stage of ASD. In this system, the robot needs to judge the child’s gaze information to give the corresponding response. If the robot wants to interact with humans, the robot needs to determine whether the gaze attention of the person is concentrated on the robot or not, this will help the robot to catch the timing of interacting with the human. 
+
+The visual focus of attention detection as an important topic under the Human-Robot interaction scenes faced the huge challenge of low detection accuracy in real-world applications compared with laboratory scenes. Since most of the images obtained through the robot camera have no restrictions on the light source, posture, and scene. Recently, with the development of deep learning technology, the performance of visual focus of attention detection-based deep learning models has been significantly improved. We aim to build deep learning models that enable the robot to detect the visual focus of attention in an unconstrained environment in real-time. For achieving the aim, we need a larger dataset to train the deeper model we built, this needs a huge number of computational resources, and we would like to use Jade2 HPC to speed up our experiments and finish our study quickly. 
+
+Up till now, we have already configured the environment on Jade2 to train models. For the next step, we will train the models we build, and enlarge the annotated training dataset to achieve better performance in our study. 
+
 
 - As a PhD student from Department of Computer Science at Loughborough University, I have been using the JADE-2 to train an anomaly detection model for underwater unknown detection. In this case, apart from the normal layers like convolutional layers, activation functions etc., I implemented a new layer named Mask Fully Connected (MFC) layer, which was successfully run on the JADE-2. Four datasets were used in this experiment: CIFAR-10 dataset with 60,000 images, a simulation dataset with around 100 images, an underwater statue dataset around 4,000 images and a public underwater dataset SUIM around 5,000 images. Thus, I used JADE-2 to train different models on these datasets respectively and train the comparison methods such as GAN, VAE and LSA models as well. With JADE-2, the training process can be accelerated, and the model can be easily downloaded to my workstation for further validation locally. 
  
@@ -79,14 +87,6 @@ The methods developed during this project have the potential to be used as a sig
 
 - However once dealing with high quality images (e.g. 2k resolution) we used to wait for quiet longer time to complete network training and much longer time to improve its performance. As long as we moved our work to JADE-2, we use typical configurations such as 8 GPUs to train network in parallel to significantly save time from network training. 
 
-
-- Title: Visual focus of attention detection in an unconstrained environment 
-
-The visual focus of attention (VFOA) is this kind of human behaviour which is determined by eye gaze and head pose dynamics. We need to estimate the Gaze to determine where the visual focus of attention is. Gaze estimation can be applied to many scenarios, such as driving, and human-robot interaction. In addition, the detection of abnormal gaze is also widely used in the medical field. For example, in the standard of early screening and treatment of autism spectrum disorder (ASD), reduced eye contact is considered an important indicator. There is a robot-assisted system that can help with the treatment in the early stage of ASD. In this system, the robot needs to judge the child’s gaze information to give the corresponding response. If the robot wants to interact with humans, the robot needs to determine whether the gaze attention of the person is concentrated on the robot or not, this will help the robot to catch the timing of interacting with the human. 
-
-The visual focus of attention detection as an important topic under the Human-Robot interaction scenes faced the huge challenge of low detection accuracy in real-world applications compared with laboratory scenes. Since most of the images obtained through the robot camera have no restrictions on the light source, posture, and scene. Recently, with the development of deep learning technology, the performance of visual focus of attention detection-based deep learning models has been significantly improved. We aim to build deep learning models that enable the robot to detect the visual focus of attention in an unconstrained environment in real-time. For achieving the aim, we need a larger dataset to train the deeper model we built, this needs a huge number of computational resources, and we would like to use Jade2 HPC to speed up our experiments and finish our study quickly. 
-
-Up till now, we have already configured the environment on Jade2 to train models. For the next step, we will train the models we build, and enlarge the annotated training dataset to achieve better performance in our study. 
 
 ## Kings College London
 **JADE User Project Summaries** 
