@@ -154,4 +154,12 @@ This research project will investigate few-shot learning in semantic segmentatio
 
 One of the directions of RL is goal-conditioned learning, which focuses on how an agent can effectively learn  the optimal policy by small supervision of the expert, some end goal which should be reached or a few subgoals in the process. It has a problem that these goals are usually very sparse and hard to reach the first time. Thus, the RL agent can only succeed with the exploration of heuristics. Partly, it can be solved by imitation learning when the goal is set for each frame/second. However, in real life, it is hard to supervise some robot as it has different dynamics compared to humans. Moreover, when humans learn new information or skill, they do not need the observations for each time point but instead supervised by some key steps.   In Dreamer paper, they have learnt the decoder from observations into compact latent space,  which was used to predict the future states and understand the policy. Such latent representation is a powerful tool that can help address the problem above. The main idea is to train representation learning, which will give us the encoder to provide latent representation for current  and goal images. Afterwards, the reward can be expressed in terms of Euclidean distance. 
 
-
+## Sucess Stories
+<br>
+Dr Sidd. Gangapurwala is currently working with Sony AI 
+<br>
+Dr. Gangapurwala's work within Oxford University's Robotics Institute was demonstrated on a live Chevron facility:
+[Oxford quadruped robot research-tested on a live Chevron facility](https://eng.ox.ac.uk/news/oxford-quadruped-robot-research-tested-on-a-live-chevron-facility/)
+Additional information on Dr. S. Gangapurwala's work:
+[Legged robot navigates by learning from its mistakes](https://eng.ox.ac.uk/case-studies/robot-navigates-by-learning-from-its-mistakes/)
+<br>
