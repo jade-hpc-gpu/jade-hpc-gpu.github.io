@@ -89,7 +89,7 @@ Up till now, we have already configured the environment on Jade2 to train models
 
 
 ## Kings College London
-**JADE User Project Summaries** 
+**Project Summaries** 
 
 - Convolutional Neural Networks (CNNs) have achieved state-of-the-art performance for many medical segmentation tasks when trained in a fully-supervised manner, i.e. by using pixel-wise annotations. In practice, CNNs require large annotated datasets to be able to generalise to different acquisition protocols and to cover variability in the data (e.g. size and location of a pathology). Given the time and expertise required to carefully annotate medical data, the data-labelling process is a key bottleneck for the development of automatic image medical segmentation tools. To address this issue, we would like to investigate techniques that exploit weak annotations (e.g. scribbles, bounding boxes, extreme points) instead of time-consuming pixel-wise annotations. 
 
