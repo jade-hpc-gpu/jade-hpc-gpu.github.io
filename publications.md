@@ -48,6 +48,21 @@ Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-
 Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu. Local2global: Scaling global representation learning on graphs via local training. In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21, 2021
 <br>
 
+## Kings College London
+B. Gao and M. W. Spratling (2021) [Robust template matching via hierarchical convolutional features from a shape biased CNN.](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Vol. 813. Springer, Singapore.
+<br>
+B. Gao and M. W. Spratling (2022) [Explaining away results in more robust visual tracking.](https://link.springer.com/article/10.1007/s00371-022-02466-6) Vis. Comput
+<br>
+B. Gao and M. W. Spratling (2022) [More robust object tracking via shape and motion cue integration.](https://www.sciencedirect.com/science/article/pii/S0165168422001682?via%3Dihub) Signal Processing, Vol. 199
+<br>
+B. Gao and M. W. Spratling (2022) [Shape-texture debiased training for robust template matching.](https://www.mdpi.com/1424-8220/22/17/6658) Sensors, online 22(17), p.6658.
+<br>
+S. Joutard, R. Dorent, S.Ourselin, T. Vercauteren, M. Modat (2022) Driving Points Prediction For Abdominal Probabilistic Registration, MLMI 
+<br>
+L. Li, M. W. Spratling (2023) Understanding and combating robust overfitting via input loss landscape analysis and regularization, Pattern Recognition 
+<br>
+L. Li, M. W. Spratling (2023) Data Augmentation Alone Can Improve Adversarial Training, International Conference on Learning Representations (ICLR)
+<br>
 ## Bristol University 
 A Darkhalil, D Shan, B Zhu, J Ma, A Kar, R Higgins, S Fidler, D Fouhey, D Damen.(2022) EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
 <br>
@@ -85,7 +100,7 @@ Akash Rawat et al. (2022), Modelling Political Aggression On Social Media Platfo
 Ammarah Farooq et al. AXM-Net: Implicit Cross-Modal Feature Alignment for Person Re-identification, AAAI 2022: 4477-4485.
 <br>
 Ali Akbari et al. How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation, ICML 2021: 141-151. 
-
+<br>
 ## Queen Mary University 
 H. Wang, C. Zhu, Z. Ma, C. Oh, (2022) [Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings,](https://arxiv.org/pdf/2203.01192.pdf) IEEE Int. Conf. Acoustic, Speech, Sig. Proc. Grand Challenges: Audio-Visual Object Classification For Human-Robot Collaboration (1st rank)
 <br>
@@ -94,22 +109,7 @@ D.Stoidis, A. Cavallaro. (2021) [Protecting Gender and Identity with Disentangle
 D.Stoidis, A. Cavallaro. (2022) [Generating gender-ambiguous voices for privacy-preserving speech recognition](https://www.isca-speech.org/archive/interspeech_2022/stoidis22_interspeech.html) Proc. Interspeech, 4237-4241
 <br>
 D.Stoidis, A. Cavallaro.  (2022) [Content-based Graph Privacy Advisor](https://ieeexplore.ieee.org/document/9999084) IEEE Eighth International Conference on Multimedia Big Data (BigMM) 
-
-## Kings College London
-B. Gao and M. W. Spratling (2021) [Robust template matching via hierarchical convolutional features from a shape biased CNN.](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Vol. 813. Springer, Singapore.
 <br>
-B. Gao and M. W. Spratling (2022) [Explaining away results in more robust visual tracking.](https://link.springer.com/article/10.1007/s00371-022-02466-6) Vis. Comput
-<br>
-B. Gao and M. W. Spratling (2022) [More robust object tracking via shape and motion cue integration.](https://www.sciencedirect.com/science/article/pii/S0165168422001682?via%3Dihub) Signal Processing, Vol. 199
-<br>
-B. Gao and M. W. Spratling (2022) [Shape-texture debiased training for robust template matching.](https://www.mdpi.com/1424-8220/22/17/6658) Sensors, online 22(17), p.6658.
-<br>
-S. Joutard, R. Dorent, S.Ourselin, T. Vercauteren, M. Modat (2022) Driving Points Prediction For Abdominal Probabilistic Registration, MLMI 
-<br>
-L. Li, M. W. Spratling (2023) Understanding and combating robust overfitting via input loss landscape analysis and regularization, Pattern Recognition, 
-<br>
-L. Li, M. W. Spratling (2023) Data Augmentation Alone Can Improve Adversarial Training, International Conference on Learning Representations (ICLR)
-
 ## Loughborough University
 Y. Zhou, B. Li, J Wang, E. Rocco & Q. Meng (2022). Discovering unknowns: Context-enhanced anomaly detection for curiosity-driven autonomous underwater exploration. Pattern Recognition, 131, p.108860. 
 <br>
