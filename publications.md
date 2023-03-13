@@ -103,11 +103,11 @@ B. Gao and M. W. Spratling (2022) [Explaining away results in more robust visual
 B. Gao and M. W. Spratling (2022) [More robust object tracking via shape and motion cue integration.](https://www.sciencedirect.com/science/article/pii/S0165168422001682?via%3Dihub) Signal Processing, Vol. 199
 <br>
 B. Gao and M. W. Spratling (2022) [Shape-texture debiased training for robust template matching.](https://www.mdpi.com/1424-8220/22/17/6658) Sensors, online 22(17), p.6658.
-
+<br>
 S. Joutard, R. Dorent, S.Ourselin, T. Vercauteren, M. Modat (2022) Driving Points Prediction For Abdominal Probabilistic Registration, MLMI 
-
+<br>
 L. Li, M. W. Spratling (2023) Understanding and combating robust overfitting via input loss landscape analysis and regularization, Pattern Recognition, 
-
+<br>
 L. Li, M. W. Spratling (2023) Data Augmentation Alone Can Improve Adversarial Training, International Conference on Learning Representations (ICLR)
 
 ## Loughborough University
