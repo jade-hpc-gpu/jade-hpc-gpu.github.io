@@ -54,38 +54,31 @@ The methods developed during this project have the potential to be used as a sig
 ## Loughborough University
 **Project Summaries** 
 
-Yang Zhou 
 
 As a PhD student from Department of Computer Science at Loughborough University, I have been using the JADE-2 to train an anomaly detection model for underwater unknown detection. In this case, apart from the normal layers like convolutional layers, activation functions etc., I implemented a new layer named Mask Fully Connected (MFC) layer, which was successfully run on the JADE-2. Four datasets were used in this experiment: CIFAR-10 dataset with 60,000 images, a simulation dataset with around 100 images, an underwater statue dataset around 4,000 images and a public underwater dataset SUIM around 5,000 images. Thus, I used JADE-2 to train different models on these datasets respectively and train the comparison methods such as GAN, VAE and LSA models as well. With JADE-2, the training process can be accelerated, and the model can be easily downloaded to my workstation for further validation locally. 
-
-Lei Jiang  
+ 
 
 I am a PhD student from the computer science department, Loughborough University. In my case, I mainly use Jade2 time to train/test models in novel view synthesis based on depth or neural radiance fields with the help of multi-gpus. The trained model can recover partial or completed 3D information from input images, allowing the further view transformation and neural rendering for new views. Two datasets including ShapeNet and KITTI dataset are used to validate the effectiveness of my method on JADE2. 
-
-Jinze Huo 
+ 
 
 My research interest lies in skeleton-based action recognition and my approach uses GCN to analyse skeleton data. I have to utilise Jade2 because the skeleton dataset is too big. The first paper has been published as below, while the second and third projects are in progress. 
 
 
-Ye Wei 
-
 The reason for me to use the JADE2 HPC is to train a traffic forecasting model based on Graph Neural Networks (GNNs). Traffic forecasting aims to predict future traffic conditions (e.g., congestion class or speed) in road networks based on historical observations (e.g., sensor recording). This task is an indispensable part of Intelligent Traffic System (ITS) and it has a wide range of applications from route planning and travel time estimation, to supply chain management. Since the network structure of urban cities is large and complex, GNN models are very slow to train on ordinary graphics cards such as RTX 2080 Ti. With the help of JADE2, the training process can be accelerated, and this can greatly enhance the efficiency of my research. 
 
-Yixiao Zhang 
+
 
 I developed a number of variants of Transformer neural network to recognize audio events. The training of Transformer costs a lot of time on local deep learning machines, so I used JADE2 to speed up my experiments. JADE2 has a strong computational power which significantly reduced my experiment time. 
 
-Siyuan Deng 
 
 I have been utilising the JADE-2 to train a re-identification model for visible-infrared person as a PhD student at Loughborough University's Department of Computer Science. In this instance, I employ JADE-2 to establish a baseline for a recent study that employs three modalities and contrastive learning to create an aggregate memory-based deep metric learning framework. The benchmark VIReID dataset SYSU-MM01 that was used has 491 identities that were gathered from two near-infrared cameras and four visible cameras. The training set contain 395 identities with 22,258 RGB and 11,909 infrared images. With JADE-2, the model can be trained to the baseline and quickly downloaded to the local workspace. The work submission and environment setup, however, are a little challenging. 
 
-Jiangtao Wang 
+
 
 JADE-2 is used to train and validate several computer vision deep networks in my PhD study. We used to employ single or dual NVIDIA graphic cards to develop, train and improve the neural networks for our underwater robot's exploration. This including the image segmentation, image enhancement, depth estimation and other robotic tasks. 
 
 However once dealing with high quality images (e.g. 2k resolution) we used to wait for quiet longer time to complete network training and much longer time to improve its performance. As long as we moved our work to JADE-2, we use typical configurations such as 8 GPUs to train network in parallel to significantly save time from network training. 
 
-Wenjuan Zhou 
 
 Title: Visual focus of attention detection in an unconstrained environment 
 
@@ -104,7 +97,6 @@ The aim of this project is to develop computational tools that account for error
 
 This project aims to build truly scalable algorithms to advance the state of the art in incremental learning and adapt these algorithms to equip robots with lifelong perception and interaction capabilities. Continual learning aims to design systems that can keep learning new knowledge while maintaining the performance for the previously learned tasks. However, so far approaches considering a robotics context is scarce. We focus on developing novel continual learning algorithms by taking into account the limitations of the robotics platforms (e.g., space and computational power). We developed a novel algorithm, Information Back Discrete Representation Replay, that achieved SOTA performance in class-incremental setting. We developed a novel method, Code Feature Mapping Network, to address the efficient continual robot learning. We are currently working on a novel task-incremental learning method, which achieves the SOTA results in terms of accuracy and memory cost. 
 
-Development and refinement of AI-enabled virtual assistant technology for real-time ultrasound scanning. We're developing Deep learning-based computer vision, biometry, diagnostic support and video summarization tools for clinical use in the FASP UK 20-week foetal ultrasound anomaly scan. 
 
 The goal of this research project is to improve the classical reinforcement learning framework to enable practical and scalable deployments of autonomous agents in the real world. In particular, we are designing novel machine learning algorithms and practices to improve the sample and computational efficiency of the field and remove the reliance on task-specific, hand-engineered practices and objective functions. 
 
@@ -120,10 +112,6 @@ This project aims to make progress in three related areas of deep learning. Firs
 
 In the research, we aim at designing and improving the COVID-19 automatic classification system based on deep learning techniques to assist clinicians in screening of infected patients. The existing viral diagnosis requires long waiting time to obtain the test results that are not accurate enough. Motivated by this fact, we plan to develop an automatic Chest X-ray and Computed Tomography classification system that can provide accurate and sensitive results, accelerate the testing process, alleviate the clinicians’ workload, and control the further spread of the coronavirus. 
 
-A study of nonrigid registration methods for tracking local features of the left atrium in retrospective gated CT images. This includes deep learning-based approaches, for which I require GPU access and usage. 
-
-icovid project looks at developing an AI solution for covid lesion detection. We are currently looking into developing interactive segmentation methods for covid lesion annotation that will be used to improve quality and quantity of labelled CT volumes 
-
 I am trying to test diverse supervised and unsupervised algorithms on drug databases to find the algorithm with the best performances for this type of data. The ML generated model can be used to find new candidates against the certain validated target protein. Running molecular docking followed by Molecular Dynamics (MD) simulations can validate the model and results in terms of the binding free energy of the diverse ligand-target complexes. 
 
 Predicting autism spectrum phenotypes from neonatal brain connectivity: The goal of this project is to improve our understanding of brain development and outcome in babies at risk of autism spectrum disorders (ASD) by: <br>
@@ -132,13 +120,10 @@ Predicting autism spectrum phenotypes from neonatal brain connectivity: The goal
 3.Interpreting algorithms to find altered connectivity patterns associated with outcome <br>
 More information [here.](https://gtr.ukri.org/projects?ref=studentship-2269804) 
 
-In this project we aim to provide better understanding and improve the current methods in diagnosis and prognosis of Tuberculous meningitis, leveraging state-of-the art method and MR imaging data. 
 
 Visual tracking is a fundamental task in computer vision with numerous applications in surveillance, self-driving vehicles and UAV-based monitoring. It is the task of locating the same moving object in each frame of a video sequence, given only the initial appearance of the target object. Most modern trackers treat visual tracking as a classification problem. By learning an appearance model of the target from the initial frame, the trackers distinguish the target from the background and other objects by a cross-correlation operation to predict its location in the following frames. Although they ignore other potentially useful sources of information, such as previous motion trajectory, these Tracking-by-Detection methods achieve impressive performance. However, they can fail when the appearance model misidentifies a similar-looking object (a ``distractor'') as the target. This project focuses on this tracking drift problem caused by distractors, and adopts three novel solutions: (1) making the appearance model more sensitive to shape cues in offline training, (2) using the appearance of distractors to prevent other objects being mis-identified as the target, and (3) using the historical locations of the target to predict its future position during online inference. 
 
 Tiny object detection is a heated discussed subfield of object detection. Current methods such as SM, fusion factor, SSPNet make effective modifications mainly on how to utilize features of different scales and extend training set. But I believe the commonly used networks have suboptimal architectures for tiny object detection. I am exploring a thought guiding the design of backbones. 
-
-The goal of this project is to evaluate the use of novel contrastive learning methods for improving the performance of transformers for the task of semantic segmentation in medical and natural image datasets. 
 
 We are trying to find different ways of understanding haptic and visual data using cross modality analysis, in order to improve the quality and reduce the amount of data exchange during telesurgical procedures. We are focusing on the use of attention driven convolutional networks and vision transformer for this type of task, to isolate the the parts on the image were the actual effect of the forces is clearer. 
 
