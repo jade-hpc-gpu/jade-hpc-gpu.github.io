@@ -92,7 +92,7 @@ Ammarah Farooq et al. AXM-Net: Implicit Cross-Modal Feature Alignment for Person
 <br>
 Ali Akbari et al. How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation, ICML 2021: 141-151. 
 <br>
-## Queen Mary University 
+## Queen Mary University of London
 H. Wang, C. Zhu, Z. Ma, C. Oh, (2022) [Improving Generalization of Deep Networks for Estimating Physical Properties of Containers and Fillings,](https://arxiv.org/pdf/2203.01192.pdf) IEEE Int. Conf. Acoustic, Speech, Sig. Proc. Grand Challenges: Audio-Visual Object Classification For Human-Robot Collaboration (1st rank)
 <br>
 D.Stoidis, A. Cavallaro. (2021) [Protecting Gender and Identity with Disentangled Speech Representations](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
