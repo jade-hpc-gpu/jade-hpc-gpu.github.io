@@ -80,7 +80,7 @@ The methods developed during this project have the potential to be used as a sig
 - However once dealing with high quality images (e.g. 2k resolution) we used to wait for quiet longer time to complete network training and much longer time to improve its performance. As long as we moved our work to JADE-2, we use typical configurations such as 8 GPUs to train network in parallel to significantly save time from network training. 
 
 
-Title: Visual focus of attention detection in an unconstrained environment 
+- Title: Visual focus of attention detection in an unconstrained environment 
 
 The visual focus of attention (VFOA) is this kind of human behaviour which is determined by eye gaze and head pose dynamics. We need to estimate the Gaze to determine where the visual focus of attention is. Gaze estimation can be applied to many scenarios, such as driving, and human-robot interaction. In addition, the detection of abnormal gaze is also widely used in the medical field. For example, in the standard of early screening and treatment of autism spectrum disorder (ASD), reduced eye contact is considered an important indicator. There is a robot-assisted system that can help with the treatment in the early stage of ASD. In this system, the robot needs to judge the child’s gaze information to give the corresponding response. If the robot wants to interact with humans, the robot needs to determine whether the gaze attention of the person is concentrated on the robot or not, this will help the robot to catch the timing of interacting with the human. 
 
