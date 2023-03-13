@@ -158,8 +158,8 @@ One of the directions of RL is goal-conditioned learning, which focuses on how a
 <br>
 Dr Sidd. Gangapurwala is currently working with Sony AI 
 <br>
-Dr. Gangapurwala's work within Oxford University's Robotics Institute was demonstrated on a live Chevron facility:
+Dr. Gangapurwala's work within Oxford University's Robotics Institute was demonstrated on a live Chevron facility:<br>
 [Oxford quadruped robot research-tested on a live Chevron facility](https://eng.ox.ac.uk/news/oxford-quadruped-robot-research-tested-on-a-live-chevron-facility/)
-Additional information on Dr. S. Gangapurwala's work:
+Additional information on Dr. S. Gangapurwala's work:<br>
 [Legged robot navigates by learning from its mistakes](https://eng.ox.ac.uk/case-studies/robot-navigates-by-learning-from-its-mistakes/)
 <br>
