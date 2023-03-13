@@ -77,15 +77,6 @@ D Damen, H Doughty, GM Farinella, S Fidler et al. (2021) The EPIC-KITCHENS Datas
 <br>
 E Kazakos, A Nagrani, A Zisserman, D Damen. (2021) Slow-Fast Auditory Streams for Audio Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 <br>
-## Sussex University 
-J.C.Reus. (2022) [In Search of Good Ancestors / Ahnen in Arbeit](https://dl.acm.org/doi/10.1145/3546155.3547294) NordiCHI '22: Nordic Human-Computer Interaction Conference. 78.1
-<br>
-Turner et al. (2022) Neuromorphic Computing and Engineering, Accelerating SNN inference using GPU-enabled neural networks 
-<br>
-Knight et al. (2022) Neuro-Inspired Computational Elements Conference, Efficient GPU training of LSNNs using eProp. 
-<br>
-Nowotny et al. (2022) Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks
-<br>
 ## Surrey University 
 Abhra Chaudhuri et al. (2022)[Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
 <br>
@@ -109,6 +100,15 @@ D.Stoidis, A. Cavallaro. (2021) [Protecting Gender and Identity with Disentangle
 D.Stoidis, A. Cavallaro. (2022) [Generating gender-ambiguous voices for privacy-preserving speech recognition](https://www.isca-speech.org/archive/interspeech_2022/stoidis22_interspeech.html) Proc. Interspeech, 4237-4241
 <br>
 D.Stoidis, A. Cavallaro.  (2022) [Content-based Graph Privacy Advisor](https://ieeexplore.ieee.org/document/9999084) IEEE Eighth International Conference on Multimedia Big Data (BigMM) 
+<br>
+## Sussex University 
+J.C.Reus. (2022) [In Search of Good Ancestors / Ahnen in Arbeit](https://dl.acm.org/doi/10.1145/3546155.3547294) NordiCHI '22: Nordic Human-Computer Interaction Conference. 78.1
+<br>
+Turner et al. (2022) Neuromorphic Computing and Engineering, Accelerating SNN inference using GPU-enabled neural networks 
+<br>
+Knight et al. (2022) Neuro-Inspired Computational Elements Conference, Efficient GPU training of LSNNs using eProp. 
+<br>
+Nowotny et al. (2022) Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks
 <br>
 ## Loughborough University
 Y. Zhou, B. Li, J Wang, E. Rocco & Q. Meng (2022). Discovering unknowns: Context-enhanced anomaly detection for curiosity-driven autonomous underwater exploration. Pattern Recognition, 131, p.108860. 
