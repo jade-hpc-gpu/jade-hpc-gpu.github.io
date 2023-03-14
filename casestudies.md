@@ -154,7 +154,15 @@ More information [here.](https://gtr.ukri.org/projects?ref=studentship-2269804)
 
 ## Sucess Stories
 <br>
-Dr Sidd. Gangapurwala is currently working with Sony AI 
+Graduates employed by companies such as Samsung, AI research, Oracle and Sony AI.
+<br>
+Generated collaboration with Unilever and associated CASE studentships
+<br>
+Supported a year long radio show (called in search of good ancestors) & associated public workshops
+<br>
+Supporting BBC Prosperity partnerships
+<br>
+Supporting EPSRC AI CDT's
 <br>
 Dr. Gangapurwala's work within Oxford University's Robotics Institute was demonstrated on a live Chevron facility:<br>
 [Oxford quadruped robot research-tested on a live Chevron facility](https://eng.ox.ac.uk/news/oxford-quadruped-robot-research-tested-on-a-live-chevron-facility/)
