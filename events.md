@@ -93,7 +93,7 @@ permalink: "/events/"
 
 
 <p>
-<img src="{{ site.baseurl }}/img/JADE-stand.jpg" alt="" width="20%" height="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.baseurl }}/img/UKRI_img3.png" alt="" width="35%" height="45%"/><br>
- &nbsp;<em>JADE2 Representation at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>JADE2 Representation at UKRI DRI Community Congress 2023 in Birmingham</em><br>
+<img src="{{ site.baseurl }}/img/JADE-stand.jpg" alt="" width="20%" height="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.baseurl }}/img/UKRI_img3.png" alt="" width="35%" height="45%"/><br>
+ &nbsp;<em>JADE2 Representation at&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>JADE2 Representation at UKRI DRI Community Congress 2023 in Birmingham</em><br>
  &nbsp;CIUK22 in Manchester</em>
 </p>
