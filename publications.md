@@ -43,9 +43,9 @@ J. Scheen, M. Mackey, J. Michel, (2022)Data-driven generation of perturbation ne
 M. Mackey, (2022) [Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations](https://www.cresset-group.com/about/news/data-driven-fep/)
 
 ## Turing Institute
-Sarkar, S., Benetos, E., Sandler, M. (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
+S. Sarkar, E. Benetos, M.Sandler (2021) Vocal Harmony Separation Using Time-Domain Neural Networks. Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
 <br>
-Lucas G. S. Jeub, Giovanni Colavizza, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu. Local2global: Scaling global representation learning on graphs via local training. In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21, 2021
+G. Lucas, S. Jeub, G. Colavizza, X. Dong et al. Local2global: Scaling global representation learning on graphs via local training. In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21, 2021
 <br>
 
 ## Kings College London
@@ -64,18 +64,18 @@ L. Li, M. W. Spratling (2023) Understanding and combating robust overfitting via
 L. Li, M. W. Spratling (2023) Data Augmentation Alone Can Improve Adversarial Training, International Conference on Learning Representations (ICLR)
 <br>
 ## Bristol University 
-A Darkhalil, D Shan, B Zhu, J Ma, A Kar, R Higgins, S Fidler, D Fouhey, D Damen.(2022) EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
+A. Darkhalil, D. Shan, B. Zhu, J. Ma, A. Kar, R. Higgins, S. Fidler, D. Fouhey, D. Damen.(2022) EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
 <br>
-W Price, C Vondrick, D Damen. (2022) UnweaveNet: Unweaving Activity Stories. IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
+W. Price, C. Vondrick, D. Damen. (2022) UnweaveNet: Unweaving Activity Stories. IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
 J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced Video and Signal-Based Surveillance (AVSS). 
 <br>
-D Damen, H Doughty et al. (2022)  Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100. International Journal of Computer Vision (IJCV). 
+D. Damen, H. Doughty et al. (2022)  Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100. International Journal of Computer Vision (IJCV). 
 <br>
-E Kazakos, J Huh, A Nagrani, A Zisserman, D Damen. (2021) With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition. British Machine Vision Conference (BMVC). 
+E. Kazakos, J. Huh, A. Nagrani, A. Zisserman, D. Damen. (2021) With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition. British Machine Vision Conference (BMVC). 
 <br>
-D Damen, H Doughty, GM Farinella, S Fidler et al. (2021) The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
+D. Damen, H. Doughty et al. (2021) The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
 <br>
-E Kazakos, A Nagrani, A Zisserman, D Damen. (2021) Slow-Fast Auditory Streams for Audio Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+E. Kazakos, A. Nagrani, A. Zisserman, D. Damen. (2021) Slow-Fast Auditory Streams for Audio Recognition. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 <br>
 ## Surrey University 
 Abhra Chaudhuri et al. (2022)[Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
