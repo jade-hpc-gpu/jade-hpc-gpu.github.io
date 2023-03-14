@@ -93,6 +93,6 @@ permalink: "/events/"
 
 
 <p>
- <img src="{{ site.baseurl }}/img/JADE-stand.jpg" alt="" width="20%" height="30%"/>&nbsp;<br>
+ &nbsp;&nbsp;<img src="{{ site.baseurl }}/img/JADE-stand.jpg" alt="" width="20%" height="30%"/>&nbsp;<br>
  <em>JADE2 Representation at CIUK22 in Manchester</em>
 </p>
