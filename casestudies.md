@@ -9,6 +9,7 @@ permalink: "/casestudies/"
 ## Oxford University
 [**Mapping the old with the new: handheld 3D scanning of Oxford's Sheldonian Theatre**](https://eng.ox.ac.uk/news/handheld-3d-scanning-of-oxfords-sheldonian-theatre/)<br>
 [**Oxford quadruped robot research-tested on a live Chevron facility**](https://eng.ox.ac.uk/news/oxford-quadruped-robot-research-tested-on-a-live-chevron-facility/)<br>
+[**Global LIDAR Localization**](https://ori.ox.ac.uk/labs/drs/global-lidar-localization/)
 
 ## Newcastle University 
 **Dermatologically Inspired Deep Face Analytics** 
@@ -154,7 +155,9 @@ More information [here.](https://gtr.ukri.org/projects?ref=studentship-2269804)
 
 ## Sucess Stories
 <br>
-Graduates employed by companies such as Samsung, AI research, Oracle and Sony AI.
+Graduates employed by companies such as Samsung, Amazon, AI research, Oracle, Arrival and Sony AI.
+<br>
+A PhD student from Oxford University obtained a prestigious internship with DeepMind. 
 <br>
 Generated collaboration with Unilever and associated CASE studentships
 <br>
