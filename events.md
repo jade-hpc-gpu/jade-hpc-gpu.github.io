@@ -98,7 +98,6 @@ permalink: "/events/"
 **Sharing and collaboration with Git and GitHub**
 <br><br>
 
-```|``` ```------```
 
 
 
