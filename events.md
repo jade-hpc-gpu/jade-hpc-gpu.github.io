@@ -10,6 +10,8 @@ permalink: "/events/"
 |------ | ------ | ------ | ------ |
 | [Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)  | Oxford University   | 24/07/2023 - 28/07/2023   | [Register](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023)   |   
 
+
+
 <br>
 **JADE day** Please fill out our pre-event survey [here](https://oxford.onlinesurveys.ac.uk/jadeday) if you are interested in attending *(date TBC)*
 <br>
@@ -94,7 +96,7 @@ permalink: "/events/"
 **Data Analysis and programming in Python**
 <br>
 **Sharing and collaboration with Git and GitHub**
-<br>
+<br><br>
 
 
 
