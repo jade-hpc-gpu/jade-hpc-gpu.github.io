@@ -4,7 +4,9 @@ layout: page
 permalink: "/events/"
 ---
 ## Upcoming JADE2 Events
-**[Course on Cuda Programming](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023)** 24th July - 28th July 2023
+|**Course|Venue|Dates|Register Link|** 
+|-----|--------||--------||------| 
+|[Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)|Oxford University|24/07/2023 - 28/07/2023|[Register]|
 <br>
 **JADE day** Please fill out our pre-event survey [here](https://oxford.onlinesurveys.ac.uk/jadeday) if you are interested in attending *(date TBC)*
 <br>
