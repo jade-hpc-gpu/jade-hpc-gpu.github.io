@@ -154,7 +154,6 @@ More information [here.](https://gtr.ukri.org/projects?ref=studentship-2269804)
 - One of the directions of RL is goal-conditioned learning, which focuses on how an agent can effectively learn  the optimal policy by small supervision of the expert, some end goal which should be reached or a few subgoals in the process. It has a problem that these goals are usually very sparse and hard to reach the first time. Thus, the RL agent can only succeed with the exploration of heuristics. Partly, it can be solved by imitation learning when the goal is set for each frame/second. However, in real life, it is hard to supervise some robot as it has different dynamics compared to humans. Moreover, when humans learn new information or skill, they do not need the observations for each time point but instead supervised by some key steps.   In Dreamer paper, they have learnt the decoder from observations into compact latent space,  which was used to predict the future states and understand the policy. Such latent representation is a powerful tool that can help address the problem above. The main idea is to train representation learning, which will give us the encoder to provide latent representation for current  and goal images. Afterwards, the reward can be expressed in terms of Euclidean distance. 
 
 ## Sucess Stories
-<br>
 Graduates employed by companies such as Samsung, Amazon, AI research, Oracle, Arrival and Sony AI.
 <br>
 A PhD student from Oxford University obtained a prestigious internship with DeepMind. 
