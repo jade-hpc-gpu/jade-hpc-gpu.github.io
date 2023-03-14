@@ -96,7 +96,9 @@ permalink: "/events/"
 **Sharing and collaboration with Git and GitHub**
 <br>
 
-
+| Course | Venue | Dates | Register Link | 
+| ------------- | ----------- | -------- | -------- | 
+| [Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html) | Oxford University | 24/07/2023 - 28/07/2023  | [Register](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023) |  
 
 
 
