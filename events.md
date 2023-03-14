@@ -90,11 +90,6 @@ permalink: "/events/"
 **Sharing and collaboration with Git and GitHub**
 <br>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 
 <p>
