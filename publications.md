@@ -31,7 +31,6 @@ permalink: "/publications/"
 12. A. Proudman, M. Ramezani, S.T. Digumarti, N. Chebrolu & M. Fallon. (2022) 'Towards real-time forest inventory using handheld LiDAR', Robotics and Autonomous Systems, 157.
 <br>
 13. Y. Wang, M. Ramezani, M. Mattamala, S.T.'Digumarti & M. Fallon (2022), Strategies for large scale elastic and semantic LiDAR reconstruction', Robotics and Autonomous Systems, 155.
-<br>
 14. S. Gangapurwala, M. Geisert, R. Orsolino et al. (2022), RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control, IEEE Transactions on Robotics, IEEE.  
 <br>
 15. P. Newman and D. D. Martini, I. Posner et al.(2022), [Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry](https://arxiv.org/pdf/2203.00459.pdf), International Conference on Robotics and Automation (ICRA), IEEE, 2186-2192 
