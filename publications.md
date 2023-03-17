@@ -84,12 +84,12 @@ J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced 
 <br><br>
 40. L. Jiang, G. Schaefer, & Q. Meng (2022) **An Improved Novel View Synthesis Approach Based on Feature Fusion and Channel Attention. IEEE International Conference on Systems Man**, and Cybernetics (SMC) (pp. 2459-2464).
 <br><br>
-41. J. Huo, H. Cai, & Q. Meng (2022) **Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition**. IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611).
+41. J. Huo, H. Cai, & Q. Meng (2022) **Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition**. IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611). <br><br>
 42. J. Huang, E. Benetos and S. Ewert (2022) [**Improving Lyrics Alignment Through Joint Pitch Detection**](https://ieeexplore.ieee.org/abstract/document/9746460#citations) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 451-455 
 <br><br>
 43. Frazer, J., Notin, P., Dias, M. et al. (2021) [**Disease variant prediction with deep generative models of evolutionary data**](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
 <br><br>
-44. Hannah Kirk, Bertie Vidgen et al. (2022) [**Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate**](https://aclanthology.org/2022.naacl-main.97/) In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1352–1368, Seattle, United States. Association for Computational Linguistics.
+44. Hannah Kirk, Bertie Vidgen et al. (2022) [**Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate**](https://aclanthology.org/2022.naacl-main.97/) In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1352–1368, Seattle, United States. Association for Computational Linguistics. <br><br>
 45. S. Sarkar, E. Benetos, M.Sandler (2021) **Vocal Harmony Separation Using Time-Domain Neural Networks**, Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
 <br><br>
 46. D.Stoidis, A. Cavallaro (2021) [**Protecting Gender and Identity with Disentangled Speech Representations**](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
