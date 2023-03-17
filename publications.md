@@ -85,23 +85,25 @@ J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced 
 40. L. Jiang, G. Schaefer, & Q. Meng (2022) **An Improved Novel View Synthesis Approach Based on Feature Fusion and Channel Attention. IEEE International Conference on Systems Man**, and Cybernetics (SMC) (pp. 2459-2464).
 <br><br>
 41. J. Huo, H. Cai, & Q. Meng (2022) **Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition**. IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611).
+42. J. Huang, E. Benetos and S. Ewert (2022) [**Improving Lyrics Alignment Through Joint Pitch Detection**](https://ieeexplore.ieee.org/abstract/document/9746460#citations) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 451-455 
 <br><br>
-42. Frazer, J., Notin, P., Dias, M. et al. (2021) [**Disease variant prediction with deep generative models of evolutionary data**](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
+43. Frazer, J., Notin, P., Dias, M. et al. (2021) [**Disease variant prediction with deep generative models of evolutionary data**](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
 <br><br>
-43. S. Sarkar, E. Benetos, M.Sandler (2021) **Vocal Harmony Separation Using Time-Domain Neural Networks**, Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
+44. Hannah Kirk, Bertie Vidgen et al. (2022) [**Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate**](https://aclanthology.org/2022.naacl-main.97/) In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1352–1368, Seattle, United States. Association for Computational Linguistics.
+45. S. Sarkar, E. Benetos, M.Sandler (2021) **Vocal Harmony Separation Using Time-Domain Neural Networks**, Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
 <br><br>
-44. D.Stoidis, A. Cavallaro (2021) [**Protecting Gender and Identity with Disentangled Speech Representations**](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
+46. D.Stoidis, A. Cavallaro (2021) [**Protecting Gender and Identity with Disentangled Speech Representations**](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
 <br><br>
-45. Ali Akbari et al. (2021) **How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation**, ICML, 141-151. 
+47. Ali Akbari et al. (2021) **How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation**, ICML, 141-151. 
 <br><br>
-46. A. Fernandez, M. D. Plumbley (2021) [**Using UMAP to Inspect Audio Data for Unsupervised Anomaly Detection under Domain-Shift Conditions**](https://arxiv.org/abs/2107.10880), Proc Detection and Classification of Acoustic Scenes and Events 2021. <br><br>
-47. E. Kazakos, A. Nagrani, A. Zisserman, D. Damen (2021) **Slow-Fast Auditory Streams for Audio Recognition** IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+48. A. Fernandez, M. D. Plumbley (2021) [**Using UMAP to Inspect Audio Data for Unsupervised Anomaly Detection under Domain-Shift Conditions**](https://arxiv.org/abs/2107.10880), Proc Detection and Classification of Acoustic Scenes and Events 2021. <br><br>
+49. E. Kazakos, A. Nagrani, A. Zisserman, D. Damen (2021) **Slow-Fast Auditory Streams for Audio Recognition** IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 <br><br>
-48. E. Kazakos, J. Huh, A. Nagrani, A. Zisserman, D. Damen (2021) **With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition** British Machine Vision Conference (BMVC). 
+50. E. Kazakos, J. Huh, A. Nagrani, A. Zisserman, D. Damen (2021) **With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition** British Machine Vision Conference (BMVC). 
 <br><br>
-49. D. Damen, H. Doughty et al. (2021) **The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines** IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
+51. D. Damen, H. Doughty et al. (2021) **The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines** IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
 <br><br>
-50. G. Lucas, S. Jeub, G. Colavizza, X. Dong et al. (2021) **Local2global: Scaling global representation learning on graphs via local training**, In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21
+52. G. Lucas, S. Jeub, G. Colavizza, X. Dong et al. (2021) **Local2global: Scaling global representation learning on graphs via local training**, In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21
 <br><br>
-51. B. Gao and M. W. Spratling (2021) [**Robust template matching via hierarchical convolutional features from a shape biased CNN**,](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Vol. 813. Springer, Singapore.
+53. B. Gao and M. W. Spratling (2021) [**Robust template matching via hierarchical convolutional features from a shape biased CNN**,](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Vol. 813. Springer, Singapore.
 <br><br>
