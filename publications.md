@@ -8,7 +8,6 @@ permalink: "/publications/"
 ------------
 
 1. Oliver. J. Melling et al. (2023) [Enhanced Grand Canonical Sampling of Occluded Water Sites Using Nonequilibrium Candidate Monte Carlo](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00823), Chemical Theory and Computational, 19,3.
-<br>
 2. P. Newman and D. D. Martini, B. Ramtoula et al. (2023), Visual DNA: Representing and Comparing Images using Distributions of Neuron Activations, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
 <br>
 3. L. Li, M. W. Spratling (2023) Understanding and combating robust overfitting via input loss landscape analysis and regularization, Pattern Recognition 
@@ -31,7 +30,7 @@ permalink: "/publications/"
 12. A. Proudman, M. Ramezani, S.T. Digumarti, N. Chebrolu & M. Fallon. (2022) 'Towards real-time forest inventory using handheld LiDAR', Robotics and Autonomous Systems, 157.
 <br>
 13. Y. Wang, M. Ramezani, M. Mattamala, S.T.'Digumarti & M. Fallon (2022), Strategies for large scale elastic and semantic LiDAR reconstruction', Robotics and Autonomous Systems, 155. <br>
-14. S. Gangapurwala, M. Geisert, R. Orsolino et al. (2022), RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control, IEEE Transactions on Robotics, IEEE.  
+14. S. Gangapurwala, M. Geisert, R. Orsolino et al. (2022), RLOC: terrain-aware legged locomotion using reinforcement learning and optimal control, IEEE Transactions on Robotics, IEEE. <br>
 15. P. Newman and D. D. Martini, I. Posner et al.(2022), [Leveraging Translational Invariance of the Fourier Transform for Efficient and Accurate Radar Odometry](https://arxiv.org/pdf/2203.00459.pdf), International Conference on Robotics and Automation (ICRA), IEEE, 2186-2192 
 <br>
 16. C. M. Orr et al. (2022) [Hinge disulfides in human IgG2 CD40 antibodies modulate receptor signaling by regulation of conformation and flexibility](https://www.science.org/doi/10.1126/sciimmunol.abm3723) Science Immunology, 7,73.
