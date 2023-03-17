@@ -8,8 +8,9 @@ permalink: "/publications/"
 ------------
 
 1. Oliver. J. Melling et al. (2023) [Enhanced Grand Canonical Sampling of Occluded Water Sites Using Nonequilibrium Candidate Monte Carlo](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00823), Chemical Theory and Computational, 19,3.
+<br><br>
 2. P. Newman and D. D. Martini, B. Ramtoula et al. (2023), Visual DNA: Representing and Comparing Images using Distributions of Neuron Activations, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
-<br>
+<br><br>
 3. L. Li, M. W. Spratling (2023) Understanding and combating robust overfitting via input loss landscape analysis and regularization, Pattern Recognition 
 <br>
 4. L. Li, M. W. Spratling (2023) Data Augmentation Alone Can Improve Adversarial Training, International Conference on Learning Representations (ICLR)
