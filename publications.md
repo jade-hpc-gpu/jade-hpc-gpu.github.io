@@ -38,7 +38,7 @@ permalink: "/publications/"
 <br><br>
 17. Miroslav Suruzhon et al. (2022) [**Enhancing Ligand and Protein Sampling Using Sequential Monte Carlo**](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01198), Theory and Computational, 18,6. 
 <br><br>
-18. J. Scheen, M. Mackey, J. Michel (2022) **Data-driven generation of perturbation networks for relative binding free energy calculations**, Digital Discover, 1, 870-885. 
+18. J. Scheen, M. Mackey, J. Michel (2022) **Data-driven generation of perturbation networks for relative binding free energy calculations**, Digital Discovery, 1, 870-885. 
 <br><br>
 19. M. Mackey (2022) [**Data-driven Generation of Perturbation Networks for Relative Binding Free Energy Calculations**](https://www.cresset-group.com/about/news/data-driven-fep/)
 <br><br>
@@ -56,7 +56,7 @@ permalink: "/publications/"
 J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced Video and Signal-Based Surveillance (AVSS). 
 <br><br>
 26. D. Damen, H. Doughty et al. (2022) **Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100**, International Journal of Computer Vision (IJCV). <br><br>
-27. Abhra Chaudhuri et al. (2022)[**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
+27. Abhra Chaudhuri et al. (2022) [**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
 <br><br>
 28. Abhra Chaudhuri et al. (2022) **Relational Proxies: Emergent Relationships as Fine-Grained Discriminators**, In the Proceedings of Neural Information Processing Systems (NeurIPS), New Orleans, USA
 <br><br>
