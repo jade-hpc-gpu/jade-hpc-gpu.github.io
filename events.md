@@ -11,17 +11,13 @@ permalink: "/events/"
 <br>
 
 ## Current Training relevant for JADE2 users
-**Sheffield University:**
 <br>
 **[Introduction to Deep Learning](https://rses-dl-course.github.io/)**
-<br>
-**Imperial College London:**
 <br>
 **[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
 <br>
 **[Imperial AI Talks - Regulatory Workshop](https://ai4health.io/reports-and-resources/)**
 <br>
-**KCL:**
 **How to run MONAI on JADE2** *Date to be confirmed*
 <br><br>
 
@@ -33,11 +29,7 @@ permalink: "/events/"
 <br>
 **[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
 <br>
-**Imperial College London:**
-<br>
 **[Digital Health Industry Day](https://ai4health.io/reports-and-resources/)** 
-<br>
-**Surrey University:**
 <br>
 **[Designing AI for Home Wellbeing: World Café and Seminar Day](https://www.ias.surrey.ac.uk/event/designing-ai-for-home-wellbeing-world-cafe/)** 
 <br>
@@ -47,8 +39,6 @@ permalink: "/events/"
 <br>
 
 ## Past JADE2 Related Training Courses 
-**Bristol University:**
-<br>
 **Applied Data Analysis in Python** - 15th November 2022
 <br>
 **Introducing Git Version Control** - 12th November 2022
@@ -62,8 +52,6 @@ permalink: "/events/"
 **Introduction to Data Analysis in Python** - 22nd October 2022
 <br>
 **Introduction to Data Analysis in Python** - 18th October 2022
-<br><br>
-**Surrey University:**
 <br> 
 **Health and Wellbeing 2** - 14th September 2022
 <br>
@@ -78,8 +66,6 @@ permalink: "/events/"
 **Education, Media and Entertainment** - 9th March 2022
 <br>
 **Trustworthy AI** - 2nd March 2022 
-<br><br>
-**Lancaster University:**
 <br>
 **Introduction to Linux and the command line**
 <br>
