@@ -53,7 +53,6 @@ permalink: "/publications/"
 24. A. Darkhalil, D. Shan, et al. (2022) **EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations**, Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
 <br><br>
 25. W. Price, C. Vondrick, D. Damen (2022) **UnweaveNet: Unweaving Activity Stories**, IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
-J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced Video and Signal-Based Surveillance (AVSS). 
 <br><br>
 26. D. Damen, H. Doughty et al. (2022) **Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100**, International Journal of Computer Vision (IJCV). <br><br>
 27. Abhra Chaudhuri et al. (2022) [**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
@@ -87,46 +86,47 @@ J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced 
 41. J. Huo, H. Cai, & Q. Meng (2022) **Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition**. IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611). <br><br>
 42. J. Huang, E. Benetos and S. Ewert (2022) [**Improving Lyrics Alignment Through Joint Pitch Detection**](https://ieeexplore.ieee.org/abstract/document/9746460#citations) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 451-455 
 <br><br>
-43. Frazer, J., Notin, P., Dias, M. et al. (2021) [**Disease variant prediction with deep generative models of evolutionary data**](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
+43. J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced Video and Signal-Based Surveillance (AVSS). 
+44. Frazer, J., Notin, P., Dias, M. et al. (2021) [**Disease variant prediction with deep generative models of evolutionary data**](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
 <br><br>
-44. H. Kirk, B. Vidgen et al. (2022) [**Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate**](https://aclanthology.org/2022.naacl-main.97/) Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1352–1368, Seattle, United States. Association for Computational Linguistics. 
+45. H. Kirk, B. Vidgen et al. (2022) [**Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate**](https://aclanthology.org/2022.naacl-main.97/) Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1352–1368, Seattle, United States. Association for Computational Linguistics. 
 <br><br>
-45. S. Sarkar, E. Benetos, M.Sandler (2021) **Vocal Harmony Separation Using Time-Domain Neural Networks**, Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
+46. S. Sarkar, E. Benetos, M.Sandler (2021) **Vocal Harmony Separation Using Time-Domain Neural Networks**, Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
 <br><br>
-46. H.T.Madabushi, E.G.Smith et al. (2022) [**SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding**](https://arxiv.org/abs/2204.10050)
+47. H.T.Madabushi, E.G.Smith et al. (2022) [**SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding**](https://arxiv.org/abs/2204.10050)
 <br><br>
-47. E.G.Smith, M. McConville et al. (2022) [**Use of Transformer-Based Models for Word-Level Transliteration of the Book of the Dean of Lismore**](https://arxiv.org/abs/2205.11370) 
+48. E.G.Smith, M. McConville et al. (2022) [**Use of Transformer-Based Models for Word-Level Transliteration of the Book of the Dean of Lismore**](https://arxiv.org/abs/2205.11370) 
 <br><br>
-48. H.T.Madabushi, E.G.Smith et al. (2022) [**Improving Tokenisation by Alternative Treatment of Spaces**](https://arxiv.org/abs/2204.04058)
+49. H.T.Madabushi, E.G.Smith et al. (2022) [**Improving Tokenisation by Alternative Treatment of Spaces**](https://arxiv.org/abs/2204.04058)
 <br><br>
-49. A. Alajrami and Nikolaos Aletras (2022) **How does the pre-training objective affect what large language models learn about linguistic properties?** Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Volume 2, pages 131–147, Dublin, Ireland. Association for Computational Linguistics 
+50. A. Alajrami and Nikolaos Aletras (2022) **How does the pre-training objective affect what large language models learn about linguistic properties?** Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Volume 2, pages 131–147, Dublin, Ireland. Association for Computational Linguistics 
 <br><br>
-50. X. Ao, S. Villegas, Danae, D. Preoţiuc-Pietro, and N. Aletras (2022) [**Combining Humor and Sarcasm for Improving Political Parody Detection**](https://arxiv.org/abs/2203.10415) Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics , NAACL. 
+51. X. Ao, S. Villegas, Danae, D. Preoţiuc-Pietro, and N. Aletras (2022) [**Combining Humor and Sarcasm for Improving Political Parody Detection**](https://arxiv.org/abs/2203.10415) Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics , NAACL. 
 <br><br>
-51. S. Villegas, Danae and N. Aletras (2021) [**Point-of-Interest Type Prediction using Text and Images”, in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, Online and Punta Cana, Dominican Republic: Association for Computational Linguistics**](https://arxiv.org/abs/2109.00602 ) pp. 7785–7797. 
+52. S. Villegas, Danae and N. Aletras (2021) [**Point-of-Interest Type Prediction using Text and Images”, in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, Online and Punta Cana, Dominican Republic: Association for Computational Linguistics**](https://arxiv.org/abs/2109.00602 ) pp. 7785–7797. 
 <br><br>
-52. S. Villegas, Danae, S. Mokaram, and N. Aletras (2021) [**Analyzing Online Political Advertisements”, in Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, Online: Association for Computational Linguistics**](https://arxiv.org/abs/2105.04047) pp. 3669–3680  
+53. S. Villegas, Danae, S. Mokaram, and N. Aletras (2021) [**Analyzing Online Political Advertisements”, in Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, Online: Association for Computational Linguistics**](https://arxiv.org/abs/2105.04047) pp. 3669–3680  
 <br><br>
-53. M. Mamalakis, A. J. Swift, B. Vorselaars et al. (2021) [**DenResCov-19: A deep transfer learning network for robust automatic classification of COVID-19, pneumonia, and tuberculosis from X-rays**](https://www.sciencedirect.com/science/article/pii/S0895611121001579?via%3Dihub) Computerized Medical Imaging and Graphics, Volume 94
+54. M. Mamalakis, A. J. Swift, B. Vorselaars et al. (2021) [**DenResCov-19: A deep transfer learning network for robust automatic classification of COVID-19, pneumonia, and tuberculosis from X-rays**](https://www.sciencedirect.com/science/article/pii/S0895611121001579?via%3Dihub) Computerized Medical Imaging and Graphics, Volume 94
 <br><br>
-54. M. Mamalakis, P. Garg, T. Nelson et al. (2021) [**MA-SOCRATIS: An automatic pipeline for robust segmentation of the left ventricle and scar**](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001312) Computerized Medical Imaging and Graphics
+55. M. Mamalakis, P. Garg, T. Nelson et al. (2021) [**MA-SOCRATIS: An automatic pipeline for robust segmentation of the left ventricle and scar**](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001312) Computerized Medical Imaging and Graphics
 Volume 93, 101982
 <br><br>
-55. S.Mensah, K. Sun & N Aletras (2021) [**An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction**](https://aclanthology.org/2021.emnlp-main.722.pdf) Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, p 9174–9179, Association for Computational Linguistics
+56. S.Mensah, K. Sun & N Aletras (2021) [**An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction**](https://aclanthology.org/2021.emnlp-main.722.pdf) Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, p 9174–9179, Association for Computational Linguistics
 <br><br>
-56. D.Stoidis, A. Cavallaro (2021) [**Protecting Gender and Identity with Disentangled Speech Representations**](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
+57. D.Stoidis, A. Cavallaro (2021) [**Protecting Gender and Identity with Disentangled Speech Representations**](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
 <br><br>
-57. Ali Akbari et al. (2021) **How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation**, ICML, 141-151. 
+58. Ali Akbari et al. (2021) **How Does Loss Function Affect Generalization Performance of Deep Learning? Application to Human Age Estimation**, ICML, 141-151. 
 <br><br>
-58. A. Fernandez, M. D. Plumbley (2021) [**Using UMAP to Inspect Audio Data for Unsupervised Anomaly Detection under Domain-Shift Conditions**](https://arxiv.org/abs/2107.10880), Proc Detection and Classification of Acoustic Scenes and Events 2021. <br><br>
-59. E. Kazakos, A. Nagrani, A. Zisserman, D. Damen (2021) **Slow-Fast Auditory Streams for Audio Recognition** IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+59. A. Fernandez, M. D. Plumbley (2021) [**Using UMAP to Inspect Audio Data for Unsupervised Anomaly Detection under Domain-Shift Conditions**](https://arxiv.org/abs/2107.10880), Proc Detection and Classification of Acoustic Scenes and Events 2021. <br><br>
+60. E. Kazakos, A. Nagrani, A. Zisserman, D. Damen (2021) **Slow-Fast Auditory Streams for Audio Recognition** IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 <br><br>
-60. E. Kazakos, J. Huh, A. Nagrani, A. Zisserman, D. Damen (2021) **With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition** British Machine Vision Conference (BMVC). 
+61. E. Kazakos, J. Huh, A. Nagrani, A. Zisserman, D. Damen (2021) **With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition** British Machine Vision Conference (BMVC). 
 <br><br>
-61. D. Damen, H. Doughty et al. (2021) **The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines** IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
+62. D. Damen, H. Doughty et al. (2021) **The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines** IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), vol. 43, no. 11, pp. 4125-4141. 
 <br><br>
-62. G. Lucas, S. Jeub, G. Colavizza, X. Dong et al. (2021) **Local2global: Scaling global representation learning on graphs via local training**, In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21
+63. G. Lucas, S. Jeub, G. Colavizza, X. Dong et al. (2021) **Local2global: Scaling global representation learning on graphs via local training**, In KDD 2021 workshop on Deep Learning on Graphs, DLG-KDD'21
 <br><br>
-63. B. Gao and M. W. Spratling (2021) [**Robust template matching via hierarchical convolutional features from a shape biased CNN**,](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Vol. 813. Springer, Singapore.
+64. B. Gao and M. W. Spratling (2021) [**Robust template matching via hierarchical convolutional features from a shape biased CNN**,](https://link.springer.com/chapter/10.1007/978-981-16-6963-7_31) Proceedings of the International Conference on Image, Vision and Intelligent Systems (ICIVIS), Lecture Notes in Electrical Engineering, Vol. 813. Springer, Singapore.
 <br><br>
-64. Sánchez Villegas, Danae, D. Preotiuc-Pietro, and N. Aletras [**Point-of-Interest Type Inference from Social Media Text**](https://aclanthology.org/2020.aacl-main.80/ ) Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Online: Association for Computational Linguistics, Dec. 2020, pp. 804–810 
+65. Sánchez Villegas, Danae, D. Preotiuc-Pietro, and N. Aletras [**Point-of-Interest Type Inference from Social Media Text**](https://aclanthology.org/2020.aacl-main.80/ ) Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Online: Association for Computational Linguistics, Dec. 2020, pp. 804–810 
