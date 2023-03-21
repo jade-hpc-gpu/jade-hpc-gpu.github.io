@@ -89,8 +89,29 @@ J Ma, D Damen. Hand-Object Interaction Reasoning. (2022) IEEE Conf. on Advanced 
 <br><br>
 43. Frazer, J., Notin, P., Dias, M. et al. (2021) [**Disease variant prediction with deep generative models of evolutionary data**](https://www.nature.com/articles/s41586-021-04043-8) Nature 599, 91–95 
 <br><br>
-44. Hannah Kirk, Bertie Vidgen et al. (2022) [**Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate**](https://aclanthology.org/2022.naacl-main.97/) In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1352–1368, Seattle, United States. Association for Computational Linguistics. <br><br>
-45. S. Sarkar, E. Benetos, M.Sandler (2021) **Vocal Harmony Separation Using Time-Domain Neural Networks**, Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
+44. H. Kirk, B. Vidgen et al. (2022) [**Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate**](https://aclanthology.org/2022.naacl-main.97/) Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1352–1368, Seattle, United States. Association for Computational Linguistics. 
+<br><br>
+46. S. Sarkar, E. Benetos, M.Sandler (2021) **Vocal Harmony Separation Using Time-Domain Neural Networks**, Proc. Interspeech 2021, 3515-3519, doi: 10.21437/Interspeech.2021-1531 
+<br><br>
+H.T.Madabushi, E.G.Smith et al. (2022) [**SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding**](https://arxiv.org/abs/2204.10050)
+<br><br>
+E.G.Smith, M. McConville et al. (2022) [**Use of Transformer-Based Models for Word-Level Transliteration of the Book of the Dean of Lismore**](https://arxiv.org/abs/2205.11370) 
+<br><br>
+H.T.Madabushi, E.G.Smith et al. (2022) [**Improving Tokenisation by Alternative Treatment of Spaces**](https://arxiv.org/abs/2204.04058)
+<br><br>
+A. Alajrami and Nikolaos Aletras (2022) **How does the pre-training objective affect what large language models learn about linguistic properties?** Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, Volume 2, pages 131–147, Dublin, Ireland. Association for Computational Linguistics 
+<br><br>
+X. Ao, S. Villegas, Danae, D. Preoţiuc-Pietro, and N. Aletras (2022) [**Combining Humor and Sarcasm for Improving Political Parody Detection**](https://arxiv.org/abs/2203.10415) Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics , NAACL. 
+<br><br>
+S. Villegas, Danae and N. Aletras (2021) [**Point-of-Interest Type Prediction using Text and Images”, in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, Online and Punta Cana, Dominican Republic: Association for Computational Linguistics**](https://arxiv.org/abs/2109.00602 ) pp. 7785–7797. 
+<br><br>
+S. Villegas, Danae, S. Mokaram, and N. Aletras (2021) [**Analyzing Online Political Advertisements”, in Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, Online: Association for Computational Linguistics**](https://arxiv.org/abs/2105.04047) pp. 3669–3680  
+M. Mamalakis, A. J. Swift, B. Vorselaars et al. (2021) [**DenResCov-19: A deep transfer learning network for robust automatic classification of COVID-19, pneumonia, and tuberculosis from X-rays**](https://www.sciencedirect.com/science/article/pii/S0895611121001579?via%3Dihub) Computerized Medical Imaging and Graphics, Volume 94
+<br><br>
+M. Mamalakis, P. Garg, T. Nelson et al. (2021) [**MA-SOCRATIS: An automatic pipeline for robust segmentation of the left ventricle and scar**](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001312) Computerized Medical Imaging and Graphics
+Volume 93, 101982
+<br><br>
+S.Mensah, K. Sun & N Aletras (2021) [**An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction**](https://aclanthology.org/2021.emnlp-main.722.pdf) Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, p 9174–9179, Association for Computational Linguistics
 <br><br>
 46. D.Stoidis, A. Cavallaro (2021) [**Protecting Gender and Identity with Disentangled Speech Representations**](https://www.isca-speech.org/archive/interspeech_2021/stoidis21_interspeech.html) Proc. Interspeech, 1699-1703
 <br><br>
