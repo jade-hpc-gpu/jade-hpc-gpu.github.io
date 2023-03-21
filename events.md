@@ -7,7 +7,6 @@ permalink: "/events/"
 <br>
 
 **[Course on Cuda Programming](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023)** 24th July - 28th July 2023 
-
 **JADE day** Please fill out our pre-event survey [here](https://oxford.onlinesurveys.ac.uk/jadeday) if you are interested in attending *(date TBC)*
 <br>
 **KCL: Hackathon on JADE** *Date to be confirmed*
