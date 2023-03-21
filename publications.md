@@ -81,7 +81,7 @@ permalink: "/publications/"
 <br><br>
 39. Y. Zhou, B. Li, J Wang, E. Rocco & Q. Meng (2022) **Discovering unknowns: Context-enhanced anomaly detection for curiosity-driven autonomous underwater exploration**, Pattern Recognition, 131, p.108860. 
 <br><br>
-40. L. Jiang, G. Schaefer, & Q. Meng (2022) **An Improved Novel View Synthesis Approach Based on Feature Fusion and Channel Attention. IEEE International Conference on Systems Man**, and Cybernetics (SMC) (pp. 2459-2464).
+40. L. Jiang, G. Schaefer, & Q. Meng (2022) **An Improved Novel View Synthesis Approach Based on Feature Fusion and Channel Attention** IEEE International Conference on Systems Man and Cybernetics (SMC) (pp. 2459-2464).
 <br><br>
 41. J. Huo, H. Cai, & Q. Meng (2022) **Graph Instinctive Attention Convolutional Network for Skeleton-Based Action Recognition**. IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 1606-1611). <br><br>
 42. J. Huang, E. Benetos and S. Ewert (2022) [**Improving Lyrics Alignment Through Joint Pitch Detection**](https://ieeexplore.ieee.org/abstract/document/9746460#citations) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 451-455 
