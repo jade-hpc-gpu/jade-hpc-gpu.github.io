@@ -52,8 +52,7 @@ permalink: "/publications/"
 <br><br>
 24. A. Darkhalil, D. Shan, et al. (2022) **EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations**, Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
 <br><br>
-25. W. Price, C. Vondrick, D. Damen (2022) **UnweaveNet: Unweaving Activity Stories**, IEEE/CVF Computer Vision and Pattern Recognition (CVPR).  
-<br><br>
+25. W. Price, C. Vondrick, D. Damen (2022) **UnweaveNet: Unweaving Activity Stories**, IEEE/CVF Computer Vision and Pattern Recognition (CVPR). <br><br>
 26. D. Damen, H. Doughty et al. (2022) **Rescaling Egocentric Vision: Collection Pipeline and Challenges for EPIC-KITCHENS-100**, International Journal of Computer Vision (IJCV). <br><br>
 27. Abhra Chaudhuri et al. (2022) [**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**](https://arxiv.org/abs/2210.10486), In the Proceedings of British Machine Vision Conference (BMVC), London, UK. 
 <br><br>
