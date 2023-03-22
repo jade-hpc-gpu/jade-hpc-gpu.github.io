@@ -102,9 +102,9 @@ permalink: "/publications/"
 <br><br>
 51. X. Ao, S. Villegas, Danae, D. Preoţiuc-Pietro, and N. Aletras (2022) [**Combining Humor and Sarcasm for Improving Political Parody Detection**](https://arxiv.org/abs/2203.10415) Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics , NAACL. 
 <br><br>
-52. S. Villegas, Danae and N. Aletras (2021) [**Point-of-Interest Type Prediction using Text and Images”, in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, Online and Punta Cana, Dominican Republic: Association for Computational Linguistics**](https://arxiv.org/abs/2109.00602 ) pp. 7785–7797. 
+52. S. Villegas, Danae and N. Aletras (2021) [**Point-of-Interest Type Prediction using Text and Images**, in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, Online and Punta Cana, Dominican Republic: Association for Computational Linguistics](https://arxiv.org/abs/2109.00602 ) pp. 7785–7797. 
 <br><br>
-53. S. Villegas, Danae, S. Mokaram, and N. Aletras (2021) [**Analyzing Online Political Advertisements”, in Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, Online: Association for Computational Linguistics**](https://arxiv.org/abs/2105.04047) pp. 3669–3680  
+53. S. Villegas, Danae, S. Mokaram, and N. Aletras (2021) [**Analyzing Online Political Advertisements**], Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, Online: Association for Computational Linguistics](https://arxiv.org/abs/2105.04047) pp. 3669–3680  
 <br><br>
 54. M. Mamalakis, A. J. Swift, B. Vorselaars et al. (2021) [**DenResCov-19: A deep transfer learning network for robust automatic classification of COVID-19, pneumonia, and tuberculosis from X-rays**](https://www.sciencedirect.com/science/article/pii/S0895611121001579?via%3Dihub) Computerized Medical Imaging and Graphics, Volume 94
 <br><br>
