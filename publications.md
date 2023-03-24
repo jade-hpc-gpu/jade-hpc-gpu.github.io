@@ -130,58 +130,7 @@ Volume 93, 101982
 <br><br>
 65. Sánchez Villegas, Danae, D. Preotiuc-Pietro, and N. Aletras [**Point-of-Interest Type Inference from Social Media Text**](https://aclanthology.org/2020.aacl-main.80/ ) Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Online: Association for Computational Linguistics, Dec. 2020, pp. 804–810 
 
-<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
-<style>
-table.GeneratedTable {
-  width: 100%;
-  background-color: #ffffff;
-  border-collapse: collapse;
-  border-width: 2px;
-  border-color: #000000;
-  border-style: solid;
-  color: #000000;
-}
 
-table.GeneratedTable td, table.GeneratedTable th {
-  border-width: 2px;
-  border-color: #000000;
-  border-style: solid;
-  padding: 3px;
-}
-
-table.GeneratedTable thead {
-  background-color: #597d35;
-}
-</style>
-
-<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
-<table class="GeneratedTable">
-  <thead>
-    <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
-      <th>Header3 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cell 1</td>
-      <td>Cell 2</td>
-      <td>Cell 3</td>
-    </tr>
-    <tr>
-      <td>Cell 4</td>
-      <td>Cell 5</td>
-      <td>Cell 6</td>
-    </tr>
-    <tr>
-      <td>Cell 7</td>
-      <td>Cell 8</td>
-      <td>Cell 9</td>
-    </tr>
-  </tbody>
-</table>
-<!-- Codes by Quackit.com -->
 
 
 
