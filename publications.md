@@ -137,7 +137,7 @@ table.GeneratedTable {
   background-color: #ffffff;
   border-collapse: collapse;
   border-width: 2px;
-  border-color: #597d35;
+  border-color: #000000;
   border-style: solid;
   color: #000000;
 }
