@@ -158,26 +158,26 @@ table.GeneratedTable thead {
 <table class="GeneratedTable">
   <thead>
     <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
+      <th>Header 1</th>
+      <th>Header 2</th>
+      <th>Header3 </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>Cell 1</td>
+      <td>Cell 2</td>
+      <td>Cell 3</td>
     </tr>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>Cell 4</td>
+      <td>Cell 5</td>
+      <td>Cell 6</td>
     </tr>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>Cell 7</td>
+      <td>Cell 8</td>
+      <td>Cell 9</td>
     </tr>
   </tbody>
 </table>
