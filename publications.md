@@ -144,7 +144,7 @@ table.GeneratedTable {
 
 table.GeneratedTable td, table.GeneratedTable th {
   border-width: 2px;
-  border-color: #597d35;
+  border-color: #000000;
   border-style: solid;
   padding: 3px;
 }
