@@ -161,7 +161,7 @@ table.GeneratedTable thead {
 
       <td>TBC</td>
       
-      <td>Pre-Event Survey</td>
+      <td><a href="https://oxford.onlinesurveys.ac.uk/jadeday">Pre-Event Survey</a></td>
 
     </tr>
 
@@ -181,7 +181,9 @@ table.GeneratedTable thead {
 
 </table>
 
+<br><br>
 
+## Current Training relevant for JADE2 users 
 
 
 <style>
@@ -252,11 +254,13 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>Cell 1</td>
+      <td><a href="https://rses-dl-course.github.io/">Introduction to Deep Learning</a></td>
 
-      <td>Cell 2</td>
+      <td>Online</td>
 
-      <td>Cell 3</td>
+      <td>Closed</td>
+      
+      <td>Closed</td>
 
     </tr>
 
@@ -267,6 +271,8 @@ table.GeneratedTable thead {
       <td>Cell 5</td>
 
       <td>Cell 6</td>
+      
+      <td>Cell 3</td>
 
     </tr>
 
@@ -277,6 +283,8 @@ table.GeneratedTable thead {
       <td>Cell 8</td>
 
       <td>Cell 9</td>
+      
+      <td>Cell 3</td>
 
     </tr>
 
