@@ -5,50 +5,6 @@ permalink: "/events/"
 ---
 
 
-
-**[ARCHER2 Training Course Information](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/)**
-<br>
-**[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
-
-
-## Past JADE2 Related Training Courses 
-**Applied Data Analysis in Python** - 15th November 2022
-<br>
-**Introducing Git Version Control** - 12th November 2022
-<br>
-**Introducing Git Version Control** - 8th November 2022
-<br>
-**Best practices in Software Engineering** - 5th November 2022
-<br>
-**Best practices in Software Engineering** - 1st November 2022
-<br>
-**Introduction to Data Analysis in Python** - 22nd October 2022
-<br>
-**Introduction to Data Analysis in Python** - 18th October 2022
-<br> 
-**Health and Wellbeing 2** - 14th September 2022
-<br>
-**Sustainable AI** - 25th May 2022 
-<br>
-**AI for Society** - 18th May 2022
-<br>
-**Human AI Interaction** - 4th May 2022
-<br>
-**Health and Wellbeing** - 4th April 2022
-<br>
-**Education, Media and Entertainment** - 9th March 2022
-<br>
-**Trustworthy AI** - 2nd March 2022 
-<br>
-**Introduction to Linux and the command line**
-<br>
-**Version control with Git**
-<br>
-**Data Analysis and programming in Python**
-<br>
-**Sharing and collaboration with Git and GitHub**
-<br><br>
-
 ## Upcoming JADE2 Events
 
 <style>
@@ -227,6 +183,18 @@ table.GeneratedTable thead {
   </thead>
 
   <tbody>
+
+    <tr>
+      
+       <td><a href="https://www.archer2.ac.uk/training/courses/">Archer 2</a></td>
+
+      <td>Various</td>
+
+      <td>Various / Self Service</td>
+      
+      <td><a href="https://www.archer2.ac.uk/training/#upcoming-training">Register</a></td>
+
+    </tr>
 
     <tr>
 
@@ -415,10 +383,263 @@ table.GeneratedTable thead {
 
 </table>
 
+<br><br>
+
+## Past JADE2 Related Training Courses 
+
+<style>
+
+table.GeneratedTable {
+
+  width: 100%;
+
+  background-color: #ffffff;
+
+  border-collapse: collapse;
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  color: #000000;
+
+}
+
+ 
+
+table.GeneratedTable td, table.GeneratedTable th {
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  padding: 3px;
+
+}
+
+ 
+
+table.GeneratedTable thead {
+
+  background-color: #597d35;
+
+}
+
+</style>
+
+ 
+
+<table class="GeneratedTable">
+
+  <thead>
+
+    <tr>
+
+      <th>Course</th>
+
+      <th>Venue</th>
+
+      <th>Dates</th>
+      
+      <th>Registration</th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+
+      <td><a href="https://www.archer2.ac.uk/training/courses/221213-modern-fortran/">Archer 2: Introduction to Modern Fortran</a></td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+
+    </tr>
+
+    <tr>
+      
+      <td>Applied Data Analysis in Python</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Introducing Git Version Control</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Best Practices in Software Engineering</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>Introduction to Data Analysis in Python</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>Health and Wellbeing 2</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>Sustainable AI</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+      
+         
+    </tr>
+
+    <tr>
+
+      <td>AI for Society</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+         
+    </tr>
+
+    <tr>
+
+      <td>Human AI Interaction</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+      
+         
+    </tr>
+
+    <tr>
+
+      <td>Education, Media and Entertainment</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+         
+    </tr>
+
+    <tr>
+
+      <td>Trustworthy AI</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+         
+    </tr>
+
+    <tr>
+
+      <td>Introduction to Linux and the command line</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+         
+    </tr>
+
+    <tr>
+
+      <td>Version control with Git</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+         
+    </tr>
+
+    <tr>
+
+      <td>Data analysis and programming in Python</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+         
+    </tr>
+
+    <tr>
+
+      <td>Sharing and collaboration with Git and GitHub</td>
+
+      <td>Closed</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
 <br><br><br>
-
-
-
 
 
 
