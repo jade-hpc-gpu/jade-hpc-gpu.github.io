@@ -433,9 +433,9 @@ table.GeneratedTable thead {
 
       <td><a href="https://www.archer2.ac.uk/training/courses/221213-modern-fortran/">Archer 2: Introduction to Modern Fortran</a></td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
 
@@ -445,9 +445,9 @@ table.GeneratedTable thead {
 
       <td><a href="https://rses-dl-course.github.io/">Introduction to Deep Learning</a></td>
 
-      <td>Online</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
     
@@ -469,9 +469,9 @@ table.GeneratedTable thead {
       
       <td>Applied Data Analysis in Python</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
 
@@ -481,9 +481,9 @@ table.GeneratedTable thead {
 
       <td>Introducing Git Version Control</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
 
@@ -493,9 +493,9 @@ table.GeneratedTable thead {
 
       <td>Best Practices in Software Engineering</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
       
@@ -505,9 +505,9 @@ table.GeneratedTable thead {
 
       <td>Introduction to Data Analysis in Python</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
       
@@ -517,9 +517,9 @@ table.GeneratedTable thead {
 
       <td>Health and Wellbeing 2</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
       
@@ -529,9 +529,9 @@ table.GeneratedTable thead {
 
       <td>Sustainable AI</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
       
@@ -542,9 +542,9 @@ table.GeneratedTable thead {
 
       <td>AI for Society</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
          
@@ -554,9 +554,9 @@ table.GeneratedTable thead {
 
       <td>Human AI Interaction</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
       
@@ -567,9 +567,9 @@ table.GeneratedTable thead {
 
       <td>Education, Media and Entertainment</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
          
@@ -579,9 +579,9 @@ table.GeneratedTable thead {
 
       <td>Trustworthy AI</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
          
@@ -591,9 +591,9 @@ table.GeneratedTable thead {
 
       <td>Introduction to Linux and the command line</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
          
@@ -603,9 +603,9 @@ table.GeneratedTable thead {
 
       <td>Version control with Git</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
          
@@ -615,9 +615,9 @@ table.GeneratedTable thead {
 
       <td>Data analysis and programming in Python</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
          
@@ -627,9 +627,9 @@ table.GeneratedTable thead {
 
       <td>Sharing and collaboration with Git and GitHub</td>
 
-      <td>Closed</td>
+      <td>-</td>
 
-      <td>Closed</td>
+      <td>-</td>
       
       <td>Closed</td>
 
