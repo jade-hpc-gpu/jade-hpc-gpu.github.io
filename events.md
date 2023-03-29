@@ -266,25 +266,27 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>Cell 4</td>
+      <td>eLearning AI and Machine Learning for Healthcare</td>
 
-      <td>Cell 5</td>
+      <td>Online</td>
 
-      <td>Cell 6</td>
+      <td>Ongoing</td>
       
-      <td>Cell 3</td>
+      <td><a href="https://learn.nihr.ac.uk/course/view.php?id=975">Register</a></td>
 
     </tr>
 
     <tr>
-
-      <td>Cell 7</td>
-
-      <td>Cell 8</td>
-
-      <td>Cell 9</td>
       
-      <td>Cell 3</td>
+      **[Imperial AI Talks - Regulatory Workshop](https://ai4health.io/reports-and-resources/)**
+
+      <td><a href="https://ai4health.io/reports-and-resources/">AI Talks - Regulatory Workshop</a></td>
+
+      <td>Imperial University</td>
+
+      <td>15/09/2022</td>
+      
+      <td>Closed</td>
 
     </tr>
 
