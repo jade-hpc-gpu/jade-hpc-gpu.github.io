@@ -143,7 +143,7 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td><a>[Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)<a></td>
+      <td>[Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)</td>
 
       <td>Oxford University</td>
 
@@ -173,7 +173,7 @@ table.GeneratedTable thead {
 
       <td>TBC</td>
       
-      <td>TBC</td>
+      <td><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></td>
 
     </tr>
 
@@ -181,6 +181,7 @@ table.GeneratedTable thead {
 
 </table>
 
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 
 
