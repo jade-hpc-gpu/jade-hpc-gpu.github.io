@@ -333,7 +333,7 @@ table.GeneratedTable thead {
 
     <tr>
 
-     <td><a href="https://ai4s.surrey.ac.uk/2021/wellbeing_events">Technologies for Home Wellbeing</a></td>
+     <td><a href="https://ai4s.surrey.ac.uk/2021/wellbeing_events">Technologies for Home Wellbeing Event</a></td>
       
        <td><a href="https://www.surrey.ac.uk/visit-university/how-get-here">Surrey University, 5G/6G Innovation Centre</a></td>
 
@@ -345,7 +345,7 @@ table.GeneratedTable thead {
 
     <tr>
 
-     <td><a href="https://www.ias.surrey.ac.uk/event/ai-for-diabetes/#:~:text=Bringing%20together%20experts%20in%20AI,life%20for%20people%20with%20diabetes">Diabetes and AI</a></td>
+     <td><a href="https://www.ias.surrey.ac.uk/event/ai-for-diabetes/#:~:text=Bringing%20together%20experts%20in%20AI,life%20for%20people%20with%20diabetes">Diabetes and AI Workshop</a></td>
       
        <td><a href="https://www.surrey.ac.uk/visit-university/how-get-here">Surrey University</a></td>
 
