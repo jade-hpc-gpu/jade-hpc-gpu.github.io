@@ -77,7 +77,7 @@ table.GeneratedTable thead {
 
       <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming</a></td>
 
-      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Oxford University, Mathematical Institute</a></td>
+      <td><a href="https://www.maths.ox.ac.uk/about-us/travel-maps">Oxford University, Mathematical Institute</a></td>
 
       <td>24/07/2023 - 28/07/2023</td>
       
