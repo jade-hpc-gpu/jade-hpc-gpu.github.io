@@ -147,7 +147,7 @@ table.GeneratedTable thead {
 
       <td>Oxford University</td>
 
-      <td>24th July - 28th July 2023</td>
+      <td>24/07/2023 - 28/07/2023</td>
       
       <td>[Register](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023)</td>
 
