@@ -127,11 +127,13 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <th>Header 1</th>
+      <th>Course</th>
 
-      <th>Header 2</th>
+      <th>Venue</th>
 
-      <th>Header3 </th>
+      <th>Dates</th>
+      
+      <th>Registration</th>
 
     </tr>
 
@@ -141,11 +143,13 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>Cell 1</td>
+      <td>[Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)</td>
 
-      <td>Cell 2</td>
+      <td>Oxford University</td>
 
-      <td>Cell 3</td>
+      <td>24th July - 28th July 2023</td>
+      
+      <td>[Register](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023)</td>
 
     </tr>
 
@@ -156,6 +160,8 @@ table.GeneratedTable thead {
       <td>Cell 5</td>
 
       <td>Cell 6</td>
+      
+      <td>Cell 3</td>
 
     </tr>
 
@@ -166,6 +172,8 @@ table.GeneratedTable thead {
       <td>Cell 8</td>
 
       <td>Cell 9</td>
+      
+      <td>Cell 3</td>
 
     </tr>
 
