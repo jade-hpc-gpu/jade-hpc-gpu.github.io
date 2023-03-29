@@ -155,25 +155,25 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>Cell 4</td>
+      <td>Jade Day</td>
 
-      <td>Cell 5</td>
+      <td>Oxford University</td>
 
-      <td>Cell 6</td>
+      <td>TBC</td>
       
-      <td>Cell 3</td>
+      <td>Pre-Event Survey</td>
 
     </tr>
 
     <tr>
 
-      <td>Cell 7</td>
+      <td>Hackathon on JADE</td>
 
-      <td>Cell 8</td>
+      <td>Kings College London</td>
 
-      <td>Cell 9</td>
+      <td>TBC</td>
       
-      <td>Cell 3</td>
+      <td>TBC</td>
 
     </tr>
 
