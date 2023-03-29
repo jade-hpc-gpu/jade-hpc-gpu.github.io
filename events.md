@@ -75,6 +75,104 @@ permalink: "/events/"
 **Sharing and collaboration with Git and GitHub**
 <br><br>
 
+<style>
+
+table.GeneratedTable {
+
+  width: 100%;
+
+  background-color: #ffffff;
+
+  border-collapse: collapse;
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  color: #000000;
+
+}
+
+ 
+
+table.GeneratedTable td, table.GeneratedTable th {
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  padding: 3px;
+
+}
+
+ 
+
+table.GeneratedTable thead {
+
+  background-color: #597d35;
+
+}
+
+</style>
+
+ 
+
+<table class="GeneratedTable">
+
+  <thead>
+
+    <tr>
+
+      <th>Header 1</th>
+
+      <th>Header 2</th>
+
+      <th>Header3 </th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+
+      <td>Cell 1</td>
+
+      <td>Cell 2</td>
+
+      <td>Cell 3</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Cell 4</td>
+
+      <td>Cell 5</td>
+
+      <td>Cell 6</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Cell 7</td>
+
+      <td>Cell 8</td>
+
+      <td>Cell 9</td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
 
 
 
