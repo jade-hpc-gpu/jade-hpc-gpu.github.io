@@ -39,9 +39,9 @@ Currently, the local points of contact are:
 
 **University of Bristol:** Dr Dima Damen, Dr Daniel Whettam
 
-**University of Exeter:** Omar Jamil
+**University of Exeter:** Dr Omar Jamil
 
-**Imperial College London:** Ahmed Fetit, Dr Dugan Witherick
+**Imperial College London:** Dr Ahmed Fetit, Dr Dugan Witherick
  
 **Kings College London:** Eric Kerfoot
 
