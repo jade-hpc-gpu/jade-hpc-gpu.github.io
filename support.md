@@ -5,17 +5,16 @@ permalink: "/support/"
 ---
 
 ## Current Status
-**The JADE service is currently down for maintentance at the moment and will be running again on the 27th of March 2023. Thank you for your patience.**
+**The JADE service is currently down for maintentance at the moment and will be running again w/c 27th March 2023. Thank you for your patience.**
 
 ## JADE System Status ## 
 
 The current status of the JADE system is displayed on the [Hartree Centre Status page](https://stfc.service-now.com/hcssp?id=services_status).
 
 
-
 ## JADE Documentation ## 
 
-JADE Quick Start Guide is available [here](http://www.jade.ac.uk/img/jade2_quick_start_guide.pdf)
+JADE Quick Start Guide is available [here](http://www.jade.ac.uk/img/jade2_quick_start_guide.pdf) with thanks to Djordje Baljozovic from Bath University. 
 
 Documentation on common tasks and how to use JADE is available [here](http://jade-hpc.readthedocs.io/).
 
