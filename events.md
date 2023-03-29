@@ -143,14 +143,14 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>[Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)</td>
+      <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming</a></td>
 
       <td>Oxford University</td>
 
       <td>24/07/2023 - 28/07/2023</td>
       
-      <td>[Register](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023)</td>
-
+      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Register</a></td>
+      
     </tr>
 
     <tr>
@@ -173,7 +173,7 @@ table.GeneratedTable thead {
 
       <td>TBC</td>
       
-      <td><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></td>
+      <td>TBC</td>
 
     </tr>
 
@@ -181,7 +181,108 @@ table.GeneratedTable thead {
 
 </table>
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
+
+
+<style>
+
+table.GeneratedTable {
+
+  width: 100%;
+
+  background-color: #ffffff;
+
+  border-collapse: collapse;
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  color: #000000;
+
+}
+
+ 
+
+table.GeneratedTable td, table.GeneratedTable th {
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  padding: 3px;
+
+}
+
+ 
+
+table.GeneratedTable thead {
+
+  background-color: #597d35;
+
+}
+
+</style>
+
+ 
+
+<table class="GeneratedTable">
+
+  <thead>
+
+    <tr>
+
+      <th>Course</th>
+
+      <th>Venue</th>
+
+      <th>Dates</th>
+      
+      <th>Registration</th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+
+      <td>Cell 1</td>
+
+      <td>Cell 2</td>
+
+      <td>Cell 3</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Cell 4</td>
+
+      <td>Cell 5</td>
+
+      <td>Cell 6</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Cell 7</td>
+
+      <td>Cell 8</td>
+
+      <td>Cell 9</td>
+
+    </tr>
+
+  </tbody>
+
+</table>
 
 
 
