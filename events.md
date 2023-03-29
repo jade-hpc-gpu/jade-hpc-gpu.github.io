@@ -198,18 +198,6 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td><a href="https://rses-dl-course.github.io/">Introduction to Deep Learning</a></td>
-
-      <td>Online</td>
-
-      <td>Closed</td>
-      
-      <td>Closed</td>
-
-    </tr>
-
-    <tr>
-
       <td>eLearning AI and Machine Learning for Healthcare</td>
 
       <td>Online</td>
@@ -219,18 +207,6 @@ table.GeneratedTable thead {
       <td><a href="https://learn.nihr.ac.uk/course/view.php?id=975">Register</a></td>
 
     </tr>
-
-    <tr>
-
-      <td><a href="https://ai4health.io/reports-and-resources/">AI Talks - Regulatory Workshop</a></td>
-
-      <td>Imperial College London</td>
-
-      <td>15/09/2022</td>
-      
-      <td>Closed</td>
-      
-       </tr>
 
     <tr>
 
@@ -385,7 +361,7 @@ table.GeneratedTable thead {
 
 <br><br>
 
-## Past JADE2 Related Training Courses 
+## Past JADE2 Related Training 
 
 <style>
 
@@ -463,6 +439,30 @@ table.GeneratedTable thead {
       
       <td>Closed</td>
 
+    </tr>
+
+    <tr>
+
+      <td><a href="https://rses-dl-course.github.io/">Introduction to Deep Learning</a></td>
+
+      <td>Online</td>
+
+      <td>Closed</td>
+      
+      <td>Closed</td>
+    
+    </tr>
+
+    <tr>    
+      
+       <td><a href="https://ai4health.io/reports-and-resources/">AI Talks - Regulatory Workshop</a></td>
+
+      <td>-</td>
+
+      <td>-</td>
+      
+      <td>Closed</td>
+      
     </tr>
 
     <tr>
