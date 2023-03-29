@@ -143,7 +143,7 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>[Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)</td>
+      <td><a>[Cuda Programming](https://people.maths.ox.ac.uk/~gilesm/cuda/index.html)<a></td>
 
       <td>Oxford University</td>
 
