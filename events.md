@@ -3,39 +3,13 @@ title: JADE Training and Events
 layout: page
 permalink: "/events/"
 ---
-## Upcoming JADE2 Events
-**[Course on Cuda Programming](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023)** 24th July - 28th July 2023 <br>
-**JADE day** Please fill out our pre-event survey [here](https://oxford.onlinesurveys.ac.uk/jadeday) if you are interested in attending *(date TBC)*
-<br>
-**KCL: Hackathon on JADE** *Date to be confirmed*
-<br>
-
-## Current Training relevant for JADE2 users
-**[Introduction to Deep Learning](https://rses-dl-course.github.io/)**
-<br>
-**[Online eLearning Course on AI and Machine Learning for Healthcare](https://learn.nihr.ac.uk/course/view.php?id=975)** 
-<br>
-**[Imperial AI Talks - Regulatory Workshop](https://ai4health.io/reports-and-resources/)**
-<br>
-**How to run MONAI on JADE2** *Date to be confirmed*
-<br><br>
 
 
-## Past JADE2 Related Events
-**[Computing Insight UK 2022](https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx)** 
-<br>
+
 **[ARCHER2 Training Course Information](https://www.archer2.ac.uk/training/courses/221213-modern-fortran/)**
 <br>
 **[ARCHER2 Training Course Registration](https://www.archer2.ac.uk/training/#upcoming-training)** 
-<br>
-**[Digital Health Industry Day](https://ai4health.io/reports-and-resources/)** 
-<br>
-**[Designing AI for Home Wellbeing: World Café and Seminar Day](https://www.ias.surrey.ac.uk/event/designing-ai-for-home-wellbeing-world-cafe/)** 
-<br>
-**[Technologies for Home Wellbeing]( https://ai4s.surrey.ac.uk/2021/wellbeing_events)**
-<br>
-**[Diabetes and AI]( https://www.ias.surrey.ac.uk/event/ai-for-diabetes/#:~:text=Bringing%20together%20experts%20in%20AI,life%20for%20people%20with%20diabetes)**
-<br>
+
 
 ## Past JADE2 Related Training Courses 
 **Applied Data Analysis in Python** - 15th November 2022
@@ -74,6 +48,8 @@ permalink: "/events/"
 <br>
 **Sharing and collaboration with Git and GitHub**
 <br><br>
+
+## Upcoming JADE2 Events
 
 <style>
 
@@ -439,7 +415,7 @@ table.GeneratedTable thead {
 
 </table>
 
-
+<br><br><br>
 
 
 
