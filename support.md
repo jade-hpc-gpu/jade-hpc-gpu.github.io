@@ -11,7 +11,7 @@ The current status of the JADE system is displayed on the [Hartree Centre Status
 
 ## JADE Documentation ## 
 
-JADE Quick Start Guide is available [here](http://www.jade.ac.uk/img/jade2_quick_start_guide.pdf) with thanks to Dr Djordje Baljozovic from Bath University. 
+JADE Quick Start Guide is available [here](http://www.jade.ac.uk/img/jade2_quick_start_guide.pdf) with thanks to Dr. Djordje Baljozovic from Bath University. 
 
 Documentation on common tasks and how to use JADE is available [here](http://jade-hpc.readthedocs.io/).
 
