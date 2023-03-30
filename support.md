@@ -4,9 +4,6 @@ layout: page
 permalink: "/support/"
 ---
 
-## Current Status
-**The JADE service is currently down for maintentance at the moment and will be running again w/c 27th March 2023. Thank you for your patience.**
-
 ## JADE System Status ## 
 
 The current status of the JADE system is displayed on the [Hartree Centre Status page](https://stfc.service-now.com/hcssp?id=services_status).
