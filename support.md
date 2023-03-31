@@ -28,7 +28,6 @@ If you have any technical questions or issues, please contact your local Univers
 
 The partner universities provide technical support for their users through local HPC experts.  They will provide guidance to users starting to use JADE, and can also direct users to sources of specialist information if required.
 
-
 <style>
 
 table.GeneratedTable {
@@ -83,7 +82,7 @@ table.GeneratedTable thead {
 
       <th>Institution</th>
 
-      <th>Local point of contact</th>
+      <th>Current local points of contact</th>
 
     </tr>
 
