@@ -30,6 +30,231 @@ The partner universities provide technical support for their users through local
 
 Currently, the local points of contact are:
 
+<style>
+
+table.GeneratedTable {
+
+  width: 100%;
+
+  background-color: #ffffff;
+
+  border-collapse: collapse;
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  color: #000000;
+
+}
+
+ 
+
+table.GeneratedTable td, table.GeneratedTable th {
+
+  border-width: 2px;
+
+  border-color: #000000;
+
+  border-style: solid;
+
+  padding: 3px;
+
+}
+
+ 
+
+table.GeneratedTable thead {
+
+  background-color: #597d35;
+
+}
+
+</style>
+
+ 
+
+<table class="GeneratedTable">
+
+  <thead>
+
+    <tr>
+
+      <th>Institution</th>
+
+      <th>Local point of contact</th>
+
+      <th>Header3 </th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+
+      <td>The Alan Turing Institute</td>
+
+      <td>Dr Jim Madge, Dr Tomas Lazauskas</td>
+
+    </tr>
+
+    <tr>
+
+      <td>University of Bath</td>
+
+      <td>Mr Mark Townsend</td>
+
+    </tr>
+
+    <tr>
+
+      <td>University of Bristol</td>
+
+      <td>Dr Dima Damen, Dr Dan Whettam</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>University of Exeter</td>
+
+      <td>Dr Omar Jamil, Professor Tim Dodwell</td>
+       
+    </tr>
+
+    <tr>
+
+      <td>Imperial College London</td>
+
+      <td>Dr Ahmed Fetit, Professor Aldo Faisal. Dr Dugan Witherick</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Kings College London</td>
+
+     <td>Dr Eric Kerfoot, Dr Marc Modat, Professor Richard Christie</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>Lancaster University</td>
+
+      <td>Dr Robin Long, Dr Mike Pacey</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>HecBioSim</td>
+
+      <td>Professor Syma Khalid</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Newcastle University</td>
+
+      <td>Dr Jaume Bacardit</td>
+     
+    </tr>
+
+    <tr>
+
+      <td>University of Oxford</td>
+
+      <td>Advanced Research Computing Support</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>Queen Mary University of London</td>
+
+      <td>Professor Mark Sandler, Mr Tom King</td>
+
+    </tr>
+
+    <tr>
+
+      <td>Loughborough University</td>
+
+      <td>Professor Qinggang Meng</td>
+
+    </tr>
+
+    <tr>
+
+      <td>University of Sheffield</td>
+
+      <td>Mr Twin Karmakharm, Dr Paul Richmond</td>
+
+    </tr>
+
+    <tr>
+
+      <td>University of Surrey</td>
+
+      <td>servicedesk@surrey.ac.uk</td>
+      
+    </tr>
+
+    <tr>
+
+      <td>University of Sussex</td>
+
+      <td>Mr James Knight, Professor Nowotny</td>
+ 
+    </tr>
+
+    <tr>
+
+      <td>University College London</td>
+
+      <td>Dr Jonathan Cooper</td>
+
+    </tr>
+
+    <tr>
+
+      <td>University of Warwick</td>
+
+      <td>Professor Giovanni Montana</td>
+
+    </tr>
+
+    <tr>
+
+      <td>University of York</td>
+
+      <td>Dr James Walker</td>
+
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 **The Alan Turing Institute:** [Dr Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Dr Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
 
 **University of Bath:** Mr Mark Townsend
