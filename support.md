@@ -95,7 +95,7 @@ table.GeneratedTable thead {
 
       <td>The Alan Turing Institute</td>
       
-       <td><a href="https://www.turing.ac.uk/people/researchers/jim-madge">Dr Jim Madge</a> <a href="https://www.turing.ac.uk/people/researchers/tomas-lazauskas">Dr Tomas Lazauskas</a></td>
+       <td><a href="https://www.turing.ac.uk/people/researchers/jim-madge">Dr Jim Madge,</a> <a href="https://www.turing.ac.uk/people/researchers/tomas-lazauskas">Dr Tomas Lazauskas</a></td>
 
     </tr>
 
