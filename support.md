@@ -86,8 +86,6 @@ table.GeneratedTable thead {
 
       <th>Local point of contact</th>
 
-      <th>Header3 </th>
-
     </tr>
 
   </thead>
@@ -97,8 +95,8 @@ table.GeneratedTable thead {
     <tr>
 
       <td>The Alan Turing Institute</td>
-
-      <td>Dr Jim Madge, Dr Tomas Lazauskas</td>
+      
+       <td><a href="https://www.turing.ac.uk/people/researchers/jim-madge">Dr Jim Madge</a><a href="https://www.turing.ac.uk/people/researchers/tomas-lazauskas">Dr Tomas Lazauskas</a></td>
 
     </tr>
 
@@ -168,9 +166,9 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>University of Oxford</td>
+      <td>University of Oxford</td>.  
 
-      <td>Advanced Research Computing Support</td>
+      <td><a href="mailto:support@arc.ox.ac.uk">Advanced Researching Computing Support</a></td>
       
     </tr>
 
