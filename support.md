@@ -28,7 +28,6 @@ If you have any technical questions or issues, please contact your local Univers
 
 The partner universities provide technical support for their users through local HPC experts.  They will provide guidance to users starting to use JADE, and can also direct users to sources of specialist information if required.
 
-Currently, the local points of contact are:
 
 <style>
 
@@ -96,7 +95,7 @@ table.GeneratedTable thead {
 
       <td>The Alan Turing Institute</td>
       
-       <td><a href="https://www.turing.ac.uk/people/researchers/jim-madge">Dr Jim Madge</a><a href="https://www.turing.ac.uk/people/researchers/tomas-lazauskas">Dr Tomas Lazauskas</a></td>
+       <td><a href="https://www.turing.ac.uk/people/researchers/jim-madge">Dr Jim Madge</a> <a href="https://www.turing.ac.uk/people/researchers/tomas-lazauskas">Dr Tomas Lazauskas</a></td>
 
     </tr>
 
@@ -241,53 +240,6 @@ table.GeneratedTable thead {
 
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-**The Alan Turing Institute:** [Dr Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Dr Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
-
-**University of Bath:** Mr Mark Townsend
-
-**University of Bristol:** Dr Dima Damen, Dr Daniel Whettam
-
-**University of Exeter:** Dr Omar Jamil, Professor Tim Dodwell
-
-**Imperial College London:** Dr Ahmed Fetit, Professor Aldo Faisal, Dr Dugan Witherick
- 
-**Kings College London:** Dr Eric Kerfoot, Dr Marc Modat, Professor Richard Christie
-
-**Lancaster University:** Dr Robin Long, Dr Mike Pacey
-
-**HecBioSim:** Professor Syma Khalid
-
-**Newcastle University:** Dr Jaume Bacardit 
-
-**University of Oxford:** [Advanced Research Computing Support](mailto:support@arc.ox.ac.uk)
-
-**Queen Mary University of London:** Professor Mark Sandler, Mr Tom King
-
-**Loughborough University:** Professor Qinggang Meng 
-
-**University of Sheffield:** Mr Twin Karmakharm, Dr Paul Richmond
-
-**University of Surrey:** servicedesk@surrey.ac.uk
-
-**University of Sussex:** Mr James Knight, Professor Nowotny 
-
-**University College London:** Dr Jonathan Cooper
-
-**University of Warwick:** Professor Giovanni Montana
-
-**University of York:** Dr James Walker
 
 
 
