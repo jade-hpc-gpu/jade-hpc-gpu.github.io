@@ -30,39 +30,39 @@ The partner universities provide technical support for their users through local
 
 Currently, the local points of contact are:
 
-**The Alan Turing Institute:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
+**The Alan Turing Institute:** [Dr Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Dr Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas)
 
-**University of Bath:** Mark Townsend
+**University of Bath:** Mr Mark Townsend
 
 **University of Bristol:** Dr Dima Damen, Dr Daniel Whettam
 
-**University of Exeter:** Dr Omar Jamil
+**University of Exeter:** Dr Omar Jamil, Professor Tim Dodwell
 
-**Imperial College London:** Dr Ahmed Fetit, Dr Dugan Witherick
+**Imperial College London:** Dr Ahmed Fetit, Professor Aldo Faisal, Dr Dugan Witherick
  
-**Kings College London:** Eric Kerfoot
+**Kings College London:** Dr Eric Kerfoot, Dr Marc Modat, Professor Richard Christie
 
 **Lancaster University:** Dr Robin Long, Dr Mike Pacey
 
-**HecBioSim:** Syma Khalid
+**HecBioSim:** Professor Syma Khalid
 
-**Newcastle University:** Jaume Bacardit 
+**Newcastle University:** Dr Jaume Bacardit 
 
 **University of Oxford:** [Advanced Research Computing Support](mailto:support@arc.ox.ac.uk)
 
-**Queen Mary University of London:** Simon Butcher
+**Queen Mary University of London:** Professor Mark Sandler, Mr Tom King
 
-**University of Sheffield:** Twin Karmakharm, Paul Richmond
+**Loughborough University:** Professor Qinggang Meng 
 
-**University of Southampton:** Ivan Wolton
+**University of Sheffield:** Mr Twin Karmakharm, Dr Paul Richmond
 
 **University of Surrey:** servicedesk@surrey.ac.uk
 
-**University of Sussex:** James Knight
+**University of Sussex:** Mr James Knight, Professor Nowotny 
 
-**University College London:** Jonathan Cooper
+**University College London:** Dr Jonathan Cooper
 
-**University of Warwick:** Giovanni Montana
+**University of Warwick:** Professor Giovanni Montana
 
 **University of York:** Dr James Walker
 
