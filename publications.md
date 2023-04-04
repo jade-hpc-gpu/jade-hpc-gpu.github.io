@@ -7,7 +7,7 @@ permalink: "/publications/"
 
 ------------
 
-1. Sánchez Villegas, Danae, D. Preotiuc-Pietro, and N. Aletras [**Point-of-Interest Type Inference from Social Media Text**](https://aclanthology.org/2020.aacl-main.80/ ) Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Online: Association for Computational Linguistics, Dec. 2020, pp. 804–810 
+1. Sánchez Villegas, Danae, D. Preotiuc-Pietro, and N. Aletras (2020) [**Point-of-Interest Type Inference from Social Media Text**](https://aclanthology.org/2020.aacl-main.80/ ) Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Online: Association for Computational Linguistics, pp. 804–810 
 
 <br><br> 
 
