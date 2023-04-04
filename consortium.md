@@ -133,7 +133,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Professor Mark Plumbley
 
-**Institutional Support:** servicedesk@surrey.ac.uk, Dr Helen Cooper
+**Institutional Support:** servicedesk@surrey.ac.uk, Dr Jaydeep Mody
 
 **Machine Learning and Related CDTs**
 
