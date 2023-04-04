@@ -9,7 +9,7 @@ permalink: /consortium/
 
 **Principal Investigator:**  Professor Wes Armour
 
-**Co-Investigators:** Professor Mike Giles, Professor Phil Biggin
+**Co-Investigators:** Professor Mike Giles, Professor Phil Biggin, Professor Syma Khalid
 
 **Machine Learning and Related CDTs**
 - [Computer Science Machine Learning](https://www.cs.ox.ac.uk/activities/machinelearning/)
@@ -23,7 +23,8 @@ permalink: /consortium/
 
 **Molecular Dynamics Groups**
 -   [Structural Bioinformatics and Computational Biochemistry Unit](http://sbcb.bioch.ox.ac.uk/sansom.php "http://sbcb.bioch.ox.ac.uk/sansom.php")
--   [Biggin group -- Computational Biochemistry](http://sbcb.bioch.ox.ac.uk/biggin.php/ "http://sbcb.bioch.ox.ac.uk/biggin.php/")
+-   [Biggin Group -- Computational Biochemistry](http://sbcb.bioch.ox.ac.uk/biggin.php/ "http://sbcb.bioch.ox.ac.uk/biggin.php/")
+-   [Khalid Group -- Compuational Microbiology](https://khalidlab.web.ox.ac.uk/)
 <br><br>
 
 
