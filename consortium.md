@@ -99,13 +99,7 @@ permalink: /consortium/
 
 ## University of Southampton
 
-**Co-Investigators:** Professor Simon Cox
-
-**Institutional Support:** Ivan Wolton
-
-**Machine Learning and Related CDTs**
-
--   [Vision, Learning and Control Research Group](http://www.vlc.ecs.soton.ac.uk/ "http://www.vlc.ecs.soton.ac.uk/")
+**Co-Investigators:** Professor Syma Khalid 
 
 **Moleculear Dynamics Groups**
 
