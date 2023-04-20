@@ -105,7 +105,6 @@ table.GeneratedTable thead {
 
 ## Current Training relevant for JADE2 users 
 
-
 <style>
 
 table.GeneratedTable {
@@ -126,7 +125,6 @@ table.GeneratedTable {
 
 }
 
- 
 
 table.GeneratedTable td, table.GeneratedTable th {
 
@@ -149,8 +147,6 @@ table.GeneratedTable thead {
 }
 
 </style>
-
- 
 
 <table class="GeneratedTable">
 
