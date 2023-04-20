@@ -183,7 +183,7 @@ table.GeneratedTable thead {
     <tr>
       
       
-      <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html](https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
+      <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
 
       <td><a>Online</a></td>.  
 
@@ -195,7 +195,7 @@ table.GeneratedTable thead {
 
     <tr>
       
-       <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html](https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
+       <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
 
       <td><a>Online</a></td>.  
 
