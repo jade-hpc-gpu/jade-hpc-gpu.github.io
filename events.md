@@ -186,6 +186,19 @@ table.GeneratedTable thead {
 
     <tr>
       
+      
+      <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html](https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
+
+      <td><a>Online, 10:30am -12:00pm</a></td>.  
+
+      <td>28/04/2023, 24/05/2023</td>
+      
+      <td><a href="https://events.teams.microsoft.com/event/ab4d252f-16d2-4774-ad42-f43df38b3ea8@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Register</a></td>
+      
+    </tr>
+
+    <tr>
+      
        <td><a href="https://www.archer2.ac.uk/training/courses/">Archer 2</a></td>
 
       <td>Various</td>
