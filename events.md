@@ -4,11 +4,9 @@ layout: page
 permalink: "/events/"
 ---
 
-
 ## Upcoming JADE2 Events
 
 <style>
-
 table.GeneratedTable {
 
   width: 100%;
@@ -18,7 +16,6 @@ table.GeneratedTable {
   border-color: #000000;
   border-style: solid;
   color: #000000;
-
 }
 
  
@@ -27,65 +24,42 @@ table.GeneratedTable td, table.GeneratedTable th {
   border-color: #000000;
   border-style: solid;
   padding: 3px;
-
 }
 
  
 
 table.GeneratedTable thead {
-
   background-color: #597d35;
-
 }
 
 </style>
 
- 
-
 <table class="GeneratedTable">
 
   <thead>
-
     <tr>
-
       <th>Course</th>
-
       <th>Venue</th>
-
-      <th>Dates</th>
-      
+      <th>Dates</th>    
       <th>Registration</th>
-
     </tr>
-
   </thead>
 
   <tbody>
 
     <tr>
-
       <td>Jade Day</td>
-
       <td>Oxford University</td>
-
-      <td>TBC</td>
-      
+      <td>TBC</td>   
       <td><a href="https://oxford.onlinesurveys.ac.uk/jadeday">Pre-Event Survey</a></td>
-
     </tr>
 
     <tr>
-
       <td>Hackathon on JADE</td>
-
       <td>Kings College London</td>
-
+      <td>TBC</td>   
       <td>TBC</td>
-      
-      <td>TBC</td>
-
     </tr>
-
   </tbody>
 
 </table>
@@ -97,19 +71,12 @@ table.GeneratedTable thead {
 <table class="GeneratedTable">
 
   <thead>
-
     <tr>
-
       <th>Course</th>
-
       <th>Venue</th>
-
-      <th>Dates</th>
-      
+      <th>Dates</th>     
       <th>Registration</th>
-
     </tr>
-
   </thead>
 
   <tbody>
@@ -117,24 +84,16 @@ table.GeneratedTable thead {
     <tr>
       
       <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming</a></td>
-
       <td><a href="https://www.maths.ox.ac.uk/about-us/travel-maps">Oxford University, Mathematical Institute</a></td>
-
-      <td>24/07/2023 - 28/07/2023</td>
-      
-      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Register</a></td>
-      
+      <td>24/07/2023 - 28/07/2023</td>   
+      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Register</a></td>   
     </tr>
 
     <tr>
-      
-      
+       
       <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
-
-      <td><a>Online</a></td>.  
-
-      <td>28/04/2023</td>
-      
+      <td><a>Online</a></td>  
+      <td>28/04/2023</td>  
       <td><a href="https://events.teams.microsoft.com/event/ab4d252f-16d2-4774-ad42-f43df38b3ea8@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Register</a></td>
       
     </tr>
@@ -143,7 +102,7 @@ table.GeneratedTable thead {
       
        <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
 
-      <td><a>Online</a></td>.  
+      <td><a>Online</a></td>  
 
       <td>24/05/2023</td>
       
@@ -155,7 +114,7 @@ table.GeneratedTable thead {
       
        <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">Effective use of HPC Clusters</a></td>
 
-      <td><a>Online</a></td>.  
+      <td><a>Online</a></td>  
 
       <td>10/05/2023</td>
       
@@ -167,7 +126,7 @@ table.GeneratedTable thead {
       
       <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">ARC Drop In Session</a></td>
 
-      <td><a>Online</a></td>.  
+      <td><a>Online</a></td>  
 
       <td>18/05/2023</td>
       
@@ -179,7 +138,7 @@ table.GeneratedTable thead {
       
       <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">Effective use of HPC Clusters</a></td>
 
-      <td><a>Online</a></td>.  
+      <td><a>Online</a></td>  
 
       <td>07/06/2023</td>
       
