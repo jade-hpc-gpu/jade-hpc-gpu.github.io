@@ -163,7 +163,7 @@ table.GeneratedTable thead {
 
     <tr>
 
-      <td>University of Oxford</td>.  
+      <td>University of Oxford</td>  
 
       <td><a href="mailto:support@arc.ox.ac.uk">Advanced Researching Computing Support</a></td>
       
