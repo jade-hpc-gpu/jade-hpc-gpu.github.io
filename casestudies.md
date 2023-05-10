@@ -57,18 +57,7 @@ The visual focus of attention detection as an important topic under the Human-Ro
 Up till now, we have already configured the environment on Jade2 to train models. For the next step, we will train the models we build, and enlarge the annotated training dataset to achieve better performance in our study. 
 
 ## Sucess Stories
-Graduates employed by companies such as Samsung, Amazon, AI research, Oracle, Arrival and Sony AI.
-<br>
-A PhD student from Oxford University obtained a prestigious internship with DeepMind. 
-<br>
-Generated collaboration with Unilever and associated CASE studentships
-<br>
-Supported a year long radio show (called in search of good ancestors) & associated public workshops
-<br>
-Supporting BBC Prosperity partnerships
-<br>
-Supporting EPSRC AI CDT's
-<br>
+
 Dr. Gangapurwala's work within Oxford University's Robotics Institute was demonstrated on a live Chevron facility:<br>
 [Oxford quadruped robot research-tested on a live Chevron facility](https://eng.ox.ac.uk/news/oxford-quadruped-robot-research-tested-on-a-live-chevron-facility/)
 <br>
