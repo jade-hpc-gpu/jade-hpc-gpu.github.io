@@ -8,9 +8,8 @@ permalink: "/casestudies/"
 --------------------------
 
 **Dermatologically Inspired Deep Face Analytics** 
-<br>
-Introduction 
 
+Introduction <br>
 The ability to detect face ageing which is localised to specific regions of the face has shown to be useful to both the medical and research communities. In medical practice it could be used to inform the diagnosis of conditions, and subsequently the speed and accuracy of screening. However, large-scale facial screening by human experts is laborious and requires specialised expertise. Hence, there is great value in the development of automated methods for feature extraction and decision making from facial Imagery in a health and well-being context 
 <br>
 
