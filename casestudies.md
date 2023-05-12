@@ -63,19 +63,15 @@ Datasets typically available in clinical settings.
 **Increasing the training efficiency of sophisticated function of mobile robots**
 
 Introduction <br>
-
 With the development of mobile robots, increasingly sophisticated functions are required in order to satisfy diverse application requirements. This work is likely to be the first method that involves a fuzzy system in the graph neural networks' attention mechanism in order to effectively employ a spatial relational inductive bias. 
 
 Explaining the Science <br>
-
 In this project, JADE is used to conduct reinforcement learning experiments based on customized OpenAI gym environments and FAM-GNN PPO algorithms. Several parallel environments are used as inputs to decrease the physical sampling time, and observations are then fed into the systems and CUDA in order to realise GPU training. The JADE HPC system increases the training efficiency and accelerates the experiment stage. 
 
 Project aims <br>
-
 As a sub-research domain of path planning, obstacle avoidance is one of the compulsory functionalities for ensuring the safety of both robots and environment. Inspired by existing work and in order to fill the research gap in obstacle avoidance applications, the project proposes a fuzzy attention mechanism (FAM) based graph neural network (GNN) architecture in order to realise representation learning based proximal policy optimisation (PPO) reinforcement learning structure. 
 
 Applications <br>
-
 Obstacle avoidance applications to ensure the safety of both robots and the environment. 
 
 ## Sucess Stories
