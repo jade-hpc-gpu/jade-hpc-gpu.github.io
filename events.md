@@ -50,7 +50,7 @@ table.GeneratedTable thead {
     <tr>
       <td>Jade Day</td>
       <td>Oxford University</td>
-      <td>TBC</td>   
+      <td>29/09/2023</td>   
       <td><a href="https://oxford.onlinesurveys.ac.uk/jadeday">Pre-Event Survey</a></td>
     </tr>
 
