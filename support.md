@@ -147,6 +147,14 @@ table.GeneratedTable thead {
 
     <tr>
 
+      <td>Leeds University</td>
+
+      <td>Professor David Hogg</td>
+      
+    </tr>
+
+    <tr>
+
       <td>HecBioSim</td>
 
       <td>Professor Syma Khalid</td>
