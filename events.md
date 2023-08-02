@@ -51,7 +51,7 @@ table.GeneratedTable thead {
       <td>Jade Day</td>
       <td>Oxford University</td>
       <td>29/09/2023</td>   
-      <td>Registration to open soon</td>
+      <td><a href="https://cvent.me/5Dxe4D?RefId=JADE_Day">Register</a></td>  
     </tr>
 
     <tr>
