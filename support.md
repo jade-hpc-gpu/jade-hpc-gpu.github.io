@@ -6,6 +6,8 @@ permalink: "/support/"
 
 ## JADE System Status ## 
 
+The JADE service is currently down due to a power outage at the Hartree Centre. We are hoping the machine will return to service at the end of the week, 15/09/2023. 
+
 The current status of the JADE system is displayed on the [Hartree Centre Status page](https://stfc.service-now.com/hcssp?id=services_status).
 
 
