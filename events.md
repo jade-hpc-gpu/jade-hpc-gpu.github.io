@@ -50,8 +50,8 @@ table.GeneratedTable thead {
     <tr>
       <td>Jade Day</td>
       <td>Oxford University</td>
-      <td>29/09/2023</td>   
-      <td><a href="https://cvent.me/5Dxe4D?RefId=JADE_Day">Register</a></td>  
+      <td>September 2024</td>   
+      <td>TBC</td>  
     </tr>
 
     <tr>
@@ -204,6 +204,14 @@ table.GeneratedTable thead {
   </thead>
 
   <tbody>
+
+     <tr>
+      <td>Jade Day</td>
+      <td>Oxford University</td>
+      <td>29/09/2023</td>   
+      <td><a href="https://cvent.me/5Dxe4D?RefId=JADE_Day">Closed</a></td>  
+    </tr>
+    
     <tr>
       <td><a href="https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx">Computing Insight UK 2022</a></td>
       <td>Manchester Central</td>
