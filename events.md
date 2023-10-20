@@ -47,6 +47,13 @@ table.GeneratedTable thead {
 
   <tbody>
 
+  <tr>
+      <td><a[href="https://www.scd.stfc.ac.uk/Pages/ciuk2023.aspx">Computing Insight UK 2023]</a></td>
+      <td>Manchester Central</td>
+      <td>07/12/2023 - 08/12/2023</td>   
+      <td><a[href="https://www.scd.stfc.ac.uk/Pages/ciuk2023.aspx">Register]</a></td>
+    </tr>
+    
     <tr>
       <td>Jade Day</td>
       <td>Oxford University</td>
@@ -80,14 +87,6 @@ table.GeneratedTable thead {
   </thead>
 
   <tbody>
-
-    <tr>
-      
-      <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming on NVIDIA's GPU's</a></td>
-      <td><a href="https://www.maths.ox.ac.uk/about-us/travel-maps">Oxford University, Mathematical Institute</a></td>
-      <td>24/07/2023 - 28/07/2023</td>   
-      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Register</a></td>   
-    </tr>
 
     <tr>
        
@@ -206,10 +205,18 @@ table.GeneratedTable thead {
   <tbody>
 
      <tr>
-      <td>Jade Day</td>
+       <td><a href="https://cvent.me/5Dxe4D?RefId=JADE_Day">JADE Day 2023</a></td> 
       <td>Oxford University</td>
       <td>29/09/2023</td>   
-      <td><a href="https://cvent.me/5Dxe4D?RefId=JADE_Day">Closed</a></td>  
+      <td>Closed</td>  
+    </tr>
+
+     <tr>
+      
+      <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming on NVIDIA's GPU's</a></td>
+      <td><a href="https://www.maths.ox.ac.uk/about-us/travel-maps">Oxford University, Mathematical Institute</a></td>
+      <td>24/07/2023 - 28/07/2023</td>   
+      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Closed</a></td>   
     </tr>
     
     <tr>
