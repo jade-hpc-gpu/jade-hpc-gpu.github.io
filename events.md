@@ -48,10 +48,10 @@ table.GeneratedTable thead {
   <tbody>
 
    <tr>
-      <td><a href="https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx">Computing Insight UK 2023</a></td>
+      <td><a href="https://www.scd.stfc.ac.uk/Pages/ciuk2023.aspx">Computing Insight UK 2023</a></td>
       <td>Manchester Central</td>
-      <td>01/12/2022 - 02/12/2022</td>   
-      <td><a href="https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx">Register</a></td>
+      <td>07/12/2023 - 08/12/2023</td>   
+      <td><a href="https://web.cvent.com/event/136d0a52-d4f7-4ec1-821a-9c566e8dc8ee/summary">Register</a></td>
     </tr>
     
     <tr>
