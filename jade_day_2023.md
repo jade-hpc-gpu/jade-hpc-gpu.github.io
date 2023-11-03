@@ -33,6 +33,12 @@ table.GeneratedTable td, table.GeneratedTable th {
 
   <tbody>
 
+  <tr>
+      <td><img src="{{ site.baseurl }}/img/logo/oxford_logo.gif" alt="" width="20%" height="20%"/></td>
+      <td>Prof. Wes Armour (University of Oxford) </td>
+      <td>Bio</td>   
+      <td><a href="/img/wa_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
+  </tr>
    <tr>
       <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="20%" height="20%"/></td>
       <td>Adam Grzywaczewski (NVidia)</td>
