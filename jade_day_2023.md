@@ -30,7 +30,7 @@ table.GeneratedTable td, table.GeneratedTable th {
 
 <table class="GeneratedTable">
   <tr>
-      <th>style="width:20%>Institution</th>
+      <th>style="width:20%">Institution</th>
       <th>Name</th>
       <th>Bio</th>
       <th>Presentation></th>
