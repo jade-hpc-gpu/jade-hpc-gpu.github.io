@@ -16,7 +16,6 @@ table.GeneratedTable {
   color: #000000;
 }
 
- 
 table.GeneratedTable td, table.GeneratedTable th {
   border-width: 2px;
   border-color: #ffffff;
@@ -30,32 +29,32 @@ table.GeneratedTable td, table.GeneratedTable th {
 ##### Speakers and Presentation Slides
 
 <table class="GeneratedTable">
-
-  <tbody>
-
   <tr>
-      <td><img src="{{ site.baseurl }}/img/logo/oxford-logo.gif" alt="" width="10%" height="20%"/></td>
+      <td><img src="{{ site.baseurl }}/img/logo/oxford-logo.gif" alt="" width="20%" height="20%"/></td>
       <td>Prof. Wes Armour (University of Oxford) </td>
       <td>Bio</td>   
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
   </tr>
   <tr>
-      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="10%" height="20%"/></td>
+      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="20%" height="20%"/></td>
       <td>Mark Fellows (Hartree Centre)</td>
       <td>Bio</td>   
       <td><a href="/img/mf_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
   </tr>
-
+  <tr>
+      <td><img src="{{ site.baseurl }}/img/logo/kcl-logo.jpg" alt="" width="20%" height="20%"/></td>
+      <td>Marc Modat (King's College London)</td>
+      <td>Bio</td>   
+      <td><a href="/img/mm_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
+  </tr>
   
-   <tr>
-      <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="10%" height="20%"/></td>
+  <tr>
+      <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="20%" height="20%"/></td>
       <td>Adam Grzywaczewski (NVidia)</td>
       <td>Bio</td>   
       <td><a href="/img/ag_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
-    </tr>
-      
-  </tbody>
-
+  </tr>
+    
 </table>
 
 
