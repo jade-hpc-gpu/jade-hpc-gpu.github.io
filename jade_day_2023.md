@@ -42,19 +42,19 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr  style="height:200px">
-      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="30%" height="30%"/></td>
+      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="50%" height="50%"/></td>
       <td>Mark Fellows (Hartree Centre)</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/mf_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
-      <td><img src="{{ site.baseurl }}/img/logo/kcl-logo.jpg" alt="" width="30%" height="30%"/></td>
+      <td><img src="{{ site.baseurl }}/img/logo/kcl-logo.jpg" alt="" width="50%" height="50%"/></td>
       <td>Marc Modat (King's College London)</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/mm_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px" >
-      <td><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width="30%" height="30%"/></td>
+      <td><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width="50%" height="50%"/></td>
       <td>Twin Karmakharm (University of Sheffield)</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/tk_jade_2023.pdf" target="_blank">Slides</a></td>
