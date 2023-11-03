@@ -33,7 +33,7 @@ table.GeneratedTable td, table.GeneratedTable th {
       <th style="width:20%">Institution</th>
       <th>Name</th>
       <th>Bio</th>
-      <th>Presentation></th>
+      <th>Presentation</th>
   </tr>
   <tr>
       <td><img src="{{ site.baseurl }}/img/logo/oxford-logo.gif" alt="" width="20%" height="20%"/></td>
