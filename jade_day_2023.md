@@ -7,7 +7,7 @@ permalink: "/jade_day_2023/"
 <style>
 table.GeneratedTable {
 
-  width: 100%;
+  width: 75%;
   background-color: #ffffff;
   border-collapse: collapse;
   border-width: 2px;
@@ -39,6 +39,14 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td>Bio</td>   
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
   </tr>
+  <tr>
+      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="20%" height="20%"/></td>
+      <td>Mark Fellows (Hartree Centre)</td>
+      <td>Bio</td>   
+      <td><a href="/img/mf_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
+  </tr>
+
+  
    <tr>
       <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="20%" height="20%"/></td>
       <td>Adam Grzywaczewski (NVidia)</td>
