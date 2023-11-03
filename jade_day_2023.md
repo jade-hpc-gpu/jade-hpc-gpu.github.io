@@ -30,6 +30,12 @@ table.GeneratedTable td, table.GeneratedTable th {
 
 <table class="GeneratedTable">
   <tr>
+      <th>style="width:20%>Institution</th>
+      <th>Name</th>
+      <th>Bio</th>
+      <th>Presentation></th>
+  </tr>
+  <tr>
       <td><img src="{{ site.baseurl }}/img/logo/oxford-logo.gif" alt="" width="20%" height="20%"/></td>
       <td>Prof. Wes Armour (University of Oxford) </td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
@@ -54,13 +60,11 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/tk_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
   </tr>
   <tr>
-      <td><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width="20%" height="20%"/></td>
-      <td>Twin Karmakharm (University of Sheffield)</td>
+      <td><</td>
+      <td>Prof. Thomas Nowotny (University of Sussex)</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
-      <td><a href="/img/tk_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
+      <td><a href="/img/tn_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
   </tr>
-
-  
   <tr>
       <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="20%" height="20%"/></td>
       <td>Adam Grzywaczewski (NVidia)</td>
@@ -70,17 +74,4 @@ table.GeneratedTable td, table.GeneratedTable th {
     
 </table>
 
-
-
-<a href="/img/wa_jade_2023.pdf" target="_blank">Prof. Wes Armour (University of Oxford) slides</a>
-
-<a href="/img/mf_jade_2023.pdf" target="_blank">Mark Fellows (Hartree Centre) slides</a>
-
-<a href="/img/mm_jade_2023.pdf" target="_blank">Marc Modat (King's College London) slides</a>
-
-<a href="/img/tk_jade_2023.pdf" target="_blank">Twin Karmakharm (University of Sheffield) slides</a>
-
-<a href="/img/tn_jade_2023.pdf" target="_blank">Prof. Thomas Nowotny (University of Sussex) slides</a>
-
-<a href="/img/ag_jade_2023.pdf" target="_blank">Adam Grzywaczewski (NVidia) slides</a>
 
