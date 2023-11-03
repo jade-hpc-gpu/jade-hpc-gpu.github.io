@@ -32,7 +32,7 @@ table.GeneratedTable td, table.GeneratedTable th {
   <tr>
       <td><img src="{{ site.baseurl }}/img/logo/oxford-logo.gif" alt="" width="20%" height="20%"/></td>
       <td>Prof. Wes Armour (University of Oxford) </td>
-      <td>Bio</td>   
+      <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat, dictum dictum quam non, rutrum ullamcorper justo. Etiam ac nisl ullamcorper, imperdiet odio ac, vestibulum lorem. Praesent tempor consequat dictum. Donec sit amet augue placerat, ultrices arcu sed, lobortis massa.</td>   
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
   </tr>
   <tr>
@@ -47,7 +47,12 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td>Bio</td>   
       <td><a href="/img/mm_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
   </tr>
-  
+  <tr>
+      <td><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width="20%" height="20%"/></td>
+      <td>Twin Karmakharm (University of Sheffield)</td>
+      <td>Bio</td>   
+      <td><a href="/img/tk_jade_2023.pdf" target="_blank">Presentation Slides</a></td>
+  </tr>
   <tr>
       <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="20%" height="20%"/></td>
       <td>Adam Grzywaczewski (NVidia)</td>
