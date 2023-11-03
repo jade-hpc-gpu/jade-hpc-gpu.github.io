@@ -66,7 +66,7 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/tn_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
-      <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="30%" height="30%"/></td>
+      <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="40%" height="40%"/></td>
       <td>Adam Grzywaczewski (NVidia)</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/ag_jade_2023.pdf" target="_blank">Slides</a></td>
