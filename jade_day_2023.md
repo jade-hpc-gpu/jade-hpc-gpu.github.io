@@ -42,7 +42,7 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr  style="height:200px">
-      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="50%" height="50%"/></td>
+      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="70%" height="70%"/></td>
       <td>Mark Fellows (Hartree Centre)</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/mf_jade_2023.pdf" target="_blank">Slides</a></td>
