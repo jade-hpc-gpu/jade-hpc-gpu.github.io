@@ -37,9 +37,9 @@ tr:nth-child(odd) {
 <br>
 <table class="GeneratedTable">
   <tr style="height:200px">
-      <td align="center" style="width:20%" ><b>University of Oxford</b></td>
-      <td>Prof. Wes Armour</td>
-      <td>Professor Wes Armour is Professor of Scientific Computing at the University of Oxford. He is Director of the Oxford e-Research Centre, an interdisciplinary research centre that is part of the Engineering Science Department. He is Director and PI of JADE2 a 600 GPU machine that is the UKs national High Performance Computer facility dedicated to advancing Artificial Intelligence and Machine Learning in the UK. </td>   
+      <td align="center" style="width:15%" ><b>University of Oxford</b></td>
+      <td>Professor Wes Armour</td>
+      <td>Wes Armour is Professor of Scientific Computing at the University of Oxford. He is Director of the Oxford e-Research Centre, an interdisciplinary research centre that is part of the Engineering Science Department. He is Director and PI of JADE2 a 600 GPU machine that is the UKs national High Performance Computer facility dedicated to advancing Artificial Intelligence and Machine Learning in the UK. </td>   
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr  style="height:200px">
