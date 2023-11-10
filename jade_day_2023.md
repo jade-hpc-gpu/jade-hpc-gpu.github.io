@@ -18,13 +18,12 @@ table.GeneratedTable {
 
 table.GeneratedTable td, table.GeneratedTable th {
   border-width: 2px;
-  border-color: #555555;
+  border-color: #ffffff;
   border-style: solid;
   padding: 3px;
 }
-</style>
 
-#### JADE Day 2023
+</style>
 
 ##### Speakers and Presentation Slides
 <br>
