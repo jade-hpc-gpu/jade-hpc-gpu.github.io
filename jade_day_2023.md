@@ -23,10 +23,10 @@ table.GeneratedTable td, table.GeneratedTable th {
   padding: 3px;
 }
 tr:nth-child(even) {
-   background-color: #f2f2f2;
+   background-color: #00f200;
 }
 tr:nth-child(odd) {
-   background-color: #ffffff;
+   background-color: #009200;
 }
 
 </style>
@@ -36,7 +36,7 @@ tr:nth-child(odd) {
 <br>
 <table class="GeneratedTable">
   <tr>
-      <th style="width:15%"></th>
+      <th style="width:18%"></th>
       <th></th>
       <th></th>
       <th></th>
