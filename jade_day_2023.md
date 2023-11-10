@@ -22,6 +22,12 @@ table.GeneratedTable td, table.GeneratedTable th {
   border-style: solid;
   padding: 3px;
 }
+tr:nth-child(even) {
+   background-color: #f2f2f2;
+}
+tr:nth-child(odd) {
+   background-color: #ffffff;
+}
 
 </style>
 
