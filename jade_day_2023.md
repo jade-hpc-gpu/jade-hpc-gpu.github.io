@@ -44,13 +44,13 @@ table.GeneratedTable td, table.GeneratedTable th {
   </tr>
   <tr  style="height:200px">
       <td><b>STFC Hartree Centre</b></td>
-      <td>Mark Fellows (Hartree Centre)</td>
+      <td>Mark Fellows</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/mf_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
       <td><b>King's College London</b></td>
-      <td>Marc Modat (King's College London)</td>
+      <td>Marc Modat</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/mm_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
@@ -61,8 +61,8 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/tk_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
-      <td></td>
-      <td>Prof. Thomas Nowotny (University of Sussex)</td>
+      <td><b>University of Sussex</b></td>
+      <td>Prof. Thomas Nowotny</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/tn_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
