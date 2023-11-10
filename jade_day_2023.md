@@ -27,7 +27,8 @@ table.GeneratedTable td, table.GeneratedTable th {
 #### JADE Day 2023
 
 ##### Speakers and Presentation Slides
-
+<br></br>
+<br></br>
 <table class="GeneratedTable">
   <tr>
       <th style="width:25%">Institution</th>
@@ -36,8 +37,8 @@ table.GeneratedTable td, table.GeneratedTable th {
       <th>Presentation</th>
   </tr>
   <tr style="height:200px">
-      <td><img src="{{ site.baseurl }}/img/logo/oxford-logo.gif" alt=""/></td>
-      <td>Prof. Wes Armour (University of Oxford) </td>
+      <td><b>University of Oxford</b></td>
+      <td>Prof. Wes Armour</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
