@@ -11,14 +11,14 @@ table.GeneratedTable {
   background-color: #ffffff;
   border-collapse: collapse;
   border-width: 2px;
-  border-color: #ffffff;
+  border-color: #555555;
   border-style: solid;
   color: #000000;
 }
 
 table.GeneratedTable td, table.GeneratedTable th {
   border-width: 2px;
-  border-color: #ffffff;
+  border-color: #555555;
   border-style: solid;
   padding: 3px;
 }
@@ -31,7 +31,7 @@ table.GeneratedTable td, table.GeneratedTable th {
 <br>
 <table class="GeneratedTable">
   <tr>
-      <th style="width:25%"></th>
+      <th style="width:15%"></th>
       <th></th>
       <th></th>
       <th></th>
