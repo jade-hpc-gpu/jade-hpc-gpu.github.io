@@ -27,8 +27,8 @@ table.GeneratedTable td, table.GeneratedTable th {
 #### JADE Day 2023
 
 ##### Speakers and Presentation Slides
-<br></br>
-<br></br>
+<br>
+<br>
 <table class="GeneratedTable">
   <tr>
       <th style="width:25%">Institution</th>
@@ -43,7 +43,7 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr  style="height:200px">
-      <td><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="70%" height="70%"/></td>
+      <td><b>STFC Hartree Centre</b></td>
       <td>Mark Fellows (Hartree Centre)</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/mf_jade_2023.pdf" target="_blank">Slides</a></td>
