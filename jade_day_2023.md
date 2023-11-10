@@ -31,10 +31,10 @@ table.GeneratedTable td, table.GeneratedTable th {
 <br>
 <table class="GeneratedTable">
   <tr>
-      <th style="width:25%">Institution</th>
-      <th>Name</th>
-      <th>Bio</th>
-      <th>Presentation</th>
+      <th style="width:25%"></th>
+      <th></th>
+      <th></th>
+      <th></th>
   </tr>
   <tr style="height:200px">
       <td><b>University of Oxford</b></td>
@@ -55,8 +55,8 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/mm_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px" >
-      <td><img src="{{ site.baseurl }}/img/logo/tuos.png" alt="" width="50%" height="50%"/></td>
-      <td>Twin Karmakharm (University of Sheffield)</td>
+      <td><b>University of Sheffield</b></td>
+      <td>Twin Karmakharm</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/tk_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
@@ -67,8 +67,8 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/tn_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
-      <td><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="50%" height="50%"/></td>
-      <td>Adam Grzywaczewski (NVidia)</td>
+      <td><b>NVidia</b></td>
+      <td>Adam Grzywaczewski</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/ag_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
