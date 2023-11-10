@@ -37,7 +37,7 @@ tr:nth-child(odd) {
 <br>
 <table class="GeneratedTable">
   <tr style="height:200px">
-      <td style="width:20%" ><b>University of Oxford</b></td>
+      <td align="center" style="width:20%" ><b>University of Oxford</b></td>
       <td>Prof. Wes Armour</td>
       <td>Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.Praesent a varius mi. Sed quis luctus justo, eget dictum ipsum. Vivamus consequat metus at felis feugiat commodo. Praesent ligula erat.</td>   
       <td><a href="/img/wa_jade_2023.pdf" target="_blank">Slides</a></td>
