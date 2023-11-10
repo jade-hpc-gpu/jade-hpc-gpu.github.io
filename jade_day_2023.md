@@ -31,7 +31,8 @@ tr:nth-child(odd) {
 
 </style>
 
-##### Speakers and Presentation Slides
+<h5 style="text-align: center;">Speakers and Presentation Slides</h5>
+
 <br>
 <br>
 <table class="GeneratedTable">
