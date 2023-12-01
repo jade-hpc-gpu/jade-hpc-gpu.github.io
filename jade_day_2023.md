@@ -11,7 +11,7 @@ table.GeneratedTable {
   background-color: #ffffff;
   border-collapse: collapse;
   border-width: 2px;
-  border-color: #555555;
+  border-color: #ffffff;
   border-style: solid;
   color: #000000;
 }
@@ -21,12 +21,6 @@ table.GeneratedTable td, table.GeneratedTable th {
   border-color: #ffffff;
   border-style: solid;
   padding: 3px;
-}
-tr:nth-child(even) {
-   background-color: #D6DFD6;
-}
-tr:nth-child(odd) {
-   background-color: #e4f0e4;
 }
 
 </style>
