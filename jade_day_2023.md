@@ -74,8 +74,9 @@ table.GeneratedTable td, table.GeneratedTable th {
   </tr>
     
 </table>
-
-For more information about our speakers alongside information on the venue, programme and structure of the day, please see the JADE Day website [here](cvent.me/WvlX2E).
+<br>
+<br>
+For more information about our speakers alongside information on the venue, programme and structure of the day, please see the JADE Day website [here](https://web.cvent.com/event/79e39f00-b1ae-43c5-994f-7034bbfa0f6f/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b)
 
 
 
