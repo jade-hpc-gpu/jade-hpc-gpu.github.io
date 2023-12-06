@@ -64,7 +64,7 @@ table.GeneratedTable td, table.GeneratedTable th {
        <td align="center"><img src="{{ site.baseurl }}/img/logo/bristol-logo.jpg" alt="" width="80%" height="80%"/></td>
       <td align="center">Toby Perrett</td>
       <td>Toby is a Senior Research Associate at the University of Bristol. He received a PhD degree in computer vision from the University of Bristol. His research interest is in video understanding, particularly in cases where neural networks tend to perform poorly. Examples include when little or imbalanced training data is available, or when there is a domain gap between training and deployment. These problems frequently occur with large-scale naturally collected video data, and will become even more important as neural networks are used to understand the world from an egocentric viewpoint.Toby used JADE for the EPIC-Kitchens series of egocentric video datasets and benchmarks, and for his latest work: Use Your Head: Improving Long-Tail Video Recognition.</td>   
-      <td><a href="/img/tn_jade_2023.pdf" target="_blank">Slides</a></td>
+      <td><a href="/img/tp_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
       <td align="center"><img src="{{ site.baseurl }}/img/logo/Nvidia_logo.png" alt="" width="70%" height="70%"/></td>
