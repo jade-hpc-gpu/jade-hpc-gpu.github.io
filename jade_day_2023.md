@@ -81,7 +81,7 @@ For more information about our speakers alongside information on the venue, prog
 </center>
 <br>
 <br>
-<center><img src="{{ site.baseurl }}/img/JADE_Day_images.png" alt="" width="90%" height="90%" /></center>&nbsp;&nbsp;
+<center><img src="{{ site.baseurl }}/img/JADE_Day_images.png" alt="" width="100%" height="100%" /></center>&nbsp;&nbsp;
 
 
 
