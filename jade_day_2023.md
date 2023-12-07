@@ -55,7 +55,7 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td><a href="/img/tk_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
-      <td align="center"><img src="{{ site.baseurl }}/img/logo/sussex_logo.jpeg" alt="" width="80%" height="80%"/></td>
+      <td align="center"><img src="{{ site.baseurl }}/img/logo/Sussex_logo.jpeg" alt="" width="80%" height="80%"/></td>
       <td align="center">Professor Thomas Nowotny</td>
       <td>Professor Nowotny is the Co-Investigator of the JADE2 consortium at the University of Sussex. But he is also involved in using JADE2 for his own research in bio-mimetic AI. The project is concerned with gradient-based learning in spiking neural networks with the EventProp algorithm, introduced by Pehle and Wunderlich in 2021. We have found that applying EventProp to certain classification problems in spiking neural networks requires extensions to the algorithm and careful adjustments in the form of regularisation. The use of JADE2 (and other HPC systems) has been instrumental in investigating the necessary adjustments and finding the all-important correct meta-parameter values.</td>   
       <td><a href="/img/tn_jade_2023.pdf" target="_blank">Slides</a></td>
