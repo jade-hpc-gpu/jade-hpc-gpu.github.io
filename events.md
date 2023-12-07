@@ -51,14 +51,21 @@ table.GeneratedTable thead {
       <td><a href="https://www.scd.stfc.ac.uk/Pages/ciuk2023.aspx">Computing Insight UK 2023</a></td>
       <td>Manchester Central</td>
       <td>07/12/2023 - 08/12/2023</td>   
-      <td><a href="https://web.cvent.com/event/136d0a52-d4f7-4ec1-821a-9c566e8dc8ee/summary">Register</a></td>
+      <td><a href="https://web.cvent.com/event/136d0a52-d4f7-4ec1-821a-9c566e8dc8ee/summary">Closed</a></td>
+    </tr>
+
+      <tr>
+      <td>Cuda Programming on NVIDIA's GPU's</td>
+      <td>University of Oxford</td>
+      <td>22nd July - 26th July 2024 </td>   
+      <td>TBC</td>  
     </tr>
     
     <tr>
       <td>Jade Day</td>
-      <td>Oxford University</td>
-      <td>September 2024</td>   
-      <td>TBC</td>  
+      <td>Worcester College, University of Oxford</td>
+      <td>Thursday 4th October 2024</td>   
+      <td>Registration opens in Spring</td>  
     </tr>
 
     <tr>
