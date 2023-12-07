@@ -57,14 +57,14 @@ table.GeneratedTable thead {
       <tr>
       <td>Cuda Programming on NVIDIA's GPU's</td>
       <td>University of Oxford</td>
-      <td>22nd July - 26th July 2024 </td>   
+      <td>22/07/20224 - 26/07/2024</td>   
       <td>TBC</td>  
     </tr>
     
     <tr>
       <td>Jade Day</td>
       <td>Worcester College, University of Oxford</td>
-      <td>Thursday 4th October 2024</td>   
+       <td>04/10/2024</td>
       <td>Registration opens in Spring</td>  
     </tr>
 
