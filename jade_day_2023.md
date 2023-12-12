@@ -40,7 +40,7 @@ table.GeneratedTable td, table.GeneratedTable th {
       <td align="center"><img src="{{ site.baseurl }}/img/logo/hartree_logo.png" alt="" width="80%" height="80%"/></td>
       <td align="center">Mark Fellows</td>
       <td>Mark has worked in the field of computing for 23 years, both as software engineer and as a system engineer. He has administered and managed common and novel architectures ranging from small business systems through to enterprise supply-chain systems and large-scale HPC facilities. Mark joined STFC’s Hartree Centre in 2017 where he has provided technical leadership in support of a diverse range of systems including Scafell Pike, IBM Power Systems and a Quantum Learning Machine.  As a senior member of Hartree’s “Technical Solutions and Operations Group”, Mark’s current specialist areas of interest include job scheduling (LSF, SLURM) and DevOps.
-Mark jointly led the technical commissioning and integration of the current JADE HPC service into Hartree’s infrastructure. He continues to support the system and its user community. Mark is also a member of JADE’s “Service Operations” team. The Hartree Centre presentation will cover operational highlights and reflections and will highlight a future direction for UKRI AI services.</td>   
+Mark jointly led the technical commissioning and integration of the current JADE HPC service into Hartree’s infrastructure. He continues to support the system and its user community. Mark is also a member of JADE’s “Service Operations” team. The Hartree Centre presentation covers operational highlights and reflections and highlights a future direction for UKRI AI services.</td>   
       <td><a href="/img/mf_jade_2023.pdf" target="_blank">Slides</a></td>
   </tr>
   <tr style="height:200px">
