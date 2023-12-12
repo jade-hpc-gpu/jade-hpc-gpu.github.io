@@ -25,7 +25,7 @@ table.GeneratedTable td, table.GeneratedTable th {
 
 </style>
 
- <h5 style="text-align: center;">Speakers and Presentation Slides</h5>
+  <strong><h5 style="text-align: center;">Speakers and Presentation Slides</h5>
 
 <br>
 <br>
