@@ -213,7 +213,7 @@ table.GeneratedTable thead {
 
       <td>University of Sussex</td>
 
-      <td>Mr James Knight, Professor Nowotny</td>
+      <td>Dr James Knight, Dr Nowotny</td>
  
     </tr>
 
