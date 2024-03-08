@@ -57,7 +57,7 @@ table.GeneratedTable thead {
     <tr>
       <td>Jade Day</td>
       <td>Worcester College, University of Oxford</td>
-       <td>04/10/2024</td>
+       <td>03/10/2024</td>
        <td><a href="https://web.cvent.com/event/1598d222-67f2-4e71-b649-f5bf341d52cf/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">Register</a></td>  
     </tr>
 
