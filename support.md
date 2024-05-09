@@ -221,7 +221,7 @@ table.GeneratedTable thead {
 
       <td>University College London</td>
 
-      <td>Dr Jonathan Cooper</td>
+      <td>Dr David Gregory, Neil Daesche</td>
 
     </tr>
 
