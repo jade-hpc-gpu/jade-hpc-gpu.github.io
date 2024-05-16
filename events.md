@@ -51,7 +51,7 @@ table.GeneratedTable thead {
       <td>Cuda Programming on NVIDIA's GPU's</td>
       <td>University of Oxford</td>
       <td>22/07/20224 - 26/07/2024</td>   
-      <td>TBC</td>  
+     <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-2226-2024">Register</a></td>  
     </tr>
     
     <tr>
