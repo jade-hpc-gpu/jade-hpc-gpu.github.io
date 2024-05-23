@@ -64,7 +64,7 @@ table.GeneratedTable thead {
     <tr>
       <td>Hackathon on JADE</td>
       <td>Kings College London</td>
-      <td>TBC</td>   
+      <td>24/06/2024</td>   
       <td>TBC</td>
     </tr>
   </tbody>
