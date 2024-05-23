@@ -109,7 +109,7 @@ table.GeneratedTable thead {
 
       <td>University of Bristol</td>
 
-      <td>Dr Dima Damen, Dr Dan Whettam</td>
+      <td>Dr Dima Damen, Saptarshi Sinha</td>
       
     </tr>
 
