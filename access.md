@@ -21,7 +21,7 @@ This timetable has been agreed between University of Oxford (Professor Wes Armou
 
 Please note following the closure of the original "JADE" system (also referred to as "JADE-1" following the introduction of the "JADE-2" system) in 2021/22, the newer "JADE-2" system became the only system providing the "JADE" service. Across the community, the newer system and overarching service have since been commonly and interchangeably referred to as "JADE".
 
-With regard to continued GPU resource access, you should in the first instance check with your local insitutional RSE representitive, as listed on the Support page.
+With regard to continued GPU resource access, you should in the first instance check with your local insitutional RSE representitive, as listed on the <a href="https://www.jade.ac.uk/support/">Support</a> page.
 
 <!--- Old text
 
