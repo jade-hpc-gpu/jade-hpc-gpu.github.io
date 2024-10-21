@@ -5,8 +5,26 @@ layout: page
 permalink: "/access/"
 ---
 
-
 <hr />
+<h2 id="simple">JADE Important Service Information</h2>
+
+The following timetable has been agreed for the phased withdrawal of the “JADE” service:
+
+<li>From 1st September 2024: No new groups or user accounts will be provisioned on the system.</li>
+<li>From 1st November 2024: Batch and interactive access to all compute resources will be withdrawn.</li>
+<li>6th January 2025: All access to the service will be withdrawn and physical decommissioning of the system will commence.</li>
+<br>
+
+<b>Please be advised that vendor-based support for JADE’s hardware components, including its primary storage appliance, is subject to a series of end dates from October 2024. Although it is intended that the system remains on-line through January 2025 for the retrieval of data, users are strongly encouraged to take copies of required files to a secondary location outside of JADE before [the end of] October and to consider the service “at risk” from October in the event that issues arise with JADE that we are then unable to resolve.</b>
+
+This timetable has been agreed between University of Oxford (Professor Wes Armour), STFC Hartree Centre and representatives for the JADE community.
+
+Please note following the closure of the original "JADE" system (also referred to as "JADE-1" following the introduction of the "JADE-2" system) in 2021/22, the newer "JADE-2" system became the only system providing the "JADE" service. Across the community, the newer system and overarching service have since been commonly and interchangeably referred to as "JADE".
+
+With regard to continued GPU resource access, you should in the first instance check with your local insitutional RSE representitive, as listed on the Support page.
+
+<!--- Old text
+
 <h2 id="simple">Introduction</h2>
 
 As agreed with EPSRC, the use of JADE is to be split approximately 50:30:20 between Machine/Deep Learning (ML), Molecular Dynamics (MD), and other applications, with up to 10% of the use being for research in non-EPSRC areas.
