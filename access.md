@@ -8,18 +8,26 @@ permalink: "/access/"
 <hr />
 <h2 id="simple">JADE Important Service Information</h2>
 
-The following timetable has been agreed for the phased withdrawal of the “JADE” service:
+We would like to take the opportunity to remind you of the agreed timetable for the phased withdrawal of the JADE-2 Service.  
+
+This timetable has been agreed between University of Oxford (Professor Wes Armour), STFC Hartree Centre and representatives for the JADE community:
 
 <li>From 1st September 2024: No new groups or user accounts will be provisioned on the system.</li>
-<li>From 1st November 2024: Batch and interactive access to all compute resources will be withdrawn.</li>
+<li>From 15th November 2024: Batch and interactive access to all compute resources will be withdrawn. [1]</li>
 <li>6th January 2025: All access to the service will be withdrawn and physical decommissioning of the system will commence.</li>
 <br>
 
-<b>Please be advised that vendor-based support for JADE’s hardware components, including its primary storage appliance, is subject to a series of end dates from October 2024. Although it is intended that the system remains on-line through January 2025 for the retrieval of data, users are strongly encouraged to take copies of required files to a secondary location outside of JADE before [the end of] October and to consider the service “at risk” from October in the event that issues arise with JADE that we are then unable to resolve.</b>
+[1]: Extended from the previously announced date of 1st November 2024. 
 
-This timetable has been agreed between University of Oxford (Professor Wes Armour), STFC Hartree Centre and representatives for the JADE community.
+At 4pm on Friday 15th November 2024, all job partitions (queues) will be set to "Inactive" thereby prohibiting job submission. Any jobs already dispatched at that time will run to completion but all "pending" jobs will be cancelled. 
 
-Please note following the closure of the original "JADE" system (also referred to as "JADE-1" following the introduction of the "JADE-2" system) in 2021/22, the newer "JADE-2" system became the only system providing the "JADE" service. Across the community, the newer system and overarching service have since been commonly and interchangeably referred to as "JADE".
+<b>Please be advised that vendor-based support for JADE-2's hardware components, including its primary storage appliance, has ended. Consequently, the service should now be considered “at risk”.
+
+Although it is intended that the system remains on-line through January 2025 to facilitate the retrieval of data, users are reminded of the urgency with which they should now attend to the migration of required files to a secondary location outside of JADE-2.</b>
+
+To accompany the withdrawal of the compute service for JADE-2, the level of corresponding user support available from the Hartree Centre will also reduce in scope and will focus on supporting users with their access to the system and to their data only.
+
+Note: Following the closure of the original "JADE" system (later referred to as "JADE-1" following the introduction of the "JADE-2" system), the newer "JADE-2" system is now the only system providing the "JADE" service. 
 
 With regard to continued GPU resource access, you should in the first instance check with your local insitutional RSE representitive, as listed on the <a href="https://www.jade.ac.uk/support/">Support</a> page.
 
