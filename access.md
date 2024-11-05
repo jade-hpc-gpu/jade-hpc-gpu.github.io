@@ -21,9 +21,9 @@ This timetable has been agreed between University of Oxford (Professor Wes Armou
 
 At 4pm on Friday 15th November 2024, all job partitions (queues) will be set to "Inactive" thereby prohibiting job submission. Any jobs already dispatched at that time will run to completion but all "pending" jobs will be cancelled. 
 
-<b>Please be advised that vendor-based support for JADE-2's hardware components, including its primary storage appliance, has ended. Consequently, the service should now be considered “at risk”.
+<b>Please be advised that vendor-based support for JADE-2's hardware components, including its primary storage appliance, has ended. Consequently, the service should now be considered “at risk”.</b>
 
-Although it is intended that the system remains on-line through January 2025 to facilitate the retrieval of data, users are reminded of the urgency with which they should now attend to the migration of required files to a secondary location outside of JADE-2.</b>
+<b>Although it is intended that the system remains on-line through January 2025 to facilitate the retrieval of data, users are reminded of the urgency with which they should now attend to the migration of required files to a secondary location outside of JADE-2.</b>
 
 To accompany the withdrawal of the compute service for JADE-2, the level of corresponding user support available from the Hartree Centre will also reduce in scope and will focus on supporting users with their access to the system and to their data only.
 
