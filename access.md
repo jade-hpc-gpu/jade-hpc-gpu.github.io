@@ -17,7 +17,7 @@ This timetable has been agreed between University of Oxford (Professor Wes Armou
 <li>6th January 2025: All access to the service will be withdrawn and physical decommissioning of the system will commence.</li>
 <br>
 
-[1]: Extended from the previously announced date of 1st November 2024. 
+[1] Extended from the previously announced date of 1st November 2024. 
 
 At 4pm on Friday 15th November 2024, all job partitions (queues) will be set to "Inactive" thereby prohibiting job submission. Any jobs already dispatched at that time will run to completion but all "pending" jobs will be cancelled. 
 
