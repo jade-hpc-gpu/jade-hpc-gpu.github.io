@@ -51,14 +51,14 @@ table.GeneratedTable thead {
       <td>Cuda Programming on NVIDIA's GPU's</td>
       <td>University of Oxford</td>
       <td>22/07/20224 - 26/07/2024</td>   
-     <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-2226-2024">Register</a></td>  
+     <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-2226-2024">Closed</a></td>  
     </tr>
     
     <tr>
       <td>Jade Day</td>
       <td>Worcester College, University of Oxford</td>
        <td>03/10/2024</td>
-       <td><a href="https://web.cvent.com/event/1598d222-67f2-4e71-b649-f5bf341d52cf/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">Register</a></td>  
+       <td><a href="https://web.cvent.com/event/1598d222-67f2-4e71-b649-f5bf341d52cf/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">Closed</a></td>  
     </tr>
 
     <tr>
