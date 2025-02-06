@@ -18,7 +18,7 @@ Please be aware, access to these systems and projects is not automatically appro
 
 Information on generating SSH keys is detailed below: 
 
-[Generating SSH Keys](https://docs.jade.ac.uk/en/latest/jade/connecting.html#connecting-generate-ssh-keys)
+[Generating SSH Keys](https://jade-arc-docs.readthedocs.io/jade/connecting.html#generating-ssh-keys)
 
 You will need to provide your SSH public key as part of your SAFE account registration process (you must never share your private key with anybody). Please note that new or updated SSH keys are deployed to the respective user account by Hartree during business hours, only.
 
