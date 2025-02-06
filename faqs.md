@@ -8,7 +8,7 @@ permalink: "/faqs/"
 
 For information on requesting an account on JADE please follow the link below: 
 
-[Getting an account — JADE documentation](https://docs.jade.ac.uk/en/latest/jade/getting-account.html)
+[Getting an account — JADE documentation](https://jade-arc-docs.readthedocs.io/jade/getting-account.html)
 
 This link covers how to apply for a Hartree SAFE account, a JADE project account and a Hartree “ServiceNow” account (Hartree’s self-service customer portal). Please note access to ServiceNow will only be provided after the user has registered within SAFE and joined a project.
 
