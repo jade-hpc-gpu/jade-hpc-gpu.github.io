@@ -153,69 +153,6 @@ table.GeneratedTable thead {
       <td>29/09/2023</td>   
       <td>Closed</td>  
     </tr>
-<tr>
-       
-      <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
-      <td><a>Online</a></td>  
-      <td>28/04/2023</td>  
-      <td><a href="https://events.teams.microsoft.com/event/ab4d252f-16d2-4774-ad42-f43df38b3ea8@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
-      
-    </tr>
-
-    <tr>
-      
-       <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
-
-      <td><a>Online</a></td>  
-
-      <td>24/05/2023</td>
-      
-      <td><a href="https://events.teams.microsoft.com/event/fb58eb51-9e98-4fcc-a8a4-d72bff634a7e@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
-      
-    </tr>
-
-    <tr>
-      
-       <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">Effective use of HPC Clusters</a></td>
-
-      <td><a>Online</a></td>  
-
-      <td>10/05/2023</td>
-      
-      <td><a href="https://events.teams.microsoft.com/event/f77dc50d-4adb-4bc3-b98e-7c60bb127d2e@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
-      
-    </tr>
-
-    <tr>
-      
-      <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">ARC Drop In Session</a></td>
-
-      <td><a>Online</a></td>  
-
-      <td>18/05/2023</td>
-      
-      <td><a href="https://events.teams.microsoft.com/event/02b8078b-e176-42e5-8226-45185014c3be@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
-      
-    </tr>
-
-    <tr>
-      
-      <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">Effective use of HPC Clusters</a></td>
-
-      <td><a>Online</a></td>  
-
-      <td>07/06/2023</td>
-      
-      <td><a href="https://events.teams.microsoft.com/event/ff016747-9b8c-4bba-97cd-1ea7e807b6d4@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
-      
-    </tr>
-     <tr>
-      
-      <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming on NVIDIA's GPU's</a></td>
-      <td><a href="https://www.maths.ox.ac.uk/about-us/travel-maps">Oxford University, Mathematical Institute</a></td>
-      <td>24/07/2023 - 28/07/2023</td>   
-      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Closed</a></td>   
-    </tr>
     
     <tr>
       <td><a href="https://www.scd.stfc.ac.uk/Pages/CIUK2022.aspx">Computing Insight UK 2022</a></td>
@@ -288,6 +225,68 @@ table.GeneratedTable thead {
   </thead>
   <tbody>
 
+     <tr>
+      
+      <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">ARC Drop In Session</a></td>
+
+      <td><a>Online</a></td>  
+
+      <td>18/05/2023</td>
+      
+      <td><a href="https://events.teams.microsoft.com/event/02b8078b-e176-42e5-8226-45185014c3be@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
+      
+    </tr>
+
+    <tr>
+      
+      <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">Effective use of HPC Clusters</a></td>
+
+      <td><a>Online</a></td>  
+
+      <td>07/06/2023</td>
+      
+      <td><a href="https://events.teams.microsoft.com/event/ff016747-9b8c-4bba-97cd-1ea7e807b6d4@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
+      
+    </tr>
+     <tr>
+      
+      <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming on NVIDIA's GPU's</a></td>
+      <td><a href="https://www.maths.ox.ac.uk/about-us/travel-maps">Oxford University, Mathematical Institute</a></td>
+      <td>24/07/2023 - 28/07/2023</td>   
+      <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-24%E2%80%9328-2023">Closed</a></td>   
+    </tr>
+<tr>
+       
+      <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
+      <td><a>Online</a></td>  
+      <td>28/04/2023</td>  
+      <td><a href="https://events.teams.microsoft.com/event/ab4d252f-16d2-4774-ad42-f43df38b3ea8@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
+      
+    </tr>
+
+    <tr>
+      
+       <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
+
+      <td><a>Online</a></td>  
+
+      <td>24/05/2023</td>
+      
+      <td><a href="https://events.teams.microsoft.com/event/fb58eb51-9e98-4fcc-a8a4-d72bff634a7e@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
+      
+    </tr>
+
+    <tr>
+      
+       <td><a href="https://www.arc.ox.ac.uk/effective-use-hpc-clusters">Effective use of HPC Clusters</a></td>
+
+      <td><a>Online</a></td>  
+
+      <td>10/05/2023</td>
+      
+      <td><a href="https://events.teams.microsoft.com/event/f77dc50d-4adb-4bc3-b98e-7c60bb127d2e@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Closed</a></td>
+      
+    </tr>
     <tr>
 
       <td><a href="https://www.archer2.ac.uk/training/courses/221213-modern-fortran/">Archer 2: Introduction to Modern Fortran</a></td>
