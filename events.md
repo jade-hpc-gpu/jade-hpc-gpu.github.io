@@ -50,23 +50,10 @@ table.GeneratedTable thead {
       <tr>
       <td>Cuda Programming on NVIDIA's GPU's</td>
       <td>University of Oxford</td>
-      <td>22/07/20224 - 26/07/2024</td>   
-     <td><a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/cuda-programming-on-nvidia-gpus-july-2226-2024">Closed</a></td>  
+      <td>21/07/2025 - 25/07/2025</td>   
+     <td><a href="https://people.maths.ox.ac.uk/gilesm/cuda/">Open</a></td>  
     </tr>
-    
-    <tr>
-      <td>Jade Day</td>
-      <td>Worcester College, University of Oxford</td>
-       <td>03/10/2024</td>
-       <td><a href="https://web.cvent.com/event/1598d222-67f2-4e71-b649-f5bf341d52cf/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">Closed</a></td>  
-    </tr>
-
-    <tr>
-      <td>JADE Workshop on MONAI</td>
-      <td>Kings College London</td>
-      <td>24/06/2024</td>   
-      <td>TBC</td>
-    </tr>
+   
   </tbody>
 
 </table>
@@ -203,6 +190,21 @@ table.GeneratedTable thead {
   </thead>
 
   <tbody>
+
+   
+    <tr>
+      <td>Jade Day</td>
+      <td>Worcester College, University of Oxford</td>
+       <td>03/10/2024</td>
+       <td><a href="https://web.cvent.com/event/1598d222-67f2-4e71-b649-f5bf341d52cf/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">Closed</a></td>  
+    </tr>
+
+    <tr>
+      <td>JADE Workshop on MONAI</td>
+      <td>Kings College London</td>
+      <td>24/06/2024</td>   
+      <td>Closed</td>
+    </tr>
 
    <tr>
       <td><a href="https://www.scd.stfc.ac.uk/Pages/ciuk2023.aspx">Computing Insight UK 2023</a></td>
