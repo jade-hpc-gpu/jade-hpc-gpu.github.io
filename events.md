@@ -75,7 +75,85 @@ table.GeneratedTable thead {
 
   <tbody>
 
+  
+
     <tr>
+      
+       <td><a href="https://www.archer2.ac.uk/training/courses/">Archer 2</a></td>
+
+      <td>Various</td>
+
+      <td>Various / Self Service</td>
+      
+      <td><a href="https://www.archer2.ac.uk/training/#upcoming-training">Register</a></td>
+
+    </tr>
+
+    <tr>
+
+      <td>eLearning AI and Machine Learning for Healthcare</td>
+
+      <td>Online</td>
+
+      <td>Ongoing</td>
+      
+      <td><a href="https://learn.nihr.ac.uk/course/view.php?id=975">Register</a></td>
+
+    </tr>
+
+  
+
+  </tbody>
+
+</table>
+
+<br><br>
+
+## Past JADE2 Related Events
+
+
+<table class="GeneratedTable">
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Venue</th>
+      <th>Dates</th>   
+      <th>Registration</th>
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+   
+    <tr>
+      <td>Jade Day</td>
+      <td>Worcester College, University of Oxford</td>
+       <td>03/10/2024</td>
+       <td><a href="https://web.cvent.com/event/1598d222-67f2-4e71-b649-f5bf341d52cf/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">Closed</a></td>  
+    </tr>
+
+    <tr>
+      <td>JADE Workshop on MONAI</td>
+      <td>Kings College London</td>
+      <td>24/06/2024</td>   
+      <td>Closed</td>
+    </tr>
+
+   <tr>
+      <td><a href="https://www.scd.stfc.ac.uk/Pages/ciuk2023.aspx">Computing Insight UK 2023</a></td>
+      <td>Manchester Central</td>
+      <td>07/12/2023 - 08/12/2023</td>   
+      <td><a href="https://web.cvent.com/event/136d0a52-d4f7-4ec1-821a-9c566e8dc8ee/summary">Closed</a></td>
+    </tr>
+
+     <tr>
+       <td><a href="https://cvent.me/5Dxe4D?RefId=JADE_Day">JADE Day 2023</a></td> 
+      <td>Oxford University</td>
+      <td>29/09/2023</td>   
+      <td>Closed</td>  
+    </tr>
+<tr>
        
       <td><a href="https://www.arc.ox.ac.uk/getting-started-arc">Getting started with ARC</a></td>
       <td><a>Online</a></td>  
@@ -131,95 +209,6 @@ table.GeneratedTable thead {
       <td><a href="https://events.teams.microsoft.com/event/ff016747-9b8c-4bba-97cd-1ea7e807b6d4@cc95de1b-97f5-4f93-b4ba-fe68b852cf91">Register</a></td>
       
     </tr>
-
-    <tr>
-      
-       <td><a href="https://www.archer2.ac.uk/training/courses/">Archer 2</a></td>
-
-      <td>Various</td>
-
-      <td>Various / Self Service</td>
-      
-      <td><a href="https://www.archer2.ac.uk/training/#upcoming-training">Register</a></td>
-
-    </tr>
-
-    <tr>
-
-      <td>eLearning AI and Machine Learning for Healthcare</td>
-
-      <td>Online</td>
-
-      <td>Ongoing</td>
-      
-      <td><a href="https://learn.nihr.ac.uk/course/view.php?id=975">Register</a></td>
-
-    </tr>
-
-    <tr>
-
-      <td>How to run MONAI on JADE2</td>
-
-      <td>Kings College London</td>
-
-      <td>TBC</td>
-      
-      <td>TBC</td>
-
-
-    </tr>
-
-  </tbody>
-
-</table>
-
-<br><br>
-
-## Past JADE2 Related Events
-
-
-<table class="GeneratedTable">
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th>Venue</th>
-      <th>Dates</th>   
-      <th>Registration</th>
-    </tr>
-
-  </thead>
-
-  <tbody>
-
-   
-    <tr>
-      <td>Jade Day</td>
-      <td>Worcester College, University of Oxford</td>
-       <td>03/10/2024</td>
-       <td><a href="https://web.cvent.com/event/1598d222-67f2-4e71-b649-f5bf341d52cf/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">Closed</a></td>  
-    </tr>
-
-    <tr>
-      <td>JADE Workshop on MONAI</td>
-      <td>Kings College London</td>
-      <td>24/06/2024</td>   
-      <td>Closed</td>
-    </tr>
-
-   <tr>
-      <td><a href="https://www.scd.stfc.ac.uk/Pages/ciuk2023.aspx">Computing Insight UK 2023</a></td>
-      <td>Manchester Central</td>
-      <td>07/12/2023 - 08/12/2023</td>   
-      <td><a href="https://web.cvent.com/event/136d0a52-d4f7-4ec1-821a-9c566e8dc8ee/summary">Closed</a></td>
-    </tr>
-
-     <tr>
-       <td><a href="https://cvent.me/5Dxe4D?RefId=JADE_Day">JADE Day 2023</a></td> 
-      <td>Oxford University</td>
-      <td>29/09/2023</td>   
-      <td>Closed</td>  
-    </tr>
-
      <tr>
       
       <td><a href="https://people.maths.ox.ac.uk/~gilesm/cuda/index.html">Cuda Programming on NVIDIA's GPU's</a></td>
