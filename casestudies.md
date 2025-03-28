@@ -8,9 +8,8 @@ permalink: "/casestudies/"
 --------------------------
 
 **Dermatologically Inspired Deep Face Analytics** 
-<br>
-Introduction 
 
+Introduction <br>
 The ability to detect face ageing which is localised to specific regions of the face has shown to be useful to both the medical and research communities. In medical practice it could be used to inform the diagnosis of conditions, and subsequently the speed and accuracy of screening. However, large-scale facial screening by human experts is laborious and requires specialised expertise. Hence, there is great value in the development of automated methods for feature extraction and decision making from facial Imagery in a health and well-being context 
 <br>
 
@@ -47,28 +46,36 @@ This project will also involve the exploration of attention weights produced by 
 Applications <br>
 The methods developed during this project have the potential to be used as a significantly cheaper alternative to RFID tagging systems for the tracking of individual-level pig weights when combined with either weighting platforms or camera-based pig weight estimation systems. This work could also be used as a foundation for the development of methods that can be applied to other livestock.
 
+**Semantic segmentation using a small, labelled dataset and larger, unlabelled dataset, producing predictions that incorporate uncertainty**
 
-**Visual focus of attention detection in an unconstrained environment**
+Introduction <br>
+A lack of high-quality volumetric medical imaging ground truth can limit the performance of neural networks, particularly around generalization to unseen data. As well as this semantic segmentation predictions lack uncertainty measures in the general case. 
 
-The visual focus of attention (VFOA) is this kind of human behaviour which is determined by eye gaze and head pose dynamics. We need to estimate the Gaze to determine where the visual focus of attention is. Gaze estimation can be applied to many scenarios, such as driving, and human-robot interaction. In addition, the detection of abnormal gaze is also widely used in the medical field. For example, in the standard of early screening and treatment of autism spectrum disorder (ASD), reduced eye contact is considered an important indicator. There is a robot-assisted system that can help with the treatment in the early stage of ASD. In this system, the robot needs to judge the child’s gaze information to give the corresponding response. If the robot wants to interact with humans, the robot needs to determine whether the gaze attention of the person is concentrated on the robot or not, this will help the robot to catch the timing of interacting with the human. 
+Explaining the Science <br>
+This project uses volumetric MRI data, resulting in memory-intensive, multi-day training runs, and trains networks in four separate configurations. Tuning requires a large number of hyper-parameters to balance supervised and unsupervised tasks. As such, access to Jade and its high-end GPUs is essential to the successful completion of this project. 
 
-The visual focus of attention detection as an important topic under the Human-Robot interaction scenes faced the huge challenge of low detection accuracy in real-world applications compared with laboratory scenes. Since most of the images obtained through the robot camera have no restrictions on the light source, posture, and scene. Recently, with the development of deep learning technology, the performance of visual focus of attention detection-based deep learning models has been significantly improved. We aim to build deep learning models that enable the robot to detect the visual focus of attention in an unconstrained environment in real-time. For achieving the aim, we need a larger dataset to train the deeper model we built, this needs a huge number of computational resources, and we would like to use Jade2 HPC to speed up our experiments and finish our study quickly. 
+Project aims <br>
+The approach was to develop a network whose properties should enable it to learn in a semi-supervised fashion from a small, labelled dataset and a larger dataset, such as is typically available in clinical settings, and that can produce uncertainty in labelling by generating plausible variations through generative mechanisms. 
 
-Up till now, we have already configured the environment on Jade2 to train models. For the next step, we will train the models we build, and enlarge the annotated training dataset to achieve better performance in our study. 
+Applications <br>
+Datasets typically available in clinical settings. 
+
+**Increasing the training efficiency of sophisticated function of mobile robots**
+
+Introduction <br>
+With the development of mobile robots, increasingly sophisticated functions are required in order to satisfy diverse application requirements. This work is likely to be the first method that involves a fuzzy system in the graph neural networks' attention mechanism in order to effectively employ a spatial relational inductive bias. 
+
+Explaining the Science <br>
+In this project, JADE is used to conduct reinforcement learning experiments based on customized OpenAI gym environments and FAM-GNN PPO algorithms. Several parallel environments are used as inputs to decrease the physical sampling time, and observations are then fed into the systems and CUDA in order to realise GPU training. The JADE HPC system increases the training efficiency and accelerates the experiment stage. 
+
+Project aims <br>
+As a sub-research domain of path planning, obstacle avoidance is one of the compulsory functionalities for ensuring the safety of both robots and environment. Inspired by existing work and in order to fill the research gap in obstacle avoidance applications, the project proposes a fuzzy attention mechanism (FAM) based graph neural network (GNN) architecture in order to realise representation learning based proximal policy optimisation (PPO) reinforcement learning structure. 
+
+Applications <br>
+Obstacle avoidance applications to ensure the safety of both robots and the environment. 
 
 ## Sucess Stories
-Graduates employed by companies such as Samsung, Amazon, AI research, Oracle, Arrival and Sony AI.
-<br>
-A PhD student from Oxford University obtained a prestigious internship with DeepMind. 
-<br>
-Generated collaboration with Unilever and associated CASE studentships
-<br>
-Supported a year long radio show (called in search of good ancestors) & associated public workshops
-<br>
-Supporting BBC Prosperity partnerships
-<br>
-Supporting EPSRC AI CDT's
-<br>
+
 Dr. Gangapurwala's work within Oxford University's Robotics Institute was demonstrated on a live Chevron facility:<br>
 [Oxford quadruped robot research-tested on a live Chevron facility](https://eng.ox.ac.uk/news/oxford-quadruped-robot-research-tested-on-a-live-chevron-facility/)
 <br>

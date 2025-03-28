@@ -5,8 +5,34 @@ layout: page
 permalink: "/access/"
 ---
 
-
 <hr />
+<h2 id="simple">JADE Important Service Information</h2>
+
+We would like to take the opportunity to remind you of the agreed timetable for the phased withdrawal of the JADE-2 Service.  
+
+This timetable has been agreed between University of Oxford (Professor Wes Armour), STFC Hartree Centre and representatives for the JADE community:
+
+<li>From 1st September 2024: No new groups or user accounts will be provisioned on the system.</li>
+<li>From 15th November 2024: Batch and interactive access to all compute resources will be withdrawn. [1]</li>
+<li>6th January 2025: All access to the service will be withdrawn and physical decommissioning of the system will commence.</li>
+<br>
+
+[1] Extended from the previously announced date of 1st November 2024. 
+
+At 4pm on Friday 15th November 2024, all job partitions (queues) will be set to "Inactive" thereby prohibiting job submission. Any jobs already dispatched at that time will run to completion but all "pending" jobs will be cancelled. 
+
+<b>Please be advised that vendor-based support for JADE-2's hardware components, including its primary storage appliance, has ended. Consequently, the service should now be considered “at risk”.</b>
+
+<b>Although it is intended that the system remains on-line through January 2025 to facilitate the retrieval of data, users are reminded of the urgency with which they should now attend to the migration of required files to a secondary location outside of JADE-2.</b>
+
+To accompany the withdrawal of the compute service for JADE-2, the level of corresponding user support available from the Hartree Centre will also reduce in scope and will focus on supporting users with their access to the system and to their data only.
+
+Note: Following the closure of the original "JADE" system (later referred to as "JADE-1" following the introduction of the "JADE-2" system), the newer "JADE-2" system is now the only system providing the "JADE" service. 
+
+With regard to continued GPU resource access, you should in the first instance check with your local insitutional RSE representitive, as listed on the <a href="https://www.jade.ac.uk/support/">Support</a> page.
+
+<!--- Old text
+
 <h2 id="simple">Introduction</h2>
 
 As agreed with EPSRC, the use of JADE is to be split approximately 50:30:20 between Machine/Deep Learning (ML), Molecular Dynamics (MD), and other applications, with up to 10% of the use being for research in non-EPSRC areas.

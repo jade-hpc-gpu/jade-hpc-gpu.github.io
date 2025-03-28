@@ -32,7 +32,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Dr Tomas Lazauskas
 
-**Institutional Support:** [Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas) 
+**Institutional Support:** [Dr Jim Madge](https://www.turing.ac.uk/people/researchers/jim-madge), [Dr Tomas Lazauskas](https://www.turing.ac.uk/people/researchers/tomas-lazauskas) 
 
 **Machine Learning at the Turing**
 
@@ -61,7 +61,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Dr Marc Modat
 
-**Institutional Support:** Richard Christie 
+**Institutional Support:** Professor Richard Christie 
 
 **Machine Learning and Related CDTs**
 
@@ -72,7 +72,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Professor Mark Sandler
 
-**Institutional Support:** Tom King
+**Institutional Support:** Mr Tom King
 
 **Research Centres using Machine Learning**
 
@@ -90,7 +90,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Dr Paul Richmond
 
-**Institutional Support:** Twin Karmakharm
+**Institutional Support:** Mr Twin Karmakharm
 
 **Machine Learning and Related CDTs**
 
@@ -110,7 +110,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Dr James Hetherington, Mr Denis Timm
 
-**Institutional Support:** Jonathan Cooper
+**Institutional Support:** Dr Jonathan Cooper
 
 **Machine Learning and Related CDTs**
 
@@ -121,7 +121,7 @@ permalink: /consortium/
 
 **Co-Investigators:** Dr Tom Haines
 
-**Institutional Support:** Mark Townsend 
+**Institutional Support:** Mr Mark Townsend 
 <br><br>
 
 ## University of Surrey
@@ -155,42 +155,42 @@ permalink: /consortium/
 
 ## Imperial College London
 
-**Co-Investigators:** Aldo Faisal 
+**Co-Investigators:** Dr, Ahmed Fetit, Professor Aldo Faisal 
 
 **Institutional Support:** Dr Dugan Witherick
 <br><br>
 
 ## Newcastle University
 
-**Co-Investigators:** Jaume Bacardit 
+**Co-Investigators:** Dr Jaume Bacardit 
 
-**Institutional Support:** Jaume Bacardit 
+**Institutional Support:** Dr Jaume Bacardit 
 <br><br>
 
 ## University of Sussex
 
-**Co-Investigators:** Thomas Nowotny 
+**Co-Investigators:** Professor Thomas Nowotny 
 
-**Institutional Support:** James Knight
+**Institutional Support:** Mr James Knight
 <br><br>
 
 ## University of Warwick
 
-**Co-Investigators:** Giovanni Montana 
+**Co-Investigators:** Professor Giovanni Montana 
 
-**Institutional Support:** Giovanni Montana 
+**Institutional Support:** Professor Giovanni Montana 
 <br><br>
 
 ## University of Exeter
 
-**Co-Investigators:** Tim Dodwell
+**Co-Investigators:** Professor Tim Dodwell
 
-**Institutional Support:** Omar Jamil 
+**Institutional Support:** Dr Omar Jamil 
 <br><br>
 
 ## Lancaster University
 
-**Co-Investigators:** Chris Jewell
+**Co-Investigators:** Dr Chris Jewell
 
 **Institutional Support:** Dr Robin Long, Dr Mike Pacey 
 
