@@ -4,25 +4,11 @@ layout: page
 permalink: "/support/"
 ---
 
-## JADE System Status ## 
 
-The current status of the JADE system is displayed on the [Hartree Centre Status page](https://stfc.service-now.com/hcssp?id=services_status).
-
-
-## JADE Documentation ## 
-
-JADE Quick Start Guide is available [here](http://www.jade.ac.uk/img/jade2_quick_start_guide.pdf) with thanks to Dr. Djordje Baljozovic from Bath University. 
-
-Documentation on common tasks and how to use JADE is available [here](http://jade-hpc.readthedocs.io/).
-
-## SAFE Account Support ##
-<!--This will help local users adopt the new facility, optimise their codes for this platform and hence maximise their scientific output from the machine. -->
-
-For issues with using your SAFE account on JADE, please contact the [Hartree helpdesk](https://stfc.service-now.com/hcssp). Note that this helpdesk only provides support in account management, for questions about using JADE instead contact your local institutional support and for technical queries about software/drivers please use the GitHub Issue tracker.
 
 ## Technical/Software Support ##
 
-If you have any technical questions or issues, please contact your local University RSE support in the first instance - see below for details. For common questions please see our [FAQ](https://www.jade.ac.uk/faqs/) page. If you have any general issues please use our [GitHub Issue tracker](https://github.com/jade-hpc-gpu/jade-hpc-gpu.github.io/issues).
+If you have any technical questions or issues, please contact your local University RSE support in the first instance - see below for details. For common questions please see our [FAQ](https://www.jade.ac.uk/faqs/) page. 
 
 ## Institutional Support ##
 
