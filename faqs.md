@@ -36,8 +36,6 @@ Currently, the local points of contact are listed on the main support page linke
 
 ## Where to raise requests for further support
 
-For issues with using your SAFE account on JADE, SSH keys, jobs failing or service availability, please contact the [Hartree helpdesk.](https://stfc.service-now.com/hcssp)
-
 For specialist questions relating to the use of JADE please contact your local institutional support in the first instance, information for which can be found here: <br>
 
 [Support (jade.ac.uk)](https://www.jade.ac.uk/support/) 
@@ -46,18 +44,4 @@ For technical queries about software/drivers please use the [GitHub Issue tracke
 
 ## Service availability
 
-For information on service availability, including scheduled maintenance, then please follow the link below to the Hartree Centre’s status page: 
-
-[Hartree Services Status - Hartree Centre Customer Portal (service-now.com)](https://stfc.service-now.com/hcssp?id=services_status)
-
-Hartree Centre scheduled maintenance occurs on the first and third Wednesday of each month. When specific packages of maintenance work are scheduled on these days, an announcement will be made via e-mail (subject to users having chosen not to opt out of informational e-mails) and the Hartree Centre Status Page will be updated accordingly.
-
-## Do the compute nodes have direct access to the Internet?
-
-No, and this is a design and implementation decision for the service and not one that will be changed. Please refer to your local RSE or the community support pages, in the first instance, if you require more information or support regarding approaches to working with this constraint.
-
-## Information for PIs and Project Managers
-
-The Information for PIs and Project Managers can be found using the link below: 
-
-[Information for PIs and Project Managers — JADE documentation](https://docs.jade.ac.uk/en/latest/jade/pi-projectmanager.html)
+When specific packages of maintenance work are scheduled, an announcement will be made via e-mail (subject to users having chosen not to opt out of informational e-mails) and the Message of the Day will be updated accordingly.
