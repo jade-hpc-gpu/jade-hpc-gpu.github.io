@@ -195,13 +195,13 @@ PLATFORMS
 
 DEPENDENCIES
   airspace-jekyll!
-  bundler (~> 1.12)
+  bundler
   github-pages (= 106)
   html-proofer
   jekyll
   jekyll-admin
   jekyll-paginate
-  rake (~> 10.0)
+  rake
 
 BUNDLED WITH
-   1.17.3
+   2.5.23
