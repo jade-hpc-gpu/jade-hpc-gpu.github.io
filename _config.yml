@@ -24,7 +24,7 @@ subtitle: "Joint Academic Data science Endeavour (JADE) System"
 url: "//jade-hpc-gpu.github.io"
 baseurl: ""
 paginate_path: "/blog/page:num/"
-logo: "/img/logo/jade_logo_small.png"
+logo: "/img/logo/JADE__2.5_Logo.svg"
 
 # Build settings
 markdown: kramdown
