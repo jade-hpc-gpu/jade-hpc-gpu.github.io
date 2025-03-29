@@ -79,12 +79,13 @@ This system design is also ideal for a large number of molecular dynamics applic
     <ul style="list-style-type:disc;">
         <li>3 Lenovo <a href="https://www.lenovo.com/gb/en/p/servers-storage/servers/racks/thinksystem-sr685a-v3-rack-server/len21ts0031">ThinkSystem SR685a V3</a> comprising:
             <ol style="list-style-type:circle">
-                <li>2 of AMD EPYC 9534 64-Core CPUs</li>
-                <li>8 of AMD's <a href="https://www.amd.com/en/products/accelerators/instinct/mi300/mi300x.html">Instinct&trade; MI300x</a> GPUs</li>
-                <li>10 TB of SSD for machine learning datasets</li>
+                <li>2× AMD EPYC 9534 64-Core CPUs</li>
+                <li>8× AMD <a href="https://www.amd.com/en/products/accelerators/instinct/mi300/mi300x.html">Instinct&trade; MI300x</a> GPUs</li>
+		<li>Fast GPU interconnect with AMD’s Infinity Fabric</li>
+                <li>10 TB of internal SSD for machine learning datasets</li>
             </ol>
         </li>
-        <li>over 3 PB of NetApp storage as well as 700 TB of <a href="https://weka.io/">WEKA FS</a> NVMe storage</li>
+        <li>over 3 PB of NetApp storage as well as 700 TB of <a href="https://weka.io/">WEKA FS</a> NVMe scratch storage</li>
         <li>Mellanox/NVidia dual NDR 200 Gbit/s networking</li>
         <li>optimised versions of major machine learning software packages such as Caffe, TensorFlow, Theano and Torch</li>
         <li>system integration/delivery by <a href="https://lenovo.com">Lenovo</a>, hosting by <a href="https://www.arc.ox.ac.uk/">Oxford ARC</a></li>
