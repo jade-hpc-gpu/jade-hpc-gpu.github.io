@@ -23,7 +23,7 @@ table.GeneratedTable td, table.GeneratedTable th {
   padding: 3px;
 }
 
-table.GeneratedTable th.presentationhead {
+table.GeneratedTable tr.presentationhead {
   margin-top: 20px;
 }
 table.GeneratedTable td.speaker {
