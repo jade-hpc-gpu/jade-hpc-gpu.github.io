@@ -41,7 +41,7 @@ td.bio, td.pres, td.line  {
 
   <h2 style="text-align: center;">Speakers and Presentation Slides</h2>
 
-<p></p>
+<p>&nbsp;</p>
 
 <table class="GeneratedTable">
   <tr class='presentationhead'>
@@ -56,10 +56,23 @@ td.bio, td.pres, td.line  {
 <p>Sergio has also contributed to Coursera courses on Deep Learning with Tensorflow, with more than 50k students worldwide. These courses also form part of the MSc in Machine Learning at Imperial College London. Sergio is also an active researcher publishing at the frontier of AI and scientific computing, having recently published as first-author at conferences like NeurIPS.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presention:</b> How NVIDIA Enables Scientific Breakthroughs Today</td>
+    <td class='pres'><b>Presentation:</b> How NVIDIA Enables Scientific Breakthroughs Today</td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
     
+  <tr class='presentationhead'>
+    <td class='speaker'>Dave Cable</td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" height="40px"/></td>
+  </tr>
+  <tr>
+    <td class='bio'><p>With more than 30 years’ experience in managing compute and data systems Dave Cable is the Hartree Centre’s lead on infrastructure and compliance matters. He is accountable for the operation, maintenance, and support of Hartree Centre’s large-scale computing platforms. These services are delivered through three operational groups: Technical Solutions and Operations, Customer Services, and Compliance.</p>
+
+<p>Dave is also accountable for the operation of Hartree Centre’s integrated management system which encompasses quality (ISO9001) and information security (ISO27001). Dave is currently the senior user representing Hartree Centre’s requirements in the construction of a new SuperComputing Centre (SCC) at STFC Daresbury Laboratory</p>
+  </tr>
+  <tr>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+  </tr>
+  <tr><td colspan='2'><hr/></td></tr>
 </table>
 <br>
 <br>
