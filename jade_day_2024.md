@@ -33,9 +33,14 @@ table.GeneratedTable td.speaker {
 table.GeneratedTable td.inst_logo {
   text-align: right;
 }
+td.bio, td.pres, td.line  {
+  column-span: all;
+}
 </style>
 
   <h2 style="text-align: center;">Speakers and Presentation Slides</h2>
+
+<p></p>
 
 <table class="GeneratedTable">
   <tr class='presentationhead'>
@@ -43,15 +48,16 @@ table.GeneratedTable td.inst_logo {
     <td class='inst_logo'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="40px"/></td>
   </tr>
   <tr>
-    <td colspan="2"><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
+    <td class='bio'><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
 
 <p>At NVIDIA, Sergio works alongside AI developers in public supercomputer centres and sectors such as energy, automotive, finance, telecommunications, and internet services. He has contributed to production applications of LLMs covering RAG systems, optimization of inference servers, pre-training of LLMs from scratch, custom evaluation of LLMs and quantisation leveraging FP8 formats.</p>
 
 <p>Sergio has also contributed to Coursera courses on Deep Learning with Tensorflow, with more than 50k students worldwide. These courses also form part of the MSc in Machine Learning at Imperial College London. Sergio is also an active researcher publishing at the frontier of AI and scientific computing, having recently published as first-author at conferences like NeurIPS.</p></td>
   </tr>
   <tr>
-    <td colspan="2"><b>Presention:</b> How NVIDIA Enables Scientific Breakthroughs Today</td>
+    <td class='pres'><b>Presention:</b> How NVIDIA Enables Scientific Breakthroughs Today</td>
   </tr>
+  <tr><td class='line'><hr/></td></tr>
     
 </table>
 <br>
