@@ -45,7 +45,7 @@ td.bio, td.pres, td.line  {
 <table class="GeneratedTable">
   <tr class='presentationhead'>
     <td class='speaker'>Keynote: Dr Sergio Perez</td>
-    <td class='inst_logo'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="40px"/></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="40px"/></td>
   </tr>
   <tr>
     <td class='bio'><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
@@ -57,7 +57,7 @@ td.bio, td.pres, td.line  {
   <tr>
     <td class='pres'><b>Presention:</b> How NVIDIA Enables Scientific Breakthroughs Today</td>
   </tr>
-  <tr><td class='line'><hr/></td></tr>
+  <tr><td colspan='2'><hr/></td></tr>
     
 </table>
 <br>
