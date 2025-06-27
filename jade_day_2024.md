@@ -142,10 +142,4 @@ Xiaowen Dong is an associate professor in the Department of Engineering Science 
 
 <br>
 <br>
-<center>
-For more information about our speakers alongside information on the venue, programme and structure of the day, please see the <a href="https://web.cvent.com/event/79e39f00-b1ae-43c5-994f-7034bbfa0f6f/websitePage:fe32024b-fe86-4985-a3a7-d69cffec675b">JADE Day website</a>.
-</center>
-<br>
-<br>
-<center><img src="{{ site.baseurl }}/img/JADE_Day_images2.png" alt="" width="100%" height="100%" /></center>&nbsp;&nbsp;
 
