@@ -46,7 +46,7 @@ td.bio, td.pres, td.line  {
 <table class="GeneratedTable">
   <tr class='presentationhead'>
     <td class='speaker'>Keynote: Dr Sergio Perez</td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="40px"/></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" width="200px"/></td>
   </tr>
   <tr>
     <td class='bio'><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
@@ -62,7 +62,7 @@ td.bio, td.pres, td.line  {
     
   <tr class='presentationhead'>
     <td class='speaker'>Dave Cable</td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" height="40px"/></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
   </tr>
   <tr>
     <td class='bio'><p>With more than 30 years’ experience in managing compute and data systems Dave Cable is the Hartree Centre’s lead on infrastructure and compliance matters. He is accountable for the operation, maintenance, and support of Hartree Centre’s large-scale computing platforms. These services are delivered through three operational groups: Technical Solutions and Operations, Customer Services, and Compliance.</p>
