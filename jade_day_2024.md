@@ -45,7 +45,7 @@ td.bio, td.pres, td.line  {
 
 <table class="GeneratedTable">
   <tr class='presentationhead'>
-    <td class='speaker'>Keynote: Dr Sergio Perez</td>
+    <td class='speaker'>Keynote: Dr Sergio Perez (NVidia)</td>
     <td class='inst_logo' rowspan='2'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" width="200px"/></td>
   </tr>
   <tr>
@@ -61,13 +61,76 @@ td.bio, td.pres, td.line  {
   <tr><td colspan='2'><hr/></td></tr>
     
   <tr class='presentationhead'>
-    <td class='speaker'>Dave Cable</td>
+    <td class='speaker'>Dave Cable (STFC Hartree Centre)</td>
     <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
   </tr>
   <tr>
     <td class='bio'><p>With more than 30 years’ experience in managing compute and data systems Dave Cable is the Hartree Centre’s lead on infrastructure and compliance matters. He is accountable for the operation, maintenance, and support of Hartree Centre’s large-scale computing platforms. These services are delivered through three operational groups: Technical Solutions and Operations, Customer Services, and Compliance.</p>
 
 <p>Dave is also accountable for the operation of Hartree Centre’s integrated management system which encompasses quality (ISO9001) and information security (ISO27001). Dave is currently the senior user representing Hartree Centre’s requirements in the construction of a new SuperComputing Centre (SCC) at STFC Daresbury Laboratory</p></td>
+  </tr>
+  <tr>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+  </tr>
+  <tr><td colspan='2'><hr/></td></tr>
+
+  <tr class='presentationhead'>
+    <td class='speaker'>Professor Stephen Roberts (University of Oxford)</td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/oxford_logo.gif" alt="University of Oxford Logo" width="200px"/></td>
+  </tr>
+  <tr>
+    <td class='bio'><p>Steve Roberts is Professor of Machine Learning in the Information Engineering Group at Oxford. He is a Fellow of the Royal Academy of Engineering, the Royal Statistical Society, the IET & ELLIS.eu and is co-founder of the Oxford spin-out company Mind Foundry.</p>
+      <p>He was Director of the Oxford-Man Institute of Quantitative Finance (2015-2021) and founding-Director of the Centre for Doctoral Training in Autonomous Intelligent Machines and Systems in 2015.</p>
+      <p>Steve is PI of Oxford’s Eric & Wendy Schmidt AI in Science Programme, co-lead of the Intelligent Earth Centre for Doctoral Training and Director of the Oxford-Martin School Programme on AI Security.</p>
+      <p>His interests lie in the theory, methodology and application of machine learning to large-scale, real-world problem domains. His current research includes theory and methodology as well as applications in astrophysics, AI model safety, security & resilience, climate & environment, ecology, finance and engineering systems.</p></td>
+  </tr>
+  <tr>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/sr_jade_2024.pdf'>Instability is all you need - the surprising dynamics of learning in deep models</a></td>
+  </tr>
+  <tr><td colspan='2'><hr/></td></tr>
+
+  <tr class='presentationhead'>
+    <td class='speaker'></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+  </tr>
+  <tr>
+    <td class='bio'><p></p></td>
+  </tr>
+  <tr>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+  </tr>
+  <tr><td colspan='2'><hr/></td></tr>
+
+  <tr class='presentationhead'>
+    <td class='speaker'></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+  </tr>
+  <tr>
+    <td class='bio'><p></p></td>
+  </tr>
+  <tr>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+  </tr>
+  <tr><td colspan='2'><hr/></td></tr>
+
+  <tr class='presentationhead'>
+    <td class='speaker'></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+  </tr>
+  <tr>
+    <td class='bio'><p></p></td>
+  </tr>
+  <tr>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+  </tr>
+  <tr><td colspan='2'><hr/></td></tr>
+
+  <tr class='presentationhead'>
+    <td class='speaker'></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+  </tr>
+  <tr>
+    <td class='bio'><p></p></td>
   </tr>
   <tr>
     <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
