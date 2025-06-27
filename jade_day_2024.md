@@ -32,6 +32,7 @@ table.GeneratedTable td.speaker {
 }
 table.GeneratedTable td.inst_logo {
   text-align: right;
+  vertical-align: top;
 }
 td.bio, td.pres, td.line  {
   column-span: all;
