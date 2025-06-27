@@ -67,13 +67,15 @@ td.bio, td.pres, td.line  {
   <tr>
     <td class='bio'><p>With more than 30 years’ experience in managing compute and data systems Dave Cable is the Hartree Centre’s lead on infrastructure and compliance matters. He is accountable for the operation, maintenance, and support of Hartree Centre’s large-scale computing platforms. These services are delivered through three operational groups: Technical Solutions and Operations, Customer Services, and Compliance.</p>
 
-<p>Dave is also accountable for the operation of Hartree Centre’s integrated management system which encompasses quality (ISO9001) and information security (ISO27001). Dave is currently the senior user representing Hartree Centre’s requirements in the construction of a new SuperComputing Centre (SCC) at STFC Daresbury Laboratory</p>
+<p>Dave is also accountable for the operation of Hartree Centre’s integrated management system which encompasses quality (ISO9001) and information security (ISO27001). Dave is currently the senior user representing Hartree Centre’s requirements in the construction of a new SuperComputing Centre (SCC) at STFC Daresbury Laboratory</p></td>
   </tr>
   <tr>
     <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
+
 </table>
+
 <br>
 <br>
 <center>
