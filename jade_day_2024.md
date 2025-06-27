@@ -28,9 +28,9 @@ table.GeneratedTable td, table.GeneratedTable th {
   <h5 style="text-align: center;">Speakers and Presentation Slides</h5>
 
 <table class="GeneratedTable">
-  <tr style="height:200px">
+  <tr>
     <td align="left">Keynote: Dr Sergio Perez</td>
-    <td aligh="right"><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="3em"/></td>
+    <td aligh="right"><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="20px"/></td>
   </tr>
   <tr>
     <td colspan="2"><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
