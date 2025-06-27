@@ -23,14 +23,24 @@ table.GeneratedTable td, table.GeneratedTable th {
   padding: 3px;
 }
 
+table.GeneratedTable th.presentationhead {
+  margin-top: 20px;
+}
+table.GeneratedTable td.speaker {
+  text-align: left;
+  font-weight: bold;
+}
+table.GeneratedTable td.inst_logo {
+  text-align: right;
+}
 </style>
 
   <h2 style="text-align: center;">Speakers and Presentation Slides</h2>
 
 <table class="GeneratedTable">
-  <tr style='margin-top: 20px;'>
-    <td align="left">Keynote: Dr Sergio Perez</td>
-    <td align="right"><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="40px"/></td>
+  <tr class='presentationhead'>
+    <td class='speaker'>Keynote: Dr Sergio Perez</td>
+    <td class='inst_logo'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="40px"/></td>
   </tr>
   <tr>
     <td colspan="2"><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
