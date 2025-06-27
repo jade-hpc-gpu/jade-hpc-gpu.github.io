@@ -45,18 +45,11 @@ td.bio, td.pres, td.line  {
 
 <table class="GeneratedTable">
   <tr class='presentationhead'>
-    <td class='speaker'>Keynote: Dr Sergio Perez (NVidia)</td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" width="200px"/></td>
+    <td class='speaker'>Welcome &amp; Introdution: Profession Wes Armor (University of Oxford)</td>
+    <td class='inst_logo'><img src="/img/logo/oxford-logo.png" alt="University of Oxford Logo" width="200px"/></td>
   </tr>
   <tr>
-    <td class='bio'><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
-
-<p>At NVIDIA, Sergio works alongside AI developers in public supercomputer centres and sectors such as energy, automotive, finance, telecommunications, and internet services. He has contributed to production applications of LLMs covering RAG systems, optimization of inference servers, pre-training of LLMs from scratch, custom evaluation of LLMs and quantisation leveraging FP8 formats.</p>
-
-<p>Sergio has also contributed to Coursera courses on Deep Learning with Tensorflow, with more than 50k students worldwide. These courses also form part of the MSc in Machine Learning at Imperial College London. Sergio is also an active researcher publishing at the frontier of AI and scientific computing, having recently published as first-author at conferences like NeurIPS.</p></td>
-  </tr>
-  <tr>
-    <td class='pres'><b>Presentation:</b> How NVIDIA Enables Scientific Breakthroughs Today</td>
+    <td class='pres'><b>Presentation:</b> <a href='/img/wa_jade_2024.pdf'>Introduction &amp; Welcome</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
     
@@ -90,50 +83,58 @@ td.bio, td.pres, td.line  {
   <tr><td colspan='2'><hr/></td></tr>
 
   <tr class='presentationhead'>
-    <td class='speaker'></td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+    <td class='speaker'>Professor Xiaowen Dong (University of Oxford)</td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/oxford-logo.gif" alt="University of Oxford Logo" width="200px"/></td>
   </tr>
   <tr>
-    <td class='bio'><p></p></td>
+    <td class='bio'><p>Associate Professor at the Department of Engineering Science, University of Oxford, Member of ML Research Group & Oxford-Man Institute
+Xiaowen Dong is an associate professor in the Department of Engineering Science at the University of Oxford, where he is a member of both the Machine Learning Research Group and the Oxford-Man Institute.</p>
+      <p>Prior to joining Oxford, he was a postdoctoral associate in the MIT Media Lab, and received his PhD degree from the Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland. His main research interests concern signal processing and machine learning techniques for analysing data with complex structures, as well as their applications in social, urban, and financial network analysis.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/xd_jade_2024.pdf'>Recent advances in learning with graphs</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
 
   <tr class='presentationhead'>
-    <td class='speaker'></td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+    <td class='speaker'>David Llewellyn-Jones (The Alan Turing Institute)</td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/turing-logo.png" alt="The Alan Turing Institute Logo" width="200px"/></td>
   </tr>
   <tr>
-    <td class='bio'><p></p></td>
+    <td class='bio'><p>David is a Research Data Scientist at The Alan Turing Institute. In previous lives he's worked in industry as a computer games programmer and developer of a commercial Linux-based smartphone operating system.</p>
+      <p>David has a BA in Maths and Philosophy from Oxford and a PhD in Mathematical Model Theory from Birmingham. The majority of his research career was spent as a Reader in Computer Security at Liverpool John Moores University followed by stint at the Department of Computing Science and Technology in Cambridge.</p>
+      <p>Currently David is part of the Research Computing Platforms team within the Research Engineering Group at The Alan Turing Institute. The team's job is to support researchers to gain access and make full use of cloud and HPC platforms. In AI this typically involves tackling the challenges of effective distributed computation.</p>
+      <p>David is passionate about open source and open research. He's involved in open source software development and the mobile Linux open source community. He's especially interested in the increasing intersection between open source, HPC and mobile Linux development.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+    <td class='pres'><b>Presentation:</b> Collaborative Computing: JADE's Impact at the Alan Turing Institute</td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
 
   <tr class='presentationhead'>
-    <td class='speaker'></td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+    <td class='speaker'>Yishun Lu (University of Oxford)</td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/oxford-logo.gif" alt="University of Oxford Logo" width="200px"/></td>
   </tr>
   <tr>
-    <td class='bio'><p></p></td>
+    <td class='bio'><p>Yishun Lu is a final-year DPhil student at the Oxford e-Research Centre. He completed a four-year master’s degree in engineering at Hertford College, University of Oxford.</p>
+      <p>His research focuses on high-performance computing and AI for Science (AI4S), with a passion for applying AI to tackle challenges in efficient computing and scientific research.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+    <td class='pres'><b>Presentation:</b>  <a href='/img/yl_jade_2024.pdf'>AI-Driven Voxel-wise Segmentation Pipeline for X-ray Tomography in Crystallography</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
 
   <tr class='presentationhead'>
-    <td class='speaker'></td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/hartree_logo.png" alt="STFC Hartree Logo" width="200px"/></td>
+    <td class='speaker'>Keynote: Dr Sergio Perez (NVidia)</td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/Nvidia_logo.png" alt="Nvidia Logo" width="200px"/></td>
   </tr>
   <tr>
-    <td class='bio'><p></p></td>
+    <td class='bio'><p>Dr Sergio Perez is a Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his President's PhD Scholar in computational fluid dynamics from Imperial College London and worked as an AI engineer at Graphcore and Amazon.</p>
+      <p>At NVIDIA, Sergio works alongside AI developers in public supercomputer centres and sectors such as energy, automotive, finance, telecommunications, and internet services. He has contributed to production applications of LLMs covering RAG systems, optimization of inference servers, pre-training of LLMs from scratch, custom evaluation of LLMs and quantisation leveraging FP8 formats.</p>
+      <p>Sergio has also contributed to Coursera courses on Deep Learning with Tensorflow, with more than 50k students worldwide. These courses also form part of the MSc in Machine Learning at Imperial College London. Sergio is also an active researcher publishing at the frontier of AI and scientific computing, having recently published as first-author at conferences like NeurIPS.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b>  <a href='/img/djc_jade_2024.pdf'>Reflections on the JADE service</a></td>
+    <td class='pres'><b>Presentation:</b> How NVIDIA Enables Scientific Breakthroughs Today</td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
 
