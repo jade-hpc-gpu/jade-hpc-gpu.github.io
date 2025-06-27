@@ -24,7 +24,7 @@ table.GeneratedTable td, table.GeneratedTable th {
 }
 
 table.GeneratedTable tr.presentationhead {
-  margin-top: 20px;
+  padding-top: 20px;
 }
 table.GeneratedTable td.speaker {
   text-align: left;
