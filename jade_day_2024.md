@@ -25,10 +25,10 @@ table.GeneratedTable td, table.GeneratedTable th {
 
 </style>
 
-  <h5 style="text-align: center;">Speakers and Presentation Slides</h5>
+  <h2 style="text-align: center;">Speakers and Presentation Slides</h2>
 
 <table class="GeneratedTable">
-  <tr>
+  <tr style='margin-top: 20px;'>
     <td align="left">Keynote: Dr Sergio Perez</td>
     <td align="right"><img src="/img/logo/Nvidia_logo.png" alt="Nivida Logo" height="40px"/></td>
   </tr>
