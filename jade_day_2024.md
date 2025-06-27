@@ -76,7 +76,7 @@ td.bio, td.pres, td.line  {
 
   <tr class='presentationhead'>
     <td class='speaker'>Professor Stephen Roberts (University of Oxford)</td>
-    <td class='inst_logo' rowspan='2'><img src="/img/logo/oxford_logo.gif" alt="University of Oxford Logo" width="200px"/></td>
+    <td class='inst_logo' rowspan='2'><img src="/img/logo/oxford-logo.gif" alt="University of Oxford Logo" width="200px"/></td>
   </tr>
   <tr>
     <td class='bio'><p>Steve Roberts is Professor of Machine Learning in the Information Engineering Group at Oxford. He is a Fellow of the Royal Academy of Engineering, the Royal Statistical Society, the IET & ELLIS.eu and is co-founder of the Oxford spin-out company Mind Foundry.</p>
