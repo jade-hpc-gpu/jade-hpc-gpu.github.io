@@ -51,7 +51,7 @@ table.GeneratedTable thead {
       <td>CUDA Programming on NVIDIA's GPU's</td>
       <td>University of Oxford</td>
       <td>21/07/2025 - 25/07/2025</td>   
-     <td><a href="https://people.maths.ox.ac.uk/gilesm/cuda/">Open</a></td>  
+     <td><a href="https://people.maths.ox.ac.uk/gilesm/cuda/">Closed</a></td>  
     </tr>
    
   </tbody>
