@@ -78,7 +78,7 @@ td.bio, td.pres, td.line  {
       <p>His interests lie in the theory, methodology and application of machine learning to large-scale, real-world problem domains. His current research includes theory and methodology as well as applications in astrophysics, AI model safety, security & resilience, climate & environment, ecology, finance and engineering systems.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b>  <a href='/img/sr_jade_2024.pdf'>Instability is all you need - the surprising dynamics of learning in deep models</a></td>
+    <td class='pres'><b>Presentation:</b> <a href='/img/sr_jade_2024.pdf'>Instability is all you need - the surprising dynamics of learning in deep models</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
 
@@ -92,7 +92,7 @@ Xiaowen Dong is an associate professor in the Department of Engineering Science 
       <p>Prior to joining Oxford, he was a postdoctoral associate in the MIT Media Lab, and received his PhD degree from the Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland. His main research interests concern signal processing and machine learning techniques for analysing data with complex structures, as well as their applications in social, urban, and financial network analysis.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b>  <a href='/img/xd_jade_2024.pdf'>Recent advances in learning with graphs</a></td>
+    <td class='pres'><b>Presentation:</b> <a href='/img/xd_jade_2024.pdf'>Recent advances in learning with graphs</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
 
@@ -107,7 +107,7 @@ Xiaowen Dong is an associate professor in the Department of Engineering Science 
       <p>David is passionate about open source and open research. He's involved in open source software development and the mobile Linux open source community. He's especially interested in the increasing intersection between open source, HPC and mobile Linux development.</p></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b> Collaborative Computing: JADE's Impact at the Alan Turing Institute</td>
+    <td class='pres'><b>Presentation:</b> <a href='/img/dlj_jade_2024.pdf'>Collaborative Computing: JADE's Impact at the Alan Turing Institute</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
 
