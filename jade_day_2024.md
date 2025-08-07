@@ -49,7 +49,7 @@ td.bio, td.pres, td.line  {
     <td class='inst_logo' rowspan='2'><img src="/img/logo/oxford-logo.gif" alt="University of Oxford Logo" width="200px"/></td>
   </tr>
   <tr>
-    <td class='pres'><b>Presentation:</b> <a href='/img/wa_jade_2024.pdf'>Introduction &amp; Welcome</a></td>
+    <td class='pres'><b>Presentation:</b> <a href='/img/wa_jade_2024.pdf'>Welcome &amp; Introduction</a></td>
   </tr>
   <tr><td colspan='2'><hr/></td></tr>
     
