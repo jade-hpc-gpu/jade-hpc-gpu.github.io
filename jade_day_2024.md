@@ -45,7 +45,7 @@ td.bio, td.pres, td.line  {
 
 <table class="GeneratedTable">
   <tr class='presentationhead'>
-    <td class='speaker'>Welcome &amp; Introdution: Profession Wes Armor (University of Oxford)</td>
+    <td class='speaker'>Welcome &amp; Introduction: Professor Wes Armor (University of Oxford)</td>
     <td class='inst_logo' rowspan='2'><img src="/img/logo/oxford-logo.gif" alt="University of Oxford Logo" width="200px"/></td>
   </tr>
   <tr>
