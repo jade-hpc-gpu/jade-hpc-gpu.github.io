@@ -70,7 +70,17 @@ table.GeneratedTable thead {
 
   <tbody>
 
-  
+  <tr>
+      
+       <td>AMD Training</td>
+
+      <td>Online</td>
+
+      <td>TBC</td>
+      
+      <td>TBC</td>
+
+    </tr>
 
     <tr>
       
